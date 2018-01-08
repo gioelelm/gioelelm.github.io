@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on GIOELE LA MANNO</title>
+    <link>gioelelamanno.com/publication/</link>
+    <description>Recent content in Publications on GIOELE LA MANNO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="gioelelamanno.com/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Induction of functional dopamine neurons from human astrocytes in vitro and mouse astrocytes in a Parkinson&#39;s disease model</title>
+      <link>gioelelamanno.com/publication/pia/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>gioelelamanno.com/publication/pia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular diversity of midbrain development in mouse, human, and stem cells</title>
+      <link>gioelelamanno.com/publication/midbrain/</link>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gioelelamanno.com/publication/midbrain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visceral motor neuron diversity delineates a cellular basis for nipple-and pilo-erection muscle control</title>
+      <link>gioelelamanno.com/publication/visceral/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gioelelamanno.com/publication/visceral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell transcriptomics reveals that differentiation and spatial signatures shape epidermal and hair follicle heterogeneity</title>
+      <link>gioelelamanno.com/publication/keratin/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gioelelamanno.com/publication/keratin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oligodendrocyte heterogeneity in the mouse juvenile and adult central nervous system</title>
+      <link>gioelelamanno.com/publication/oligo/</link>
+      <pubDate>Fri, 10 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gioelelamanno.com/publication/oligo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell types in the mouse cortex and hippocampus revealed by single-cell RNA-seq</title>
+      <link>gioelelamanno.com/publication/cortex/</link>
+      <pubDate>Fri, 06 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>gioelelamanno.com/publication/cortex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative single-cell RNA-seq with unique molecular identifiers</title>
+      <link>gioelelamanno.com/publication/umi/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>gioelelamanno.com/publication/umi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

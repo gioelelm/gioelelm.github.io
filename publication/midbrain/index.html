@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.32.2" />
+  <meta name="author" content="Gioele La Manno">
+
+  
+  
+  
+  
+    
+      
+    
+  
+  <meta name="description" content="Understanding human embryonic ventral midbrain is of major interest for Parkinson’s disease. However, the cell types, their gene expression dynamics, and their relationship to commonly used rodent models remain to be defined. We performed single-cell RNA sequencing to examine ventral midbrain development in human and mouse. We found 25 molecularly defined human cell types, including five subtypes of radial glia-like cells and four progenitors. In the mouse, two mature fetal dopaminergic neuron subtypes diversified into five adult classes during postnatal development. Cell types and gene expression were generally conserved across species, but with clear differences in cell proliferation, developmental timing, and dopaminergic neuron development. Additionally, we developed a method to quantitatively assess the fidelity of dopaminergic neurons derived from human pluripotent stem cells, at a single-cell level. Thus, our study provides insight into the molecular programs controlling human midbrain development and provides a foundation for the development of cell replacement therapies.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="gioelelamanno.com/publication/midbrain/">
+
+  
+
+
+  
+
+  
+  
+  <meta name="theme-color" content="#0095eb">
+  
+  
+  
+  
+    
+  
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.1/css/academicons.min.css" integrity="sha512-NThgw3XKQ1absAahW6to7Ey42uycrVvfNfyjqcFNgCmOCQ5AR4AO0SiXrN+8ZtYeappp56lk1WtvjVmEa+VR6A==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  
+  
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
+  
+  <link rel="stylesheet" href="/gioelelamanno.com/styles.css">
+  
+
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-112089742-1', 'auto');
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+
+  
+  <link rel="alternate" href="gioelelamanno.com/index.xml" type="application/rss+xml" title="GIOELE LA MANNO">
+  <link rel="feed" href="gioelelamanno.com/index.xml" type="application/rss+xml" title="GIOELE LA MANNO">
+  
+
+  <link rel="manifest" href="/gioelelamanno.com/site.webmanifest">
+  <link rel="icon" type="image/png" href="/gioelelamanno.com/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/gioelelamanno.com/img/icon-192.png">
+
+  <link rel="canonical" href="gioelelamanno.com/publication/midbrain/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@GioeleLaManno">
+  <meta property="twitter:creator" content="@GioeleLaManno">
+  
+  <meta property="og:site_name" content="GIOELE LA MANNO">
+  <meta property="og:url" content="gioelelamanno.com/publication/midbrain/">
+  <meta property="og:title" content="Molecular diversity of midbrain development in mouse, human, and stem cells | GIOELE LA MANNO">
+  <meta property="og:description" content="Understanding human embryonic ventral midbrain is of major interest for Parkinson’s disease. However, the cell types, their gene expression dynamics, and their relationship to commonly used rodent models remain to be defined. We performed single-cell RNA sequencing to examine ventral midbrain development in human and mouse. We found 25 molecularly defined human cell types, including five subtypes of radial glia-like cells and four progenitors. In the mouse, two mature fetal dopaminergic neuron subtypes diversified into five adult classes during postnatal development. Cell types and gene expression were generally conserved across species, but with clear differences in cell proliferation, developmental timing, and dopaminergic neuron development. Additionally, we developed a method to quantitatively assess the fidelity of dopaminergic neurons derived from human pluripotent stem cells, at a single-cell level. Thus, our study provides insight into the molecular programs controlling human midbrain development and provides a foundation for the development of cell replacement therapies."><meta property="og:image" content="/img/headers/singlemolfish.jpg">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2016-10-06T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2016-10-06T00:00:00&#43;00:00">
+  
+
+  
+
+  <title>Molecular diversity of midbrain development in mouse, human, and stem cells | GIOELE LA MANNO</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="/gioelelamanno.com/">GIOELE LA MANNO</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/gioelelamanno.com/#featured">
+            
+            <span>Featured</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/gioelelamanno.com/#about">
+            
+            <span>About me</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/gioelelamanno.com/#media">
+            
+            <span>Outreach</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="/gioelelamanno.com/#publications_selected">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+      
+
+      
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+<div class="article-header">
+  <img src="/gioelelamanno.com/img/headers/singlemolfish.jpg" class="article-banner" itemprop="image">
+  <span class="article-header-caption">My caption 😄</span>
+</div>
+
+
+
+  <div class="container pub-title">
+    <h1 itemprop="name">Molecular diversity of midbrain development in mouse, human, and stem cells</h1>
+    <span class="pub-authors" itemprop="author">
+      
+      Gioele La Manno, Daniel Gyllborg, Simone Codeluppi, Kaneyasu Nishimura, Carmen Salto, Amit Zeisel, Lars E Borm, Simon RW Stott, Enrique M Toledo, J Carlos Villaescusa, Peter Lönnerberg, Jesper Ryge, Roger A Barker, Ernest Arenas, Sten Linnarsson
+      
+    </span>
+    <span class="pull-right">
+      
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Molecular%20diversity%20of%20midbrain%20development%20in%20mouse%2c%20human%2c%20and%20stem%20cells&amp;url=gioelelamanno.com%2fpublication%2fmidbrain%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=gioelelamanno.com%2fpublication%2fmidbrain%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=gioelelamanno.com%2fpublication%2fmidbrain%2f&amp;title=Molecular%20diversity%20of%20midbrain%20development%20in%20mouse%2c%20human%2c%20and%20stem%20cells"
+         target="_blank" rel="noopener">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=gioelelamanno.com%2fpublication%2fmidbrain%2f&amp;title=Molecular%20diversity%20of%20midbrain%20development%20in%20mouse%2c%20human%2c%20and%20stem%20cells"
+         target="_blank" rel="noopener">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Molecular%20diversity%20of%20midbrain%20development%20in%20mouse%2c%20human%2c%20and%20stem%20cells&amp;body=gioelelamanno.com%2fpublication%2fmidbrain%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+    </span>
+  </div>
+
+  <div class="article-container">
+
+    
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Understanding human embryonic ventral midbrain is of major interest for Parkinson’s disease. However, the cell types, their gene expression dynamics, and their relationship to commonly used rodent models remain to be defined. We performed single-cell RNA sequencing to examine ventral midbrain development in human and mouse. We found 25 molecularly defined human cell types, including five subtypes of radial glia-like cells and four progenitors. In the mouse, two mature fetal dopaminergic neuron subtypes diversified into five adult classes during postnatal development. Cell types and gene expression were generally conserved across species, but with clear differences in cell proliferation, developmental timing, and dopaminergic neuron development. Additionally, we developed a method to quantitatively assess the fidelity of dopaminergic neurons derived from human pluripotent stem cells, at a single-cell level. Thus, our study provides insight into the molecular programs controlling human midbrain development and provides a foundation for the development of cell replacement therapies.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
+          <div class="col-xs-12 col-sm-9">
+            
+            <a href="/gioelelamanno.com/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
+          <div class="col-xs-12 col-sm-9"><em>Cell</em> 167 2 566-580, Cell Press</div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+    
+
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+          <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+            October, 2016
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="row" style="padding-top: 10px">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+          <div class="col-xs-12 col-sm-9">
+
+            
+
+
+
+
+<a class="btn btn-primary btn-outline" href="https://ac.els-cdn.com/S0092867416313095/1-s2.0-S0092867416313095-main.pdf?_tid=b55fa354-f40b-11e7-be66-00000aab0f26&amp;acdnat=1515371858_f1aa74b0a6bf30ec2a3485c7aa4ff18c" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline" href="/gioelelamanno.com/project/ventralmidbrain/">
+  Project
+</a>
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline" href="http://www.sciencedirect.com/science/article/pii/S0092867416313095#app2" target="_blank" rel="noopener">
+  Supplementary
+</a>
+
+
+
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+  </div>
+</div>
+
+<div class="container">
+  <nav>
+  <ul class="pager">
+    
+    <li class="previous"><a href="gioelelamanno.com/publication/visceral/"><span
+      aria-hidden="true">&larr;</span> Visceral motor neuron diversity delineates a cellular basis for nipple-and pilo-erection muscle control</a></li>
+    
+
+    
+    <li class="next"><a href="gioelelamanno.com/publication/pia/">Induction of functional dopamine neurons from human astrocytes in vitro and mouse astrocytes in a Parkinson&#39;s disease model <span
+      aria-hidden="true">&rarr;</span></a></li>
+    
+  </ul>
+</nav>
+
+</div>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2018 &middot; 
+
+      Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Cite</h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+    <script id="dsq-count-scr" src="//gioelelamanno.disqus.com/count.js" async></script>
+    
+
+    
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    
+    
+    <script src="/gioelelamanno.com/js/hugo-academic.js"></script>
+    
+
+    
+    
+
+    
+    
+
+  </body>
+</html>
+
