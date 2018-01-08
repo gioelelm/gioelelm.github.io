@@ -40,11 +40,12 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["scRNA-seq"]
+#projects = ["scRNA-seq"]
 
 # Links (optional).
 url_pdf = "https://ac.els-cdn.com/S0092867416313095/1-s2.0-S0092867416313095-main.pdf?_tid=b55fa354-f40b-11e7-be66-00000aab0f26&acdnat=1515371858_f1aa74b0a6bf30ec2a3485c7aa4ff18c"
-url_custom = [{name = "Supplementary", url = "http://www.sciencedirect.com/science/article/pii/S0092867416313095#app2"}]
+url_custom = [{name = "Supplementary", url = "http://www.sciencedirect.com/science/article/pii/S0092867416313095#app2"},
+{name = "Data visualizations", url="http://linnarssonlab.org/ventralmidbrain/"}]
 #url_code = "#"
 #url_dataset = "#"
 #url_source = "#"

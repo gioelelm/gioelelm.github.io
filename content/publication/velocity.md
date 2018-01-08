@@ -27,7 +27,7 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = []]
+#projects = []
 
 # Links (optional).
 url_pdf = "https://www.biorxiv.org/content/early/2017/10/19/206052.full.pdf+html"

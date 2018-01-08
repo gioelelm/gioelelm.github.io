@@ -33,7 +33,7 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-# projects = ["example-external-project"]
+# #projects = ["example-external-project"]
 
 # Links (optional).
 url_pdf = "https://ac.els-cdn.com/S2405471216302654/1-s2.0-S2405471216302654-main.pdf?_tid=5334ea06-f40e-11e7-b634-00000aab0f02&acdnat=1515372991_2de0a399be7035519b83207d3a8cf42c"
