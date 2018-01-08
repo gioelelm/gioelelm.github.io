@@ -8,7 +8,7 @@ authors = [
 "Amit Zeisel",
 "Tina Jacob",
 "Xiaoyan Sun",
-"Gioele La Manno",
+"<u>Gioele La Manno</u>",
 "Peter Lönnerberg",
 "Sten Linnarsson",
 "Maria Kasper"]
@@ -17,8 +17,8 @@ authors = [
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Cell systems* 3 3 221-237, Cell Press"
-publication_short = "*Cell systems*"
+publication = "*Cell Systems* 3 3 221-237, Cell Press"
+publication_short = "**Cell Systems**"
 
 # Abstract and optional shortened version.
 abstract = "The murine epidermis with its hair follicles represents an invaluable model system for tissue regeneration and stem cell research. Here we used single-cell RNA-sequencing to reveal how cellular heterogeneity of murine telogen epidermis is tuned at the transcriptional level. Unbiased clustering of 1,422 single-cell transcriptomes revealed 25 distinct populations of interfollicular and follicular epidermal cells. Our data allowed the reconstruction of gene expression programs during epidermal differentiation and along the proximal-distal axis of the hair follicle at unprecedented resolution. Moreover, transcriptional heterogeneity of the epidermis can essentially be explained along these two axes, and we show that heterogeneity in stem cell compartments generally reflects this model: stem cell populations are segregated by spatial signatures but share a common basal-epidermal gene module. This study provides an unbiased and systematic view of transcriptional organization of adult epidermis and highlights how cellular heterogeneity can be orchestrated in vivo to assure tissue homeostasis."

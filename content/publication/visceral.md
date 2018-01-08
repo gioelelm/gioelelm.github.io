@@ -5,7 +5,7 @@ date = "2016-10-01"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [
 "Alessandro Furlan", 
-"Gioele La Manno", 
+"<u>Gioele La Manno</u>", 
 "Moritz Lübke", 
 "Martin Häring", 
 "Hind Abdo", 
@@ -23,7 +23,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Nature neuroscience* 19 10 1331-1340, Nature Research"
-publication_short = "*Nature Neuroscience*"
+publication_short = "**Nature Neuroscience**"
 
 # Abstract and optional shortened version.
 abstract = "Despite the variety of physiological and target-related functions, little is known regarding the cellular complexity in the sympathetic ganglion. We explored the heterogeneity of mouse stellate and thoracic ganglia and found an unexpected variety of cell types. We identified specialized populations of nipple- and pilo-erector muscle neurons. These neurons extended axonal projections and were born among other neurons during embryogenesis, but remained unspecialized until target organogenesis occurred postnatally. Target innervation and cell-type specification was coordinated by an intricate acquisition of unique combinations of growth factor receptors and the initiation of expression of concomitant ligands by the nascent erector muscles. Overall, our results provide compelling evidence for a highly sophisticated organization of the sympathetic nervous system into discrete outflow channels that project to well-defined target tissues and offer mechanistic insight into how diversity and connectivity are established during development."
