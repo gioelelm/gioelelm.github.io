@@ -60,6 +60,6 @@ highlight = false
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "headers/singlemolfish.jpg"
-caption = "My caption :smile:"
+caption = ""
 
 +++
