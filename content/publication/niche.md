@@ -25,7 +25,7 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["scRNA-seq", "ventralmidbrain", "development"]
+projects = ["scRNA-seq"]
 
 # Links (optional).
 url_pdf = "https://www.biorxiv.org/content/early/2017/06/26/155846.full.pdf+html"

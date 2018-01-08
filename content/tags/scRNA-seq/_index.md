@@ -1,5 +1,5 @@
 +++
-title = "Content tagged as 'Academic'"
+title = "Content tagged as 'scRNA-seq'"
 date = "2017-01-01T00:00:00"
 math = false
 highlight = false
@@ -11,4 +11,4 @@ caption = ""
 
 +++
 
-Here is a list of all the content that has been tagged as *academic*.
+Here is a list of all the content that has been tagged as *scRNA-seq*.
