@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media on GIOELE LA MANNO</title>
+    <link>gioelelamanno.com/media/</link>
+    <description>Recent content in Media on GIOELE LA MANNO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 07 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="gioelelamanno.com/media/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Midbrain study gives boost to Parkinson’s research</title>
+      <link>gioelelamanno.com/media/ventralmidbrain/</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gioelelamanno.com/media/ventralmidbrain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special nerve cells cause goose bumps and nipple erection</title>
+      <link>gioelelamanno.com/media/nippleneurons/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>gioelelamanno.com/media/nippleneurons/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
