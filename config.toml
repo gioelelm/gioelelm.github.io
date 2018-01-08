@@ -272,7 +272,7 @@ defaultContentLanguageInSubdir = false
 #   weight = 3
 
 [[menu.main]]
-  name = "Media"
+  name = "Outreach"
   url = "#media"
   weight = 4
 

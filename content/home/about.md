@@ -40,8 +40,8 @@ weight = 2
  I am PhD candidate at [Karolinska Instituet](http://ki.se/en/startpage) and a proud member of [Linnarsson Lab](http://linnarssonlab.org/). My original training is in Biotechnology ([BSc @UNIPA](http://www.unipa.it/target/international-students/en/about/the-university/)) and Biomedicine ([MSc @KI](http://ki.se/en/startpage)) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.
  
  My research focuses on understanding [brain](https://en.wikipedia.org/wiki/Brain) development.
- I am particularly interested in describing the sequence of states that embryonic stem  cells go through in their differentiation towards mature neurons.
+ I am particularly interested in describing the sequence of states that embryonic stem  cells go through during their differentiation towards mature neurons.
  
-I have been tackling this question, using computational analysis on the the wealth of data provided by [single cell RNA sequencing](https://www.nature.com/articles/nmeth.2801), that I have been working with and developing since its earliest times.
+I have been tackling this question using machine learning tools on the wealth of data provided by [single cell RNA sequencing](https://www.nature.com/articles/nmeth.2801), a technique I have been working with and developing since its early times.
 
-My long term goal is to contribute in making biology from a descriptive to a predictive science.
+My long-term goal is to contribute in making biology from a descriptive to a predictive science.

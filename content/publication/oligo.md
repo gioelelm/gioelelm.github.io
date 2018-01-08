@@ -34,7 +34,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Science* 352 6291 1326-1329, AAAS"
-publication_short = "In *Science*"
+publication_short = "*Science*"
 
 # Abstract and optional shortened version.
 abstract = "Oligodendrocytes have been considered as a functionally homogeneous population in the central nervous system (CNS). We performed single-cell RNA sequencing on 5072 cells of the oligodendrocyte lineage from 10 regions of the mouse juvenile and adult CNS. Thirteen distinct populations were identified, 12 of which represent a continuum from Pdgfra+ oligodendrocyte precursor cells (OPCs) to distinct mature oligodendrocytes. Initial stages of differentiation were similar across the juvenile CNS, whereas subsets of mature oligodendrocytes were enriched in specific regions in the adult brain. Newly formed oligodendrocytes were detected in the adult CNS and were responsive to complex motor learning. A second Pdgfra+ population, distinct from OPCs, was found along vessels. Our study reveals the dynamics of oligodendrocyte differentiation and maturation, uncoupling them at a transcriptional level and highlighting oligodendrocyte heterogeneity in the CNS."

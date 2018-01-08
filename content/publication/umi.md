@@ -17,7 +17,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Nature methods* 11 2 163-166"
-publication_short = "In *Nature methods*"
+publication_short = "*Nature methods*"
 
 # Abstract and optional shortened version.
 abstract = "Single-cell RNA sequencing (RNA-seq) is a powerful tool to reveal cellular heterogeneity, discover new cell types and characterize tumor microevolution. However, losses in cDNA synthesis and bias in cDNA amplification lead to severe quantitative errors. We show that molecular labels—random sequences that label individual molecules—can nearly eliminate amplification noise, and that microfluidic sample preparation and optimized reagents produce a fivefold improvement in mRNA capture efficiency."
