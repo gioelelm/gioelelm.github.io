@@ -27,4 +27,4 @@ weight = 1
   label = '<i class="fa fa-arrow-circle-right"></i> Read more'
 +++
 
-We recently released the preprint ["RNA velocity in single cells"](https://www.biorxiv.org/content/early/2017/10/19/206052). This work is a close collaboration between [Kharchencko](http://pklab.med.harvard.edu/) and [Linnarsson](linnarssonlab.org) Lab, where we show that is possible to estimate the time derivative of RNA abundance in scRNA-seq experiments by distinguishing unspliced and spliced RNA molecules. The computational method, [velocyto](http://velocyto.org) (*velox + κύτος*, quick cell), is available as R package or Python library.
+We recently released the preprint ["RNA velocity in single cells"](https://www.biorxiv.org/content/early/2017/10/19/206052). This work is a close collaboration between [Kharchencko](http://pklab.med.harvard.edu/) and [Linnarsson](linnarssonlab.org) Lab, where we show that is possible to estimate the time derivative of RNA abundance in scRNA-seq experiments by distinguishing unspliced and spliced RNA molecules. The computational method, [velocyto](http://velocyto.org/) (*velox + κύτος*, quick cell), is available as R package or Python library.
