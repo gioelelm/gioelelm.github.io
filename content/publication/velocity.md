@@ -11,8 +11,8 @@ authors = [
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*bioarxiv* 206052, Cold Spring Harbor Laboratory"
-publication_short = "**bioarxiv**"
+publication = "*biorxiv* 206052, Cold Spring Harbor Laboratory"
+publication_short = "**biorxiv**"
 
 # Abstract and optional shortened version.
 abstract = "RNA abundance is a powerful indicator of the state of individual cells, but does not directly reveal dynamic processes such as cellular differentiation. Here we show that RNA velocity - the time derivative of RNA abundance - can be estimated by distinguishing unspliced and spliced mRNAs in standard single-cell RNA sequencing protocols. We show that RNA velocity is a vector that predicts the future state of individual cells on a timescale of hours. We validate the accuracy of RNA velocity in the neural crest lineage, demonstrate its use on multiple technical platforms, reconstruct the branching lineage tree of the mouse hippocampus, and measure RNA kinetics in human embryonic brain. We expect RNA velocity to greatly aid the analysis of developmental lineages and cellular dynamics, particularly in humans."
