@@ -11,6 +11,33 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>STRT-seq-2i: dual-index 5ʹ single cell and nucleus RNA-seq on an addressable microwell array</title>
+      <link>/publication/strtseq/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/strtseq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA velocity in single cells</title>
+      <link>/publication/velocity/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/velocity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular analysis of the midbrain dopaminergic niche during neurogenesis</title>
+      <link>/publication/niche/</link>
+      <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/niche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Induction of functional dopamine neurons from human astrocytes in vitro and mouse astrocytes in a Parkinson&#39;s disease model</title>
       <link>/publication/pia/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
