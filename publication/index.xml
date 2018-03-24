@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Spatial organization of the somatosensory cortex revealed by cyclic smFISH</title>
+      <link>/publication/osmfish/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/osmfish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>STRT-seq-2i: dual-index 5ʹ single cell and nucleus RNA-seq on an addressable microwell array</title>
       <link>/publication/strtseq/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>

@@ -11,6 +11,27 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Spatial organization of the somatosensory cortex revealed by cyclic smFISH</title>
+      <link>/publication/osmfish/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/osmfish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>osmFISH is really awesome</title>
+      <link>/post/osmfish/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/post/osmfish/</guid>
+      <description>&lt;p&gt;Simone Codelluppi and Lars Borm have developed and optimized a cyclic smFISH protocol, termed ouroboros smFISH, to quantify the expression of a large number of genes in tissue sections. The goal was building a cell type map of the mouse somatosensory cortex. The results are really impressive. See the fantastic images and interactively explore the data using the Loom viewer &lt;a href=&#34;http://linnarssonlab.org/osmFISH/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Great news are not only is taht Lars and Simore have put a lot of effort to make it possible for any lab to set up the method and they provide &lt;a href=&#34;https://www.biorxiv.org/content/early/2018/03/04/276097&#34; target=&#34;_blank&#34;&gt;detailed protocol&lt;/a&gt; and a polished &lt;a href=&#34;(http://linnarssonlab.org/osmFISH/availability/)&#34; target=&#34;_blank&#34;&gt;software package&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>RNA velocity preprint</title>
       <link>/post/velocity/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0100</pubDate>
@@ -24,7 +45,17 @@
 
 &lt;p&gt;Single-cell RNA-seq analysis of developmental processes often reveal complex branching manifolds, which correspond to the underlying lineage tree of cell differentiation. In this work we show that by overlaying expression velocities of single cells, we can directly reveal the root and each terminal state of differentiation manifolds. This provides basis for quantitative modeling of cell dynamics and the associated regulatory processes.&lt;/p&gt;
 
-&lt;p&gt;A key advantage of expression velocity is the fact that it can be readily assessed in datasets currently being produced with common single-cell RNA-seq platforms, including as we show, SMART-seq2, InDrop, and 10X Genomics Chromium. The method (&lt;a href=&#34;velocyto.org&#34; target=&#34;_blank&#34;&gt;velocyto&lt;/a&gt;) is open-sourced and available as a nicely documented package for both R and Python.&lt;/p&gt;
+&lt;p&gt;A key advantage of expression velocity is the fact that it can be readily assessed in datasets currently being produced with common single-cell RNA-seq platforms, including as we show, SMART-seq2, InDrop, and 10X Genomics Chromium. The method (&lt;a href=&#34;http://velocyto.org&#34; target=&#34;_blank&#34;&gt;velocyto&lt;/a&gt;) is open-sourced and available as a nicely documented package for both R and Python.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>velocyto</title>
+      <link>/software/velocyto/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/software/velocyto/</guid>
+      <description>&lt;p&gt;Find the github repo &lt;a href=&#34;https://github.com/velocyto-team/velocyto.py&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -35,6 +66,16 @@
       
       <guid>/publication/strtseq/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>loompy</title>
+      <link>/software/loompy/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/software/loompy/</guid>
+      <description>&lt;p&gt;Find the github repo &lt;a href=&#34;https://github.com/linnarsson-lab/loompy&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -62,16 +103,6 @@
       
       <guid>/publication/pia/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -125,24 +156,6 @@
       <pubDate>Fri, 10 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/oligo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cell types in the mouse cortex and hippocampus revealed by single-cell RNA-seq</title>
-      <link>/publication/cortex/</link>
-      <pubDate>Fri, 06 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/cortex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantitative single-cell RNA-seq with unique molecular identifiers</title>
-      <link>/publication/umi/</link>
-      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/umi/</guid>
       <description></description>
     </item>
     

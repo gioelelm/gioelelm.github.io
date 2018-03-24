@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Softwares on GIOELE LA MANNO</title>
+    <link>/software/</link>
+    <description>Recent content in Softwares on GIOELE LA MANNO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/software/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>velocyto</title>
+      <link>/software/velocyto/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/software/velocyto/</guid>
+      <description>&lt;p&gt;Find the github repo &lt;a href=&#34;https://github.com/velocyto-team/velocyto.py&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>loompy</title>
+      <link>/software/loompy/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/software/loompy/</guid>
+      <description>&lt;p&gt;Find the github repo &lt;a href=&#34;https://github.com/linnarsson-lab/loompy&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>nbregression</title>
+      <link>/software/nbregression/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/software/nbregression/</guid>
+      <description>&lt;p&gt;Find the github repo &lt;a href=&#34;https://github.com/velocyto-team/velocyto.py&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>cmdstan-py</title>
+      <link>/software/cmdstan-py/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/software/cmdstan-py/</guid>
+      <description>&lt;p&gt;Find the github repo &lt;a href=&#34;https://github.com/linnarsson-lab/cmdstan-py/blob/master/BayesGLM.py&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BackSPIN</title>
+      <link>/software/backspin/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/software/backspin/</guid>
+      <description>&lt;p&gt;Find the github repo &lt;a href=&#34;https://github.com/linnarsson-lab/BackSPIN&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ceftools</title>
+      <link>/software/ceftools/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/software/ceftools/</guid>
+      <description>&lt;p&gt;Find the github repo &lt;a href=&#34;https://github.com/linnarsson-lab/ceftools&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
