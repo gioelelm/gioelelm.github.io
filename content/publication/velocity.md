@@ -22,7 +22,7 @@ abstract_short = "Here we show that RNA velocity - the time derivative of RNA ab
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

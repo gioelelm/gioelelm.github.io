@@ -281,10 +281,17 @@ defaultContentLanguageInSubdir = false
   url = "#publications_selected"
   weight = 5
 
-#[[menu.main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 5
+[[menu.main]]
+  name = "Software"
+  url = "#software"
+  weight = 6
+
+[[menu.main]]
+  name = "CV"
+  url = "files/cv.pdf"
+  weight = 7
+
+
 
 #[[menu.main]]
 #  name = "Contact"
