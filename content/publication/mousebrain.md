@@ -1,6 +1,6 @@
 +++
 title = "Molecular architecture of the mouse nervous system"
-date = "2018-1-1"
+date = "2018-04-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [
@@ -15,7 +15,8 @@ publication = "*biorxiv* 294918, Cold Spring Harbor Laboratory"
 publication_short = "**biorxiv**"
 
 # Abstract and optional shortened version.
-abstract = "The mammalian nervous system executes complex behaviors controlled by specialised, precisely positioned and interacting cell types. Here, we used RNA sequencing of half a million single cells to create a detailed census of cell types in the mouse nervous system. We mapped cell types spatially and derived a hierarchical, data-driven taxonomy. Neurons were the most diverse, and were grouped by developmental anatomical units, and by the expression of neurotransmitters and neuropeptides. Neuronal diversity was driven by genes encoding cell identity, synaptic connectivity, neurotransmission and membrane conductance. We discovered several distinct, regionally restricted, astrocytes types, which obeyed developmental boundaries and correlated with the spatial distribution of key glutamate and glycine neurotransmitters. In contrast, oligodendrocytes showed a loss of regional identity, followed by a secondary diversi cation. The resource presented here lays a solid foundation for understanding the molecular architecture of the mammalian nervous system, and enables genetic manipulation of specific cell types."
+abstract = "The mammalian nervous system executes complex behaviors controlled by specialised, precisely positioned and interacting cell types. Here, we used RNA sequencing of half a million single cells to create a detailed census of cell types in the mouse nervous system. We mapped cell types spatially and derived a hierarchical, data-driven taxonomy. Neurons were the most diverse, and were grouped by developmental anatomical units, and by the expression of neurotransmitters and neuropeptides. Neuronal diversity was driven by genes encoding cell identity, synaptic connectivity, neurotransmission and membrane conductance. We discovered several distinct, regionally restricted, astrocytes types, which obeyed developmental boundaries and correlated with the spatial distribution of key glutamate and glycine neurotransmitters. In contrast, oligodendrocytes showed a loss of regional identity, followed by a secondary diversication. The resource presented here lays a solid foundation for understanding the molecular architecture of the mammalian nervous system, and enables genetic manipulation of specific cell types."
+abstract_short = "We used RNA sequencing of half a million single cells to create a detailed census of cell types in the mouse nervous system. We mapped cell types spatially and derived a hierarchical, data-driven taxonomy."
 
 # Featured image thumbnail (optional)
 image_preview = ""
