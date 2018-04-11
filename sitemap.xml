@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>/publication/mousebrain/</loc>
+      <lastmod>2018-04-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/osmfish/</loc>
+      <lastmod>2018-03-04T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/osmfish/</loc>
       <lastmod>2018-03-04T00:00:00+00:00</lastmod>
     </url>
@@ -14,17 +32,8 @@
     
     <url>
     
-      <loc>/post/osmfish/</loc>
-      <lastmod>2018-03-04T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/post/</loc>
-      <lastmod>2018-01-08T00:00:00+01:00</lastmod>
+      <lastmod>2018-01-08T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -33,7 +42,7 @@
     <url>
     
       <loc>/post/velocity/</loc>
-      <lastmod>2018-01-08T00:00:00+01:00</lastmod>
+      <lastmod>2018-01-08T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -42,6 +51,15 @@
     <url>
     
       <loc>/software/velocyto/</loc>
+      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/software/cytograph/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -243,7 +261,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -275,7 +293,7 @@
       <xhtml:link rel="alternate" href="/tags/scrna-seq/" hreflang="en"/>
     
       <loc>/tags/scrna-seq/</loc>
-      <lastmod>2018-01-08T00:00:00+01:00</lastmod>
+      <lastmod>2018-01-08T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -285,7 +303,7 @@
     <url>
     
       <loc>/tags/smfish/</loc>
-      <lastmod>2018-03-04T00:00:00+01:00</lastmod>
+      <lastmod>2018-03-04T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -295,7 +313,7 @@
     <url>
     
       <loc>/tags/software/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -305,7 +323,7 @@
     <url>
     
       <loc>/software/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -325,7 +343,7 @@
     <url>
     
       <loc>/tags/velocity/</loc>
-      <lastmod>2018-01-08T00:00:00+01:00</lastmod>
+      <lastmod>2018-01-08T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
