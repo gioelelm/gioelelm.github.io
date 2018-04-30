@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2016-09-01"
+date = "2016-5-01"
 
 # Project title.
 title = "Conversion of brain cells offers hope for Parkinson’s patients"
@@ -13,7 +13,7 @@ image_preview = "synapse.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Parkinsons", "scRNA-seq", "media"]
+tags = ["development", "scRNA-seq", "media"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://ki.se/en/news/conversion-of-brain-cells-offers-hope-for-parkinsons-patients"
