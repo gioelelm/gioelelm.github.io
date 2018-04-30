@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 08 Jan 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2018 00:00:00 +0100</lastBuildDate>
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>osmFISH is really awesome</title>
       <link>/post/osmfish/</link>
-      <pubDate>Sun, 04 Mar 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0100</pubDate>
       
       <guid>/post/osmfish/</guid>
       <description>&lt;p&gt;Simone Codelluppi and Lars Borm have developed and optimized a cyclic smFISH protocol, termed ouroboros smFISH, to quantify the expression of a large number of genes in tissue sections. The goal was building a cell type map of the mouse somatosensory cortex. The results are really impressive. See the fantastic images and interactively explore the data using the Loom viewer &lt;a href=&#34;http://linnarssonlab.org/osmFISH/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -25,7 +25,7 @@
     <item>
       <title>RNA velocity preprint</title>
       <link>/post/velocity/</link>
-      <pubDate>Mon, 08 Jan 2018 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>/post/velocity/</guid>
       <description>&lt;p&gt;Single-cell RNA-seq measurements provide a powerful approach for studying complex biological tissues. Some of the more interesting contexts involve dynamic processes, such as development or disease progression. However single-cell measurements only capture a snapshot of a transcriptional state at a single point in time.&lt;/p&gt;
