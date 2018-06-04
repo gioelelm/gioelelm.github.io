@@ -2,7 +2,7 @@
 date = 2018-05-27
 draft = false
 tags = ["interview", "EPFL"]
-title = "Visiting EPFL and super-postocs in Europe"
+title = "Visiting EPFL and super-postdocs in Europe"
 math = false
 summary = """Over the last few days I have been at the École Polytechnique Fédérale de Lausanne (EPFL) Lausane, Switzerland. The reason of this little trip is that EPFL recently opened a special position at their School of Life Sciences....
 """
