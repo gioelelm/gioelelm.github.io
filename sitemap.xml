@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/elifrcandidate/</loc>
+      <lastmod>2018-05-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/mousebrain/</loc>
       <lastmod>2018-04-03T00:00:00+00:00</lastmod>
     </url>
@@ -187,6 +196,15 @@
     
     <url>
     
+      <loc>/media/astrocytes/</loc>
+      <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/software/nbregression/</loc>
       <lastmod>2016-05-01T00:00:00+00:00</lastmod>
     </url>
@@ -250,14 +268,6 @@
     
     <url>
     
-      <loc>/media/astrocytes/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/development/</loc>
       <lastmod>2016-10-07T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -268,8 +278,28 @@
     
     <url>
     
+      <loc>/tags/epfl/</loc>
+      <lastmod>2018-05-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/</loc>
       <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/interview/</loc>
+      <lastmod>2018-05-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
