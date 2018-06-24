@@ -2,16 +2,7 @@
 {{ $page := .page }}
 {{ $header := $page.Params.header }}
 
-<section id="{{ $page.File.TranslationBaseName }}" class="hero-overlay" style="
-{{ if $header.overlay_color }}
-background-color: {{ $header.overlay_color | default "transparent" }};
-{{ end }}
-{{ if $header.overlay_img }}
-background-image:
-{{ if $header.overlay_filter }}linear-gradient(rgba(0, 0, 0, {{ $header.overlay_filter }}), rgba(0, 0, 0, {{ $header.overlay_filter }})), {{ end }}
-url('{{ printf "img/%s" $header.overlay_img | absURL}}');
-{{ end }}
-;">
+<section id="{{ $page.File.TranslationBaseName }}" class="hero-overlay">
 
   <div class="container">
 
