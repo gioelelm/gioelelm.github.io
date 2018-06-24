@@ -322,9 +322,9 @@ a[data-fancybox] img {
 
 .home-section {
   background-color: {{ .Get "home_section_odd" }};
-  padding: 110px 0 110px 0;
-  animation: intro 0.3s both;
-  animation-delay: 0.15s;
+  padding: 25px 0 20px 0;
+  animation: intro 2.2s both; /* NICE! */
+  animation-delay: 0.3s;
 }
 
 .home-section:first-of-type {
@@ -337,7 +337,7 @@ a[data-fancybox] img {
 
 @media screen and (max-width: 768px) {
   .home-section {
-    padding: 60px 0 60px 0;
+    padding: 30px 0 18px 0;
   }
   .home-section:first-of-type {
     padding-top: 40px;
@@ -379,10 +379,10 @@ a[data-fancybox] img {
   width: 100%;
   height: 100%;
   z-index: -10;
-  background: -moz-linear-gradient(to right, #000000c0, #635a34b6), url('//localhost:1313/img/headers/velocity.png') no-repeat;
-  background: -webkit-linear-gradient(to right, #000000c0, #635a34b6), url('//localhost:1313/img/headers/velocity.png') no-repeat;
-  background: -o-linear-gradient(to right, #000000c0, #635a34b6), url('//localhost:1313/img/headers/velocity.png') no-repeat;
-  background: linear-gradient(to right,#000000c0, #635a34b6), url('//localhost:1313/img/headers/velocity.png') no-repeat;
+  background: -moz-linear-gradient(to right, #000000c0, #1280e7b6), url('//localhost:1313/img/headers/velocity.png') no-repeat;
+  background: -webkit-linear-gradient(to right, #000000c0, #1280e7b6), url('//localhost:1313/img/headers/velocity.png') no-repeat;
+  background: -o-linear-gradient(to right, #000000c0, #1280e7b6), url('//localhost:1313/img/headers/velocity.png') no-repeat;
+  background: linear-gradient(to right,#0000007a, #1280e777), url('//localhost:1313/img/headers/velocity.png') no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -moz-background-size: cover;
@@ -400,17 +400,21 @@ a[data-fancybox] img {
   
 
 .hero-title {
-  font-size: 2.7rem;
+  font-size: 2.5rem;
   margin-top: 0;
   line-height: 1;
 }
 
 .hero-lead {
-  max-width: 768px;
-  font-size: 1.35rem;
+  max-width: 750px;
+  font-size: 0.9rem;
 }
 
-.hero-overlay .hero-title,
+.hero-overlay .hero-title {
+  color: {{ .Get "primary" }};
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+}
+
 .hero-overlay .hero-lead,
 .hero-overlay .btn {
   color: #fff;
@@ -427,7 +431,7 @@ a[data-fancybox] img {
 }
 
 .hero-overlay .btn-large {
-  font-size: 1.1rem;
+  font-size: 1.0rem;
 }
 
 /*************************************************
@@ -1181,12 +1185,12 @@ nav#navbar-main li {
 .navbar-nav li a {
   height: inherit;
   line-height: 50px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 15px;
+  padding-bottom: 8px;
 }
 
 .navbar-brand img {
-  max-height: 50px;
+  max-height: 38px;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -1235,7 +1239,7 @@ nav#navbar-main li {
   text-transform: uppercase;
   font-weight: bold;
   font-size: 1.2em;
-  color: {{ .Get "menu_title" }};
+  color: {{ .Get "menu_title" }}; /**/
 }
 
 .navbar-default .navbar-brand:focus,
@@ -1246,7 +1250,7 @@ nav#navbar-main li {
 
 @media screen and (max-width: 1200px) {
   .navbar {
-    min-height: 50px !important;
+    min-height: 55px !important;
   }
 
   .navbar-brand,
