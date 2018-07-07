@@ -23,6 +23,12 @@
       {{ partial $widget $params }}
     </div>
   </section>
+  {{ else if eq $page.File.TranslationBaseName  "publication-selected" }}
+  <section id="{{ $page.File.TranslationBaseName }}" class="home-section publicationsection">
+      <div class="container">
+        {{ partial $widget $params }}
+    </div>
+  </section>
   {{ else }}
     <section id="{{ $page.File.TranslationBaseName }}" class="home-section">
       <div class="container">

@@ -342,29 +342,13 @@ a[data-fancybox] img {
 }
 
 .postsection { /*#posts.home-section*/
-  /* 
   background-image: url('../img/bubbles.jpg');
   height: 100%; 
+  
   background-attachment: fixed;
-  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  */
-
-  background-image: -moz-linear-gradient(to right, #000000c0, #1280e7b6), url('../img/bubbles.jpg') ;
-  background-image: -webkit-linear-gradient(to right, #000000c0, #1280e7b6), url('../img/bubbles.jpg') ;
-  background-image: -o-linear-gradient(to right, #000000c0, #1280e7b6), url('../img/bubbles.jpg') ;
-  background-image: linear-gradient(to right,#0000007a, #1280e777), url('../img/bubbles.jpg') ;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-
-  height: 100%; 
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  will-change:top; /* IMPORTANT */
 }
 
 @media screen and (max-width: 768px) {
@@ -879,7 +863,7 @@ article .article-metadata {
  **************************************************/
 
 .card-simple {
-  background: #fff;
+  background: rgba(255, 255, 255, 0.774);
   box-shadow: 0 1px 4px rgba(0,0,0,.04);
   border: 1px solid rgba(0,0,0,.09);
   border-radius: 3px;
@@ -1023,19 +1007,26 @@ article .article-metadata {
  **************************************************/
 
 footer {
-  margin: 4rem 0 0;
-  padding: 2rem 0;
+  bottom: 0;
+  margin: 0rem 0 0;
+  padding: 3rem 0;
   width: 100%;
+  z-index: 100;
+  background: #fcfcfc;
+  position: relative;
+  
 }
 
 footer p {
   font-size: 0.75rem;
   text-align: center;
+  z-index: 100;
 }
 
 .site-footer,
 footer a#back_to_top i {
   color: #899596;
+  z-index: 100;
 }
 
 /*************************************************
@@ -1221,8 +1212,15 @@ nav#navbar-main li {
   padding-bottom: 8px;
 }
 
+.navbar-unilogo img {
+  max-height: 45px;
+  left: 0px;
+  padding: 10px 0px 0px 4px;
+}
+
 .navbar-brand img {
   max-height: 38px;
+  padding: 5px 0px 0px 2px;
 }
 
 .navbar-default .navbar-toggle .icon-bar {

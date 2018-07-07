@@ -12,6 +12,14 @@
         <span class="icon-bar"></span>
       </button>
       {{ end }}
+      <a class="navbar-brand navbar-unilogo" href="{{ "/" | relLangURL }}">
+        {{- if .Site.Params.logouni -}}
+        <img src="{{ printf "/img/%s" .Site.Params.logouni | relURL }}" alt="EPFL">
+        {{- else -}}
+        {{- .Site.Title -}}
+        {{- end -}}
+      </a>
+
       <a class="navbar-brand" href="{{ "/" | relLangURL }}">
         {{- if .Site.Params.logo -}}
         <img src="{{ printf "/img/%s" .Site.Params.logo | relURL }}" alt="{{ .Site.Title }}">
@@ -49,6 +57,7 @@
             {{ end }}
           </ul>
         </li>
+        
 
         {{ else }}
         
@@ -95,7 +104,8 @@
         </li>
         {{ end }}
       </ul>
-
+    
     </div><!-- /.navbar-collapse -->
+
   </div><!-- /.container -->
 </nav>
