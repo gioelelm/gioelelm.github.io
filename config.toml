@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "GIOELE LA MANNO"
+title = "Gioele La Manno"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Linnarsson Lab", url = "http://linnarssonlab.org/" }, { name = "Karolinska Institute", url = "http://ki.se/en/startpage" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portraitcloser2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "gioele.la.manno@ki.se"
   address = "Scheeles väg 1, 171 77 Stockholm"
   office_hours = ""
@@ -75,8 +75,8 @@ defaultContentLanguageInSubdir = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = "logo_lab_v1.png"
-  logouni = "epfl.png"
+  logo = "logo_nolab.png"
+  logouni = "kilogo.png"
   
 
   # Enable/disable map in Contact widget.
@@ -269,13 +269,13 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "Outreach"
-  url = "#media"
+  name = "Posts"
+  url = "#posts"
   weight = 3
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Outreach"
+  url = "#media"
   weight = 4
 
 [[menu.main]]
