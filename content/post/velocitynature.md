@@ -9,7 +9,7 @@ Our work on RNA velocity, the time derivative of gene expression, is now out in 
 """
 +++
 
-In a precious preprint ["RNA velocity in single cells"](https://www.biorxiv.org/content/early/2017/10/19/206052) we had presented the discovery that standard RNA-seq data contains additional information on the rate and direction of change in gene expression. If you haven't read what this is about you can see my ["previous post"]({{< ref "post/velocity.md" >}}) or directly go and read the more eloquent ["Nature News and Views"](https://www.nature.com/articles/d41586-018-05882-8) kindly written by Alon Klein.
+In a previous preprint ["RNA velocity in single cells"](https://www.biorxiv.org/content/early/2017/10/19/206052) we had presented the discovery that standard RNA-seq data contains additional information on the rate and direction of change in gene expression. If you haven't read what this is about you can see my ["previous post"]({{< ref "post/velocity.md" >}}) or directly go and read the more eloquent ["Nature News and Views"](https://www.nature.com/articles/d41586-018-05882-8) kindly written by Alon Klein.
 
 Now our work has gone through the process of peer review. For that, I need to thank the reviewers Allon Klein, Rahul Satija, Michael Stadler and the other anonymous reviewer. Their suggestions and criticism have importantly contributed to make the work the best it could be.
 
