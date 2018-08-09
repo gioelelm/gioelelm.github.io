@@ -11,6 +11,53 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>New method reveals cell development</title>
+      <link>/media/velocitynews/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/media/velocitynews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA velocity in single cells</title>
+      <link>/publication/velocity/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/velocity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA velocity is out in Nature</title>
+      <link>/post/velocitynature/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/post/velocitynature/</guid>
+      <description>&lt;p&gt;In a precious preprint &lt;a href=&#34;https://www.biorxiv.org/content/early/2017/10/19/206052&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;RNA velocity in single cells&amp;rdquo;&lt;/a&gt; we had presented the discovery that standard RNA-seq data contains additional information on the rate and direction of change in gene expression. If you haven&amp;rsquo;t read what this is about you can see my &lt;a href=&#34;/post/velocity/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;previous post&amp;rdquo;&lt;/a&gt; or directly go and read the more eloquent &lt;a href=&#34;https://www.nature.com/articles/d41586-018-05882-8&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Nature News and Views&amp;rdquo;&lt;/a&gt; kindly written by Alon Klein.&lt;/p&gt;
+
+&lt;p&gt;Now our work has gone through the process of peer review. For that, I need to thank the reviewers Allon Klein, Rahul Satija, Michael Stadler and the other anonymous reviewer. Their suggestions and criticism have importantly contributed to make the work the best it could be.&lt;/p&gt;
+
+&lt;p&gt;While the 4 main figures resemble the one of the original submission, the new version of the paper has a lot of fresh juice hidden inside a similar shell. You find a lot of new evidence both in the Extended Figures and inside the two extensive Supplementary Notes!&lt;/p&gt;
+
+&lt;p&gt;First of all, we now provide more insight into the mechanism of generation of the intronic reads. In &lt;a href=&#34;https://www.nature.com/articles/s41586-018-0414-6#Sec19&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Exdended figure 1&amp;rdquo;&lt;/a&gt; we show that they appear to a large extent due to internal priming in polyA-rich stretches. We also used metabolic labeling to demonstrate directly our ability to detect transcription kinetics using a polyA-dependent single-cell RNA-seq method, applied to bulk RNA.&lt;/p&gt;
+
+&lt;p&gt;We analyzed several additional datasets (presenting, in total, eight datasets): including Visual cortex activity-dependent transcription after light stimulus &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/29230054&#34; target=&#34;_blank&#34;&gt;&amp;rdquo;(Hrvatin et al., Nat. Neuroscience 2017)&amp;rdquo;&lt;/a&gt;
+and Small intestinal epithelium &lt;a href=&#34;https://www.nature.com/articles/nature24489&#34; target=&#34;_blank&#34;&gt;&amp;rdquo;(Haber et al., Nature 2017)&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I had great fun analyzing the &lt;a href=&#34;https://www.biorxiv.org/content/early/2017/12/20/237446&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Tabula Muris&amp;rdquo;&lt;/a&gt; dataset from Steve Quake’s group. The analysis has provided evidence to support our assumption of a fixed slope gamma. Studying the degradation rate in a large number of mouse tissues was also fundamental to capture how their variation and bimodality (Extended figure 3).&lt;/p&gt;
+
+&lt;p&gt;We have packed all the theory and the meaty formulas in &lt;a href=&#34;https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-018-0414-6/MediaObjects/41586_2018_414_MOESM1_ESM.pdf&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Supplementary Note 1&amp;rdquo;&lt;/a&gt;. The note contains the description of the kinetics model underlying RNA velocity, rate and master equations in analytical form, as well as simulated trajectories illustrating how the model behaves as parameters change.&lt;/p&gt;
+
+&lt;p&gt;A critical addendum is also &lt;a href=&#34;https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-018-0414-6/MediaObjects/41586_2018_414_MOESM3_ESM.pdf&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Supplementary Note 2&amp;rdquo;&lt;/a&gt; that consists of 11 sections containing valuable considerations for the accurate determination and visualization of RNA velocity. We illustrate the behavior of the model under different scenarios and discusses cases where the model fails to capture gene-specific velocity on real datasets. This is a fundamental read for whoever wants to build robust biological conclusions from velocity analysis.&lt;/p&gt;
+
+&lt;p&gt;We made major improvements to the analysis pipelines. The code was open-sourced since the bioarxiv release, that was a great experience has lead to nice input of the community and has allowed us to spot some bugs and make the command line interface cleared and more user friendly. The software is available as a nicely documented package for both R and Python (&lt;a href=&#34;http://velocyto.org&#34; target=&#34;_blank&#34;&gt;velocyto&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Finally, a big thank you to Peter Kharchenko for the excellent collaboration and Ruslan Soldatov and Emelie Brown for their essential role during the process of revision. And, of course to Sten, for the mentoring and supervision.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Visiting EPFL and super-postdocs in Europe</title>
       <link>/post/elifrcandidate/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 +0200</pubDate>
@@ -118,15 +165,6 @@
     </item>
     
     <item>
-      <title>RNA velocity in single cells</title>
-      <link>/publication/velocity/</link>
-      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/velocity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Molecular analysis of the midbrain dopaminergic niche during neurogenesis</title>
       <link>/publication/niche/</link>
       <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
@@ -150,24 +188,6 @@
       <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>/media/ventralmidbrain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Molecular diversity of midbrain development in mouse, human, and stem cells</title>
-      <link>/publication/midbrain/</link>
-      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/midbrain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visceral motor neuron diversity delineates a cellular basis for nipple-and pilo-erection muscle control</title>
-      <link>/publication/visceral/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/visceral/</guid>
       <description></description>
     </item>
     

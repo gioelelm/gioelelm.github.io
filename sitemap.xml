@@ -5,6 +5,33 @@
     
     <url>
     
+      <loc>/media/velocitynews/</loc>
+      <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/velocity/</loc>
+      <lastmod>2018-08-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/velocitynature/</loc>
+      <lastmod>2018-08-08T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/elifrcandidate/</loc>
       <lastmod>2018-05-27T00:00:00+02:00</lastmod>
     </url>
@@ -88,15 +115,6 @@
     
       <loc>/software/loompy/</loc>
       <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/velocity/</loc>
-      <lastmod>2017-10-19T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -269,7 +287,7 @@
     <url>
     
       <loc>/tags/development/</loc>
-      <lastmod>2016-10-07T00:00:00+00:00</lastmod>
+      <lastmod>2018-08-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -309,7 +327,7 @@
     <url>
     
       <loc>/media/</loc>
-      <lastmod>2016-10-07T00:00:00+00:00</lastmod>
+      <lastmod>2018-08-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -331,7 +349,7 @@
       <xhtml:link rel="alternate" href="/tags/scrna-seq/" hreflang="en"/>
     
       <loc>/tags/scrna-seq/</loc>
-      <lastmod>2018-01-08T00:00:00+01:00</lastmod>
+      <lastmod>2018-08-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -381,7 +399,7 @@
     <url>
     
       <loc>/tags/velocity/</loc>
-      <lastmod>2018-01-08T00:00:00+01:00</lastmod>
+      <lastmod>2018-08-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
