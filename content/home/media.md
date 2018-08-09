@@ -4,11 +4,11 @@ widget = "projects"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "Outreach and popular science"
-subtitle = ""
+title = "Outreach"
+subtitle = "Popular science, News and Media"
 
 # Order that this section will appear in.
-weight = 4
+weight = 2
 
 # Content.
 # Display content from the following folder.

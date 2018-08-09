@@ -264,9 +264,10 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "About me"
-  url = "#about"
+  name = "Outreach"
+  url = "#media"
   weight = 2
+
 
 [[menu.main]]
   name = "Posts"
@@ -274,8 +275,8 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Outreach"
-  url = "#media"
+  name = "Bio"
+  url = "#about"
   weight = 4
 
 [[menu.main]]
