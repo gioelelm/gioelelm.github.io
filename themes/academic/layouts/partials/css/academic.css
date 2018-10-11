@@ -931,6 +931,7 @@ article .article-metadata {
   border-bottom: solid 1px transparent;
 }
 
+
 .card h4 a:hover {
   color: #000;
   border-bottom: solid 1px #000;
@@ -938,12 +939,17 @@ article .article-metadata {
 }
 
 .card .card-text {
-  padding: 0.75rem 1rem 0.75rem;
+  padding: 0.5rem 1rem 0.75rem;
 }
 
 .card .card-text p {
   color: #999999;
   font-size: 0.75rem;
+}
+
+.card .card-text h5 a:hover {
+  font-size: 2.75rem;
+  color: #999999;
 }
 
 .card p:last-child {

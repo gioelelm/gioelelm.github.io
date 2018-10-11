@@ -75,8 +75,8 @@ defaultContentLanguageInSubdir = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = "logo_nolab.png"
-  logouni = "kilogo.png"
+  logo = "logo_lab_v1.png"
+  logouni = "epfl.png"
   
 
   # Enable/disable map in Contact widget.
@@ -113,7 +113,7 @@ defaultContentLanguageInSubdir = false
   comment_count = true
 
   # Display section pager for posts?
-  section_pager = false
+  section_pager = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -275,24 +275,29 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
+  name = "People"
+  url = "#team"
+  weight = 4
+
+[[menu.main]]
   name = "Bio"
   url = "#about"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Software"
   url = "#software"
-  weight = 6
+  weight = 7
 
 [[menu.main]]
   name = "CV"
   url = "files/cv.pdf"
-  weight = 7
+  weight = 8
 
 
 

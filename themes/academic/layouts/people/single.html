@@ -1,0 +1,105 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+<article class="article article-project" itemscope itemtype="http://schema.org/Article">
+
+  {{ partial "header_image.html" . }}
+
+  <div class="container">
+
+    <div class="pub-title">
+      <span class="pub-authors" itemprop="author">&nbsp;</span>
+    </div>
+    <!-- About widget -->
+    <div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref>
+      <div class="col-xs-12 col-md-4">
+        <div id="profile">
+    
+          <div class="portrait" style="background-image: url('{{ $.Site.BaseURL }}img/{{ $.Params.image }}');"></div>
+          <meta itemprop="image" content="{{ $.Site.BaseURL }}img/{{ $.Params.image_preview }}">
+    
+          <div class="portrait-title">
+            <h2 itemprop="name">{{ $.Params.title }}</h2>
+            <h3 itemprop="jobTitle">{{ $.Params.summary }}</h3>
+          </div>
+    
+          <link itemprop="url" href="{{ $.Site.BaseURL }}">
+    
+          <ul class="network-icon" aria-hidden="true">
+            {{ range $.Params.social }}
+            {{ $pack := or .icon_pack "fa" }}
+            <li>
+              <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank" rel="noopener">
+                <i class="{{ $pack }} {{ $pack }}-{{ .icon }} big-icon"></i>
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+    
+        </div>
+      </div>
+      <div class="col-xs-12 col-md-8" itemprop="description">
+        
+        {{ $.Content }}
+    
+        <div class="row">
+    
+          {{ with $.Params.interests }}
+          <div class="col-sm-5">
+            <h3>{{ i18n "interests" | markdownify }}</h3>
+            <ul class="ul-interests">
+              {{ range .interests }}
+              <li>{{ . | markdownify }}</li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+    
+          {{ with $.Params.education }}
+          <div class="col-sm-7">
+            <h3>{{ i18n "education" | markdownify }}</h3>
+            <ul class="ul-edu fa-ul">
+              {{ range .courses }}
+              <li>
+                <i class="fa-li fa fa-graduation-cap"></i>
+                <div class="description">
+                  <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+                  <p class="institution">{{ .institution }}</p>
+                </div>
+              </li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+    
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+<div class="container">
+  <nav>
+    <ul class="pager">
+      {{if .NextInSection}}
+      <li class="previous">
+        <a href="{{.NextInSection.Permalink}}">
+          <span aria-hidden="true">←</span>
+          {{.NextInSection.Title}}
+        </a>
+      </li>
+      {{end}}
+      {{if .PrevInSection}}
+      <li class="next">
+        <a href="{{.PrevInSection.Permalink}}">
+          {{.PrevInSection.Title}}
+          <span aria-hidden="true">→</span>
+        </a>
+      </li>
+      {{end}}
+  </nav>
+</div>
+
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}
