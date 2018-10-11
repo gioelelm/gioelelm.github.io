@@ -50,15 +50,16 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Gioele La Manno"
-  role = "PhD Student in Molecular Systems Biology"
+  name = "La Manno Lab"
+  role = "Neurodevelopmental Systems Biology Lab"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Linnarsson Lab", url = "http://linnarssonlab.org/" }, { name = "Karolinska Institute", url = "http://ki.se/en/startpage" } ]
+  organizations = [ { name = "Brain Mind Institute", url = "https://sv.epfl.ch/BMI" }, { name = "School of Life Sciences", url = "https://sv.epfl.ch/" },
+  {name = "EPFL", url = "https://www.epfl.ch/"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portraitcloser2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "dglogo_small.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "gioele.la.manno@ki.se"
   address = "Scheeles väg 1, 171 77 Stockholm"
   office_hours = ""
@@ -257,32 +258,34 @@ defaultContentLanguageInSubdir = false
   align_right = true
 
 
-
 [[menu.main]]
   name = "Featured"
   url = "#featured"
   weight = 1
 
 [[menu.main]]
+  name = "About"
+  url = "#about"
+  weight = 2
+
+[[menu.main]]
+  name = "People"
+  url = "#team"
+  weight = 3
+
+
+[[menu.main]]
   name = "Outreach"
   url = "#media"
-  weight = 2
+  weight = 4
 
 
 [[menu.main]]
   name = "Posts"
   url = "#posts"
-  weight = 3
-
-[[menu.main]]
-  name = "People"
-  url = "#team"
-  weight = 4
-
-[[menu.main]]
-  name = "Bio"
-  url = "#about"
   weight = 5
+
+
 
 [[menu.main]]
   name = "Publications"

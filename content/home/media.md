@@ -8,7 +8,7 @@ title = "Outreach"
 subtitle = "Popular science, News and Media"
 
 # Order that this section will appear in.
-weight = 2
+weight = 3
 
 # Content.
 # Display content from the following folder.

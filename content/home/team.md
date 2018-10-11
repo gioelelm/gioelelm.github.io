@@ -8,7 +8,7 @@ title = "Team"
 subtitle = "The people in the lab"
 
 # Order that this section will appear in.
-weight = 4
+weight = 2
 
 # Content.
 # Display content from the following folder.
