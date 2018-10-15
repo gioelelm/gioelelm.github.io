@@ -334,6 +334,12 @@ a[data-fancybox] img {
   animation-delay: 0.3s;
 }
 
+#about.home-section {
+  padding: 8px 0 8px 0;
+  animation: intro 2.2s both; /* NICE! */
+  animation-delay: 0.3s;
+}
+
 .home-section:first-of-type {
   padding-top: 50px;
 }
@@ -510,7 +516,7 @@ a[data-fancybox] img {
 
 #profile {
   text-align: center;
-  padding: 30px 10px;
+  padding: 2px 2px;
   position: relative;
 }
 
@@ -543,7 +549,7 @@ a[data-fancybox] img {
   flex-wrap: wrap;
   list-style: none;
   padding: 0;
-  margin-top: 30px;
+  margin-top: 3px;
 }
 
 #profile .network-icon li {
@@ -935,6 +941,7 @@ article .article-metadata {
   border-bottom: solid 1px transparent;
 }
 
+
 .card h4 a:hover {
   color: #000;
   border-bottom: solid 1px #000;
@@ -942,12 +949,17 @@ article .article-metadata {
 }
 
 .card .card-text {
-  padding: 0.75rem 1rem 0.75rem;
+  padding: 0.5rem 1rem 0.75rem;
 }
 
 .card .card-text p {
   color: #999999;
   font-size: 0.75rem;
+}
+
+.card .card-text h5 a:hover {
+  font-size: 2.75rem;
+  color: #999999;
 }
 
 .card p:last-child {
@@ -1256,13 +1268,13 @@ nav#navbar-main li {
   padding: 5px 0px 0px 2px;
 }
 
-@media screen and (max-width: 400px) { /* Match max-width of .nav-bar query. */
+@media screen and (max-width: 500px) { /* Match max-width of .nav-bar query. */
   .navbar-brand {
     max-height: 20px;
-    padding: 1px 0px 0px 2px;
+    padding: 1vw 0px 0px 3.5vw;
   }
   .navbar-brand img {
-    height: 10vw;
+    height: 8vw;
   }
 }
 

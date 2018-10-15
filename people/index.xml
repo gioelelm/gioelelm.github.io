@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peoples on Gioele La Manno</title>
+    <link>/people/</link>
+    <description>Recent content in Peoples on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/people/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gioele La Manno</title>
+      <link>/people/gioelelamanno/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/gioelelamanno/</guid>
+      <description>
+
+&lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;
+
+&lt;p&gt;I obtained my PhD at &lt;a href=&#34;http://ki.se/en/startpage&#34; target=&#34;_blank&#34;&gt;Karolinska Instituet&lt;/a&gt; and a proud member of &lt;a href=&#34;http://linnarssonlab.org/&#34; target=&#34;_blank&#34;&gt;Linnarsson Lab&lt;/a&gt;. My original training is in Biotechnology (&lt;a href=&#34;http://www.unipa.it/target/international-students/en/about/the-university/&#34; target=&#34;_blank&#34;&gt;BSc @UNIPA&lt;/a&gt;) and Biomedicine (&lt;a href=&#34;http://ki.se/en/startpage&#34; target=&#34;_blank&#34;&gt;MSc @KI&lt;/a&gt;) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.&lt;/p&gt;
+
+&lt;p&gt;My research focuses on understanding &lt;a href=&#34;https://en.wikipedia.org/wiki/Brain&#34; target=&#34;_blank&#34;&gt;brain&lt;/a&gt; development.
+ I am particularly interested in describing the sequence of states that embryonic stem  cells go through during their differentiation towards mature neurons.&lt;/p&gt;
+
+&lt;p&gt;I have been tackling this question using machine learning tools on the wealth of data provided by &lt;a href=&#34;https://www.nature.com/articles/nmeth.2801&#34; target=&#34;_blank&#34;&gt;single cell RNA sequencing&lt;/a&gt;, a technique I have been working with and developing since its early times.&lt;/p&gt;
+
+&lt;p&gt;My long-term goal is to contribute in making biology from a descriptive to a predictive science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Positions</title>
+      <link>/people/openposition1/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/openposition1/</guid>
+      <description>
+
+&lt;h1 id=&#34;openings-and-available-projects&#34;&gt;Openings and available projects&lt;/h1&gt;
+
+&lt;h2 id=&#34;postdoctoral-researcher&#34;&gt;Postdoctoral researcher&lt;/h2&gt;
+
+&lt;p&gt;We are looking for a talented individual interested in developmental biology, the nervous system and the retina. We particularly welcome applications from experimentalists with experience working with some of the following: mouse embryos, Crispr-Cas9 system, cloning, microscopy, FACS sorting, preparation of sequencing libraries.&lt;/p&gt;
+
+&lt;h2 id=&#34;phd-student-position&#34;&gt;PhD student position&lt;/h2&gt;
+
+&lt;div style=&#34;text-align: justify&#34;&gt;
+An interdisciplinary Ph.D. project in developmental neuroscience and systems biology is available at La Manno lab. The successful candidate will use a combination of cutting-edge single-cell genomics techniques, including RNA velocity, to study the embryonic development of the retina.&lt;br&gt;&lt;br&gt;
+
+The project will explore the gene regulation process leading to the determination of the different cell types in the mouse and human retina. The candidate will collect and analyze multi-omics data from single-cells to achieve a better understanding of the different stem cell states and how they transition into mature neurons.
+The project will put the candidate at the interface between neurodevelopmental biology and data science. Therefore, we welcome applications from candidates with education in either the biological sciences or applied mathematics, interested in developing beyond the boundaries of their original training.&lt;br&gt;&lt;br&gt;
+
+The research will be conducted within the environment of the EPFL School of Life Sciences and with the opportunity for international collaborations with leading members of the single- cell genomics community.&lt;br&gt;&lt;br&gt;
+&lt;/div&gt;
+
+&lt;p&gt;*&lt;em&gt;Selection of the candidate will be performed through the EPFL PhD programs&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;masters-projects&#34;&gt;Masters Projects&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Short Projects&lt;/strong&gt; (spring)&lt;br&gt;
+&lt;p style=&#34;text-align: justify&#34;&gt;
+&lt;em&gt;&amp;gt; Identification and isolation of neural stem cells using RNA-based cell sorting&lt;/em&gt; &lt;br&gt;
+&lt;em&gt;Background&lt;/em&gt;: During the development of the nervous system, an initial stem-cell pool specifies in hundreds of different neuronal cell types through a highly regulated gene regulation programs. Single-cell RNA sequencing profiling has allowed the transcriptomic characterization of many of these lineages, and importantly the definition of the sequence of intermediate states that eventually leads to the final adult cell types. To understand how gene regulation programs unfold and how mature cell forma, it is essential to characterize the many intermediate states further, beyond their transcriptome and to perform a complete epigenomic profiling. However many chromatin profiling techniques require thousands of cells as an input, and the isolate these intermediate populations from a complex tissue becomes a key step. &lt;br&gt;
+Traditional cell sorting strategies based on surface markers are not always possible or robust, they rely on surface antigens and the availability and specificity of antibodies. On the other hand, new cell sorting strategies based on hybridiazation of oligonucleotides to mRNA molecules are specific, robust and scalable. &lt;br&gt;
+&lt;em&gt;Project&lt;/em&gt;: This project aims at the separation of several neural progenitor populations with the aim of epigenetic profiling of their state. The student will: (1) Define, using single-cell data, a panel of markers which allows the isolation of different kind of neural progenitors and neuroblasts. (2) Design the FISH probes for RNA detection and sorting. (3) Use FACS sorting to separate the populations. (4) Validate with orthogonal methods the quality of the separation. (5) Prepare high throughput sequencing library from the isolated cells.
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;gt; Other projects coming soon&lt;/em&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Long Projects&lt;/strong&gt; (fall + spring)&lt;br&gt;
+Final projects for Masters degree are defined on a one to one basis. Please contact me for more information if you are interested in what we do.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lab immersions&lt;/strong&gt; (~10 weeks)&lt;br&gt;
+- &lt;em&gt;Meta-analysis of single cell RNA-seq datasets in the literature&lt;/em&gt; (required programming experience)&lt;br&gt;
+- &lt;em&gt;Analysis of single cell ATAC seq data&lt;/em&gt; (required programming experience)&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
