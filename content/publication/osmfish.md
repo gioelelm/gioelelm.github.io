@@ -11,8 +11,8 @@ authors = [
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*biorxiv*, Cold Spring Harbor Laboratory"
-publication_short = "**biorxiv**"
+publication = "*Nature Methods*, NPG"
+publication_short = "**Nature Methods**"
 
 # Abstract and optional shortened version.
 abstract = "The global efforts towards the creation of a molecular census of the brain using single-cell transcriptomics is generating a large catalog of molecularly defined cell types lacking spatial information. Thus, new methods are needed to map a large number of cell-specific markers simultaneously on large tissue areas. Here, we developed a cyclic single molecule fluorescence in situ hybridization methodology and defined the cellular organization of the somatosensory cortex using markers identified by single-cell transcriptomics."

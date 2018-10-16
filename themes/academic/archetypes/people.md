@@ -9,6 +9,8 @@ tags = []
 
 # Project summary to display on homepage.
 summary = ""
+summary_link = ""
+summary2 = ""
 
 # Optional image to display on homepage.
 image_preview = ""

@@ -6,7 +6,9 @@ date = "2018-10-10"
 title = "Gioele La Manno"
 
 # Project summary to display on homepage.
-summary = "Principal Investigator"
+summary = 'ELIFR Scholar'
+summary_link = 'https://elifr.epfl.ch/?page=program_description'
+summary2 = "Principal Investigator"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "people/glm_square.jpg"
@@ -87,7 +89,7 @@ link = "//github.com/gioelelm"
  
  # Biography
 
- I obtained my PhD at [Karolinska Instituet](http://ki.se/en/startpage) and a proud member of [Linnarsson Lab](http://linnarssonlab.org/). My original training is in Biotechnology ([BSc @UNIPA](http://www.unipa.it/target/international-students/en/about/the-university/)) and Biomedicine ([MSc @KI](http://ki.se/en/startpage)) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.
+ I earned my PhD at [Karolinska Instituet](http://ki.se/en/startpage) and I am proud alumnus of the [Linnarsson Lab](http://linnarssonlab.org/). My original training is in Biotechnology ([BSc @UNIPA](http://www.unipa.it/target/international-students/en/about/the-university/)) and Biomedicine ([MSc @KI](http://ki.se/en/startpage)) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.
  
  My research focuses on understanding [brain](https://en.wikipedia.org/wiki/Brain) development.
  I am particularly interested in describing the sequence of states that embryonic stem  cells go through during their differentiation towards mature neurons.

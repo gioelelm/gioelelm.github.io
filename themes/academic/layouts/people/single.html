@@ -20,7 +20,12 @@
     
           <div class="portrait-title">
             <h2 itemprop="name">{{ $.Params.title }}</h2>
+            <h3 itemprop="jobTitle">{{ $.Params.summary2 }}</h3>
+            {{if $.Params.summary_link}}
+            <h3 itemprop="jobTitle"><a href={{ $.Params.summary_link }}>{{ $.Params.summary }}</a></h3>
+            {{ else }}
             <h3 itemprop="jobTitle">{{ $.Params.summary }}</h3>
+            {{ end }}
           </div>
     
           <link itemprop="url" href="{{ $.Site.BaseURL }}">
