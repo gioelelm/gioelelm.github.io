@@ -49,7 +49,7 @@ An interdisciplinary Ph.D. project in developmental neuroscience and systems bio
 The project will explore the gene regulation process leading to the determination of the different cell types in the mouse and human retina. The candidate will collect and analyze multi-omics data from single-cells to achieve a better understanding of the different stem cell states and how they transition into mature neurons.
 The project will put the candidate at the interface between neurodevelopmental biology and data science. Therefore, we welcome applications from candidates with education in either the biological sciences or applied mathematics, interested in developing beyond the boundaries of their original training.<br><br>
 
-The research will be conducted within the environment of the EPFL School of Life Sciences and with the opportunity for international collaborations with leading members of the single- cell genomics community.<br><br>
+The research will be conducted within the environment of the EPFL School of Life Sciences and with the opportunity for international collaborations with leading members of the single- cell genomics community<br><br>
 </div>
 
 
