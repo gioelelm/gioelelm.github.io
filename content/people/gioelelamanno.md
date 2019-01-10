@@ -1,14 +1,14 @@
 +++
 # Date this page was created.
-date = "2018-10-10"
+date = "2019-01-01"
 
 # Project title.
-title = "Gioele La Manno"
+title = "Gioele La Manno" # note I am using UNICODE 00A0 non breaking spaces
 
 # Project summary to display on homepage.
-summary = 'ELIFR Scholar'
+summary = 'Principal Investigator'
 summary_link = 'https://elifr.epfl.ch/?page=program_description'
-summary2 = "Principal Investigator"
+summary2 = "ELISIR Fellow"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "people/glm_square.jpg"
@@ -26,8 +26,9 @@ math = false
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Molecular Systems Biology (pursuing)"
+  course = "PhD in Molecular Systems Biology"
   institution = "Karolinska Institute"
+  year = 2018
 
 [[education.courses]]
   course = "MSc in Biomedicine"
@@ -87,7 +88,7 @@ link = "//github.com/gioelelm"
  
 +++
  
- # Biography
+ # Bio
 
  I earned my PhD at [Karolinska Instituet](http://ki.se/en/startpage) and I am proud alumnus of the [Linnarsson Lab](http://linnarssonlab.org/). My original training is in Biotechnology ([BSc @UNIPA](http://www.unipa.it/target/international-students/en/about/the-university/)) and Biomedicine ([MSc @KI](http://ki.se/en/startpage)) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.
  
