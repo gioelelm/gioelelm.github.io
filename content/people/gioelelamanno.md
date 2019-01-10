@@ -3,7 +3,7 @@
 date = "2019-01-01"
 
 # Project title.
-title = "Gioele La Manno" # note I am using UNICODE 00A0 non breaking spaces
+title = "Gioele La Manno" # note I am using UNICODE 00A0 non breaking spaces
 
 # Project summary to display on homepage.
 summary = 'Principal Investigator'
