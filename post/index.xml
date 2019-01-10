@@ -8,7 +8,27 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 08 Jan 2018 00:00:00 +0100</lastBuildDate>
-    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome Halima!</title>
+      <link>/post/halima_joins/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/post/halima_joins/</guid>
+      <description>Halima Schedek joins the lab for a Masters project. She is enrolled in the Bioengineering program and has studied in biology and mathematics at McGill. With her passion for machine learning and neural networks and her knowledge of anatomy and genetics she will turn a bunch of omics data in useful insights of the molecular anatomy of the brain. Welcome Halima!</description>
+    </item>
+    
+    <item>
+      <title>Welcome Anurag!</title>
+      <link>/post/anurag_joins/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/post/anurag_joins/</guid>
+      <description>Anurag Ranjak joins the lab for a Masters project. Anurag is a Chemical Engineer with industry experience in software engineering. He will adventure in spatial transcriptpomics and image reconstruction.He recently &amp;ldquo;converted&amp;rdquo; to biology and enrolled in EPFL Masters in Life Sciences. Welcome Anurag!</description>
+    </item>
     
     <item>
       <title>RNA velocity is out in Nature</title>
@@ -16,27 +36,8 @@
       <pubDate>Wed, 08 Aug 2018 00:00:00 +0200</pubDate>
       
       <guid>/post/velocitynature/</guid>
-      <description>&lt;p&gt;In a previous preprint &lt;a href=&#34;https://www.biorxiv.org/content/early/2017/10/19/206052&#34; target=&#34;_blank&#34;&gt;RNA velocity in single cells&lt;/a&gt; we had presented the discovery that standard RNA-seq data contains additional information on the rate and direction of change in gene expression. If you haven&amp;rsquo;t read what this is about you can see my &lt;a href=&#34;/post/velocity/&#34; target=&#34;_blank&#34;&gt;previous post&lt;/a&gt; or directly go and read the more eloquent &lt;a href=&#34;https://www.nature.com/articles/d41586-018-05882-8&#34; target=&#34;_blank&#34;&gt;Nature News and Views&lt;/a&gt; kindly written by Allon Klein.&lt;/p&gt;
-
-&lt;p&gt;Now our work has gone through the process of peer review. For that, I need to thank the reviewers Allon Klein, Rahul Satija, Michael Stadler and the other anonymous reviewer. Their suggestions and criticism have importantly contributed to make the work the best it could be.&lt;/p&gt;
-
-&lt;p&gt;While the 4 main figures resemble the one of the original submission, the new version of the paper has a lot of fresh juice hidden inside a similar shell. You find a lot of new evidence both in the Extended Figures and inside the two extensive Supplementary Notes!&lt;/p&gt;
-
-&lt;p&gt;First of all, we now provide more insight into the mechanism of generation of the intronic reads. In &lt;a href=&#34;https://www.nature.com/articles/s41586-018-0414-6#Sec19&#34; target=&#34;_blank&#34;&gt;Exdended figure 1&lt;/a&gt; we show that they appear to a large extent due to internal priming in polyA-rich stretches. We also used metabolic labeling to demonstrate directly our ability to detect transcription kinetics using a polyA-dependent single-cell RNA-seq method, applied to bulk RNA.&lt;/p&gt;
-
-&lt;p&gt;We analyzed several additional datasets (presenting, in total, eight datasets): including Visual cortex activity-dependent transcription after light stimulus &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/29230054&#34; target=&#34;_blank&#34;&gt;(Hrvatin et al., Nat. Neuroscience 2017)&lt;/a&gt;
-and Small intestinal epithelium &lt;a href=&#34;https://www.nature.com/articles/nature24489&#34; target=&#34;_blank&#34;&gt;(Haber et al., Nature 2017)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I had great fun analyzing the &lt;a href=&#34;https://www.biorxiv.org/content/early/2017/12/20/237446&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Tabula Muris&amp;rdquo;&lt;/a&gt; dataset from Steve Quake’s group. The analysis has provided evidence to support our assumption of a fixed slope gamma. Studying the degradation rate in a large number of mouse tissues was also fundamental to capture how their variation and bimodality (Extended figure 3).&lt;/p&gt;
-
-&lt;p&gt;We have packed all the theory and the meaty formulas in &lt;a href=&#34;https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-018-0414-6/MediaObjects/41586_2018_414_MOESM1_ESM.pdf&#34; target=&#34;_blank&#34;&gt;Supplementary Note 1&lt;/a&gt;. The note contains the description of the kinetics model underlying RNA velocity, rate and master equations in analytical form, as well as simulated trajectories illustrating how the model behaves as parameters change.&lt;/p&gt;
-
-&lt;p&gt;A critical addendum is also &lt;a href=&#34;https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-018-0414-6/MediaObjects/41586_2018_414_MOESM3_ESM.pdf&#34; target=&#34;_blank&#34;&gt;Supplementary Note 2&lt;/a&gt; that consists of 11 sections containing valuable considerations for the accurate determination and visualization of RNA velocity. We illustrate the behavior of the model under different scenarios and discusses cases where the model fails to capture gene-specific velocity on real datasets. This is a fundamental read for whoever wants to build robust biological conclusions from velocity analysis.&lt;/p&gt;
-
-&lt;p&gt;We made major improvements to the analysis pipelines. The code was open-sourced since the bioarxiv release, that was a great experience has lead to nice input of the community and has allowed us to spot some bugs and make the command line interface cleared and more user friendly. The software is available as a nicely documented package for both R and Python (&lt;a href=&#34;http://velocyto.org&#34; target=&#34;_blank&#34;&gt;velocyto&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;Finally, a big thank you to Peter Kharchenko for the excellent collaboration and Ruslan Soldatov and Emelie Brown for their essential role during the process of revision. And, of course to Sten, for the mentoring and supervision.&lt;/p&gt;
-</description>
+      <description>In a previous preprint RNA velocity in single cells we had presented the discovery that standard RNA-seq data contains additional information on the rate and direction of change in gene expression. If you haven&amp;rsquo;t read what this is about you can see my previous post or directly go and read the more eloquent Nature News and Views kindly written by Allon Klein.
+Now our work has gone through the process of peer review.</description>
     </item>
     
     <item>
@@ -45,18 +46,8 @@ and Small intestinal epithelium &lt;a href=&#34;https://www.nature.com/articles/
       <pubDate>Sun, 27 May 2018 00:00:00 +0200</pubDate>
       
       <guid>/post/elifrcandidate/</guid>
-      <description>&lt;p&gt;Over the last few days I have been at the École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. The reason of this little trip is that the School of Life Sciences at EPFL recently opened a special position, the fellowship goes under the long name &amp;ldquo;EPFL Life Sciences Early Independence Research Scholar&amp;rdquo; shortened &amp;ldquo;ELIFR fellow&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;To explain what an &lt;strong&gt;ELIFR fellow&lt;/strong&gt; is I could simply refer to it as a &amp;ldquo;&lt;strong&gt;super-postdoc&lt;/strong&gt;&amp;rdquo;, a funny term popularized by &lt;a href=&#34;https://www.cell.com/cell/fulltext/S0092-8674(07)00316-9&#34; target=&#34;_blank&#34;&gt;this commentary on Cell&lt;/a&gt; but maybe, not yet so popular in Europe (so that I noticed that using it in a conversation often produces raised eyebrows and a grin or two). The general idea with a &lt;strong&gt;super-postdoc&lt;/strong&gt; is that a researcher, immediately after being awarded his PhD, is given the privilege to start his own &lt;strong&gt;independent lab&lt;/strong&gt; leading a small group of 3-4 people. For many years super-postdocs have been a US phenomenon, that have lead in many cases to skyrocketing career paths, just to mention three: Andrew Fire, Aviv Regev and Eric Lander come from super-postocs positions.&lt;/p&gt;
-
-&lt;p&gt;In Europe there are few institutions offering a similar opportunity, but these few ones should be given credit for their long-sightedness: the Max Plank Society, Wellcome Trust and the Research Institute for Molecular Pathology (IMP), Vienna. Notice that these are either research institutes or foundations and not universities. Actually, the fact that this kind of position was offered directly from a university, something that positively struck me when I first saw the &lt;a href=&#34;https://elifr.epfl.ch/?page=Home&#34; target=&#34;_blank&#34;&gt;ELIFR flyer&lt;/a&gt;. I think that putting together the required founding and taking the risk of opening such a position is even a bolder move coming when coming from a university, the eyes of all the other &amp;ldquo;bigs&amp;rdquo; are on you. I hope that many universities in Europe will follow EPFL pioneering step (the reason why this is desirable is nicely discussed &lt;a href=&#34;(https://www.cell.com/cell/fulltext/S0092-8674(07)00316-9)&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;So coming back to how I got to the interview&amp;hellip; Everything started while I was teaching Bioinformatics at KI, between one debugging step and another of some spaghetti R code, I started to chit-chat with a friend, &lt;a href=&#34;https://www.daublab.org/people/&#34; target=&#34;_blank&#34;&gt;Abdul Kadir Mukarram&lt;/a&gt;. The quick converstation verged on out future and other things&amp;hellip; I learned from him, then, about the opening (he is always super-humanly aware of everything happens in the european academic context!). The position sounded like a great opportunity. Since that day I took my spare time from work to put together a research project summarizing my vision. I took  the direction I believe nervous system development research should be going and tried to shape it into a project, in particular considering the latest developments of single cell RNA sequencing technology. Some weeks after submission I got contacted by EPFL communicating that I would be interviewed in May and I will have to compete with other 5 candidates for the position. It was going to be an exciting experience, to say the least!&lt;/p&gt;
-
-&lt;p&gt;The two days at EPFL certainty met my expectations! They have been one of the most exciting professional experience of my career. The schedule was quite tight but bearable. It included one-to-one meetings with &lt;strong&gt;14 members of faculty&lt;/strong&gt;, lunch with PhDs and postdocs, a &lt;strong&gt;seminar&lt;/strong&gt; to the School of Life Sciences and a closed doors &lt;strong&gt;chalk talk&lt;/strong&gt; with the 10 members of the committee where I presented my research plan. Meeting the faculty at EPFL has been extremely interesting and stimulating, the inspiration and perspective that I got from the conversations are surely worth a standalone blog-post.&lt;/p&gt;
-
-&lt;p&gt;While there, I have been greatly delighted to meet at least one of the other candidates &lt;a href=&#34;https://moisesexpositoalonso.org/&#34; target=&#34;_blank&#34;&gt;Moises Esposito-Alonso&lt;/a&gt;, unfortunately I did not cross the others but by quickly pubMed their names I realized how competitive such a position can get: I was really impressed by their scientific contributions and I have a couple of their papers on my &amp;ldquo;to-read list&amp;rdquo;. Anyways, I got the possibility to talk with &amp;ldquo;Moi&amp;rdquo; during the meals, after these conversations we knew each other at least a little and we had built reciprocal esteem and respect. At the end of the last day we wished each other full-heartedly the best of luck, I felt this as a special, rare and authentic moment moved by the awareness that we both did our best. All in all, I really think that in the end the choice of the faculty depends mostly on the research project that has more potential to integrate and gain the most from collaborative environment within the School of Life Sciences at EPFL.&lt;/p&gt;
-</description>
+      <description>Over the last few days I have been at the École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. The reason of this little trip is that the School of Life Sciences at EPFL recently opened a special position, the fellowship goes under the long name &amp;ldquo;EPFL Life Sciences Early Independence Research Scholar&amp;rdquo; shortened &amp;ldquo;ELIFR fellow&amp;rdquo;.
+To explain what an ELIFR fellow is I could simply refer to it as a &amp;ldquo;super-postdoc&amp;rdquo;, a funny term popularized by this commentary on Cell but maybe, not yet so popular in Europe (so that I noticed that using it in a conversation often produces raised eyebrows and a grin or two).</description>
     </item>
     
     <item>
@@ -65,10 +56,8 @@ and Small intestinal epithelium &lt;a href=&#34;https://www.nature.com/articles/
       <pubDate>Sun, 04 Mar 2018 00:00:00 +0100</pubDate>
       
       <guid>/post/osmfish/</guid>
-      <description>&lt;p&gt;Simone Codelluppi and Lars Borm have developed and optimized a cyclic smFISH protocol, termed ouroboros smFISH, to quantify the expression of a large number of genes in tissue sections. The goal was building a cell type map of the mouse somatosensory cortex. The results are really impressive. See the fantastic images and interactively explore the data using the Loom viewer &lt;a href=&#34;http://linnarssonlab.org/osmFISH/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Great news are not only is taht Lars and Simore have put a lot of effort to make it possible for any lab to set up the method and they provide &lt;a href=&#34;https://www.biorxiv.org/content/early/2018/03/04/276097&#34; target=&#34;_blank&#34;&gt;detailed protocol&lt;/a&gt; and a polished &lt;a href=&#34;(http://linnarssonlab.org/osmFISH/availability/)&#34; target=&#34;_blank&#34;&gt;software package&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Simone Codelluppi and Lars Borm have developed and optimized a cyclic smFISH protocol, termed ouroboros smFISH, to quantify the expression of a large number of genes in tissue sections. The goal was building a cell type map of the mouse somatosensory cortex. The results are really impressive. See the fantastic images and interactively explore the data using the Loom viewer here.
+Great news are not only is taht Lars and Simore have put a lot of effort to make it possible for any lab to set up the method and they provide detailed protocol and a polished software package.</description>
     </item>
     
     <item>
@@ -77,16 +66,8 @@ and Small intestinal epithelium &lt;a href=&#34;https://www.nature.com/articles/
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>/post/velocity/</guid>
-      <description>&lt;p&gt;Single-cell RNA-seq measurements provide a powerful approach for studying complex biological tissues. Some of the more interesting contexts involve dynamic processes, such as development or disease progression. However single-cell measurements only capture a snapshot of a transcriptional state at a single point in time.&lt;/p&gt;
-
-&lt;p&gt;Several approaches have been developed to infer dynamic processes, such as branching lineages from this scRNA-seq. Usually those methods require many strong assumptions that are often violated.&lt;/p&gt;
-
-&lt;p&gt;In our latest preprint &lt;a href=&#34;https://www.biorxiv.org/content/early/2017/10/19/206052&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;RNA velocity in single cells&amp;rdquo;&lt;/a&gt; we present the discovery that standard RNA-seq data contains additional information on the rate and direction of change in gene expression. In particular, we exploit the fact that RNA-seq data contains sequence information from which is possible to obtain simultaneous estimation of unspliced mRNA (an indicator of current transcription) and spliced mRNA (an indicator of transcription in the recent past) abundances. Modeling the relationship between the two species it is possible to compute the first derivative of the transcriptional state, which indicates the direction in which a given cell is going in transcriptional space. RNA velocity is this vector that points from the state of the cell in its recent past towards the cell state in its near future.&lt;/p&gt;
-
-&lt;p&gt;Single-cell RNA-seq analysis of developmental processes often reveal complex branching manifolds, which correspond to the underlying lineage tree of cell differentiation. In this work we show that by overlaying expression velocities of single cells, we can directly reveal the root and each terminal state of differentiation manifolds. This provides basis for quantitative modeling of cell dynamics and the associated regulatory processes.&lt;/p&gt;
-
-&lt;p&gt;A key advantage of expression velocity is the fact that it can be readily assessed in datasets currently being produced with common single-cell RNA-seq platforms, including as we show, SMART-seq2, InDrop, and 10X Genomics Chromium. The method (&lt;a href=&#34;http://velocyto.org&#34; target=&#34;_blank&#34;&gt;velocyto&lt;/a&gt;) is open-sourced and available as a nicely documented package for both R and Python.&lt;/p&gt;
-</description>
+      <description>Single-cell RNA-seq measurements provide a powerful approach for studying complex biological tissues. Some of the more interesting contexts involve dynamic processes, such as development or disease progression. However single-cell measurements only capture a snapshot of a transcriptional state at a single point in time.
+Several approaches have been developed to infer dynamic processes, such as branching lineages from this scRNA-seq. Usually those methods require many strong assumptions that are often violated.</description>
     </item>
     
   </channel>

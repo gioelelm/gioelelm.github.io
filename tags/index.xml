@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Gioele La Manno</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content tagged as &#39;scRNA-seq&#39;</title>
+      <link>/tags/scrna-seq/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/scrna-seq/</guid>
+      <description>Here is a list of all the content that has been tagged as scRNA-seq.</description>
+    </item>
+    
+    <item>
+      <title>ELIFR</title>
+      <link>/tags/elifr/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/elifr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ELISIR</title>
+      <link>/tags/elisir/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/elisir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EPFL</title>
+      <link>/tags/epfl/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/epfl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fellowships</title>
+      <link>/tags/fellowships/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fellowships/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group Leader</title>
+      <link>/tags/group-leader/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/group-leader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Masters</title>
+      <link>/tags/masters/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/masters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New member</title>
+      <link>/tags/new-member/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/new-member/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>/tags/development/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interview</title>
+      <link>/tags/interview/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>media</title>
+      <link>/tags/media/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smFISH</title>
+      <link>/tags/smfish/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/smfish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>/tags/software/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>velocity</title>
+      <link>/tags/velocity/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/velocity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

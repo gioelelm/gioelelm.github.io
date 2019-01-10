@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Group Leader on Gioele La Manno</title>
+    <link>/tags/group-leader/</link>
+    <description>Recent content in Group Leader on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/group-leader/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gioele La Manno</title>
+      <link>/people/gioelelamanno/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/people/gioelelamanno/</guid>
+      <description># Bio
+I earned my PhD at Karolinska Instituet and I am proud alumnus of the Linnarsson Lab. My original training is in Biotechnology (BSc @UNIPA) and Biomedicine (MSc @KI) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.
+My research focuses on understanding brain development. I am particularly interested in describing the sequence of states that embryonic stem cells go through during their differentiation towards mature neurons.</description>
+    </item>
+    
+    <item>
+      <title>Open Positions</title>
+      <link>/people/openposition1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/people/openposition1/</guid>
+      <description>Openings and available projects Postdoctoral researcher We are looking for a talented individual interested in developmental biology, the nervous system and the retina. We particularly welcome applications from experimentalists with experience working with some of the following: mouse embryos, Crispr-Cas9 system, cloning, microscopy, FACS sorting, preparation of sequencing libraries.
+PhD student position An interdisciplinary Ph.D. project in developmental neuroscience and systems biology is available at La Manno lab. The successful candidate will use a combination of cutting-edge single-cell genomics techniques, including RNA velocity, to study the embryonic development of the retina.</description>
+    </item>
+    
+  </channel>
+</rss>

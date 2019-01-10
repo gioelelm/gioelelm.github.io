@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content tagged as &#39;scRNA-seq&#39; on Gioele La Manno</title>
+    <link>/tags/scrna-seq/</link>
+    <description>Recent content in Content tagged as &#39;scRNA-seq&#39; on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/scrna-seq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New method reveals cell development</title>
+      <link>/media/velocitynews/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/media/velocitynews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA velocity is out in Nature</title>
+      <link>/post/velocitynature/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/post/velocitynature/</guid>
+      <description>In a previous preprint RNA velocity in single cells we had presented the discovery that standard RNA-seq data contains additional information on the rate and direction of change in gene expression. If you haven&amp;rsquo;t read what this is about you can see my previous post or directly go and read the more eloquent Nature News and Views kindly written by Allon Klein.
+Now our work has gone through the process of peer review.</description>
+    </item>
+    
+    <item>
+      <title>RNA velocity preprint</title>
+      <link>/post/velocity/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/post/velocity/</guid>
+      <description>Single-cell RNA-seq measurements provide a powerful approach for studying complex biological tissues. Some of the more interesting contexts involve dynamic processes, such as development or disease progression. However single-cell measurements only capture a snapshot of a transcriptional state at a single point in time.
+Several approaches have been developed to infer dynamic processes, such as branching lineages from this scRNA-seq. Usually those methods require many strong assumptions that are often violated.</description>
+    </item>
+    
+    <item>
+      <title>Midbrain study gives boost to Parkinson’s research</title>
+      <link>/media/ventralmidbrain/</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/media/ventralmidbrain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special nerve cells cause goose bumps and nipple erection</title>
+      <link>/media/nippleneurons/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/media/nippleneurons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conversion of brain cells offers hope for Parkinson’s patients</title>
+      <link>/media/astrocytes/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/media/astrocytes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

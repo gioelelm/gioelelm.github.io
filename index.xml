@@ -11,14 +11,32 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Gioele La Manno</title>
+      <title>Welcome Halima!</title>
+      <link>/post/halima_joins/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/post/halima_joins/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/people/openposition1/&#34; target=&#34;_self&#34; &gt;Halima Schedek&lt;/a&gt; joins the lab for a Masters project. She is enrolled in the &lt;a href=&#34;https://www.epfl.ch/education/master/programs/lifesciences/&#34; target=&#34;_blank&#34;&gt;Bioengineering program&lt;/a&gt; and has studied in biology and mathematics at &lt;a href=&#34;https://www.mcgill.ca/&#34; target=&#34;_blank&#34;&gt;McGill&lt;/a&gt;. With her passion for machine learning and  neural networks and her knowledge of anatomy and genetics she will turn a bunch of omics data in useful insights of the molecular anatomy of the brain. Welcome Halima!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome Anurag!</title>
+      <link>/post/anurag_joins/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/post/anurag_joins/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/people/openposition1/&#34; target=&#34;_self&#34; &gt;Anurag Ranjak&lt;/a&gt; joins the lab for a Masters project. Anurag is a Chemical Engineer with industry experience in software engineering. He will adventure in spatial transcriptpomics and image reconstruction.He recently &amp;ldquo;converted&amp;rdquo; to biology and enrolled in EPFL Masters in Life Sciences. Welcome Anurag!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gioele La Manno</title>
       <link>/people/gioelelamanno/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/people/gioelelamanno/</guid>
-      <description>
-
-&lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;
+      <description>&lt;p&gt;# Bio&lt;/p&gt;
 
 &lt;p&gt;I earned my PhD at &lt;a href=&#34;http://ki.se/en/startpage&#34; target=&#34;_blank&#34;&gt;Karolinska Instituet&lt;/a&gt; and I am proud alumnus of the &lt;a href=&#34;http://linnarssonlab.org/&#34; target=&#34;_blank&#34;&gt;Linnarsson Lab&lt;/a&gt;. My original training is in Biotechnology (&lt;a href=&#34;http://www.unipa.it/target/international-students/en/about/the-university/&#34; target=&#34;_blank&#34;&gt;BSc @UNIPA&lt;/a&gt;) and Biomedicine (&lt;a href=&#34;http://ki.se/en/startpage&#34; target=&#34;_blank&#34;&gt;MSc @KI&lt;/a&gt;) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.&lt;/p&gt;
 
@@ -32,57 +50,29 @@
     </item>
     
     <item>
-      <title>Open Positions</title>
-      <link>/people/openposition1/</link>
+      <title>Meet (me) the fist ELISIR Fellow</title>
+      <link>/media/elisir/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/media/elisir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Halima Schede</title>
+      <link>/people/halimaschede/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/people/openposition1/</guid>
+      <guid>/people/halimaschede/</guid>
       <description>
 
-&lt;h1 id=&#34;openings-and-available-projects&#34;&gt;Openings and available projects&lt;/h1&gt;
+&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
 
-&lt;h2 id=&#34;postdoctoral-researcher&#34;&gt;Postdoctoral researcher&lt;/h2&gt;
+&lt;p&gt;I am a current Masters student at &lt;a href=&#34;https://www.epfl.ch/en/home/&#34; target=&#34;_blank&#34;&gt;EPFL&lt;/a&gt; in the department of &lt;a href=&#34;https://www.epfl.ch/education/master/programs/lifesciences/&#34; target=&#34;_blank&#34;&gt;Life Sciences and Technology&lt;/a&gt;. I completed my BSc in Cell Biology and Anatomy, specializing in genetics, with a minor in Mathematics at &lt;a href=&#34;https://www.mcgill.ca/&#34; target=&#34;_blank&#34;&gt;McGill University&lt;/a&gt;, Canada.&lt;/p&gt;
 
-&lt;p&gt;We are looking for a talented individual interested in developmental biology, the nervous system and the retina. We particularly welcome applications from experimentalists with experience working with some of the following: mouse embryos, Crispr-Cas9 system, cloning, microscopy, FACS sorting, preparation of sequencing libraries.&lt;/p&gt;
+&lt;p&gt;It is here at EPFL where I feel like I have finally found my place in the scientific domain. I have developed a strong interest in machine learning and deep learning algorithms, in particular, their applications to the health sciences.&lt;/p&gt;
 
-&lt;h2 id=&#34;phd-student-position&#34;&gt;PhD student position&lt;/h2&gt;
-
-&lt;div style=&#34;text-align: justify&#34;&gt;
-An interdisciplinary Ph.D. project in developmental neuroscience and systems biology is available at La Manno lab. The successful candidate will use a combination of cutting-edge single-cell genomics techniques, including RNA velocity, to study the embryonic development of the retina.&lt;br&gt;&lt;br&gt;
-
-The project will explore the gene regulation process leading to the determination of the different cell types in the mouse and human retina. The candidate will collect and analyze multi-omics data from single-cells to achieve a better understanding of the different stem cell states and how they transition into mature neurons.
-The project will put the candidate at the interface between neurodevelopmental biology and data science. Therefore, we welcome applications from candidates with education in either the biological sciences or applied mathematics, interested in developing beyond the boundaries of their original training.&lt;br&gt;&lt;br&gt;
-
-The research will be conducted within the environment of the EPFL School of Life Sciences and with the opportunity for international collaborations with leading members of the single- cell genomics community.&lt;br&gt;&lt;br&gt;
-&lt;/div&gt;
-
-&lt;p&gt;*&lt;em&gt;Selection of the candidate will be performed through the EPFL PhD programs&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;masters-projects&#34;&gt;Masters Projects&lt;/h2&gt;
-
-&lt;p&gt;Some of the following projects can be adapted to shorter “Lab Immersions”. Please contact me for further information.&lt;/p&gt;
-
-&lt;p&gt;&lt;div style=&#34;text-align: justify&#34;&gt;
-&lt;strong&gt;Computational Projects&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&amp;gt; Analysis of the gene expression landscape of Retina development&lt;/em&gt;&lt;br&gt;
-&lt;em&gt;- Background&lt;/em&gt;: The mammalian adult retina is an extremely heterogeneous and organised tissue consisting in 7 major cell types further distinguishable in more than 50 subtypes. Notably, these molecularly distinct populations are generated during development from a pool of retinal progenitor cells, residing in the inner layer of the optic cup. In less than a decade since its introduction, single cell expression profiling has rapidly become the preferred approach to study cellular heterogeneity and cell type identities, and is currently used to build cellular atlases of complex tissues.&lt;br&gt;
-&lt;em&gt;- Project&lt;/em&gt;: This project consists in a exploratory data analysis of single-cell RNA sequencing dataset of  retina development. The student will: (1)  Determine the branching gene expression landscape of retina development. (2) Compare retina development in different species  (3) Apply RNA velocity to the dataset to the flow of gene expression (4) Develop an algorithmic procedure to identify putative determinants of commitment.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&amp;gt; Extensions of the RNA velocity algorithm&lt;/em&gt;&lt;br&gt;
-&lt;em&gt;- Background&lt;/em&gt;: An ambitious goal of single-cell analyses is describing dynamical biological processes and shedding light on gene regulation mechanisms. The challenge in studying these phenomena consists on the destructive nature of the measurement that can only provide a static snapshot of the single cell states. to overcome this fundamental limit of single cell technologies, I recently developed a novel method, named “RNA velocity” as it estimates the first derivative of gene expression for each gene in a cell (RNA velocity of single cells, Nature 2018). The core idea is that measuring the abundance of both unspliced and spliced RNA in the same cell, we can estimate the rate of change of gene expression and predict the future expression levels of a single cell.&lt;br&gt;
-&lt;em&gt;- Project&lt;/em&gt;: This projects will start by introducing a series of improvement to the current RNA velocity algorithm(1)  to better adapt it to different kind of datasets and (2) to provide statistical confidence interval around the estimation. The student will also (3) explore possibilities of a complete reformulation of the algorithm as a convex optimisation problem and/or statistical bayesian hierarchical model, using state of the art libraries (PyTorch, cvxpy) and modelling languages (Stan).&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&amp;gt; Combining chromatin accessibility and transcriptomics data&lt;/em&gt;&lt;br&gt;
-&lt;em&gt;- Background&lt;/em&gt;: The single cell revolution is rapidly extending from transcriptomics to many other genomics techniques including a wide set of techniques  probing the state of the chromatin. When different types of functional genomics data are generated on single cells from different samples of cells from the same heterogeneous populations, the results of the analysis (e.g. clustering) on the two datasets need to be aligned. This aligned then allows to carry on a coupled analysis of the different kind of dataset giving a more reach view of the internal molecular state of a cell.&lt;br&gt;
-&lt;em&gt;- Project&lt;/em&gt;: The projects aims at the establishment of a algorithm to align of single cell ATAC-seq data  with RNA-seq data. The student will (1) individuate from the literature datasets that can be matched and process the raw data (2) consider different approaches in the literature for the for alignment and (3) benchmark them using a recent joint single-cell/RNA-seq dataset as a ground truth standard. (4) Use what learned to explore possibilities in developing an improved strategy for the alignment that would be compatible with continuous cell types transitions (i.g. lineages in development) and it is not limited to discrete cell types.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Experimental Projects&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&amp;gt; Identification and isolation of neural stem cells using RNA-based cell sorting&lt;/em&gt;&lt;br&gt;
-&lt;em&gt;- Background&lt;/em&gt;: During the development of the nervous system, an initial stem-cell pool specifies in hundreds of different neuronal cell types through a highly regulated gene regulation programs. Single-cell RNA sequencing profiling has allowed the transcriptomic characterization of many of these lineages, and importantly the definition of the sequence of intermediate states that eventually leads to the final adult cell types. To understand how gene regulation programs unfold and how mature cell forms, it is essential to characterize the many intermediate states further. Beyond measuring their transcriptome it is important to perform a complete epigenomic profiling. However many chromatin profiling techniques require thousands of cells as an input, and isolating these intermediate populations from a complex tissue becomes a key step.
-Traditional cell sorting strategies based on surface markers are not always possible or robust, they rely on surface antigens and the availability and specificity of antibodies. On the other hand, new cell sorting strategies based on hybridization of oligonucleotides to mRNA molecules are specific, robust and scalable.&lt;br&gt;
-&lt;em&gt;- Project&lt;/em&gt;: This project aims at the separation of several neural progenitor populations with the aim of epigenetic profiling of their state. The student will: (1) Define, using single-cell data, a panel of markers which allows the isolation of different kind of neural progenitors and neuroblasts. (2) Design the FISH probes for RNA detection and sorting. (3) Use FACS sorting to separate the populations. (4) Validate with orthogonal methods the quality of the separation. (5) If time allows prepare high throughput sequencing library from the isolated cells.&lt;/p&gt;
+&lt;p&gt;With the oncoming of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Big_data&#34; target=&#34;_blank&#34;&gt;data era&lt;/a&gt;, I believe the knowledge of how to analyze data and utilize it for the creation of predictive models will become powerful tools for medicine in the near future. I would very much like to be a part of this change.&lt;/p&gt;
 </description>
     </item>
     
@@ -212,41 +202,20 @@ and Small intestinal epithelium &lt;a href=&#34;https://www.nature.com/articles/
     </item>
     
     <item>
-      <title>cytograph</title>
-      <link>/software/cytograph/</link>
+      <title>Anurag Ranjak</title>
+      <link>/people/anuragranjak/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/software/cytograph/</guid>
-      <description>&lt;p&gt;Find the github repo &lt;a href=&#34;https://github.com/linnarsson-lab/cytograph&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+      <guid>/people/anuragranjak/</guid>
+      <description>
+
+&lt;h1 id=&#34;biographical-notes&#34;&gt;Biographical notes&lt;/h1&gt;
+
+&lt;p&gt;I am a first year Masters student in Life Sciences in &lt;a href=&#34;https://www.epfl.ch/en/home/&#34; target=&#34;_blank&#34;&gt;EPFL&lt;/a&gt;.
+I am pursuing a minor in &lt;a href=&#34;https://www.epfl.ch/education/master/programs/lifesciences/&#34; target=&#34;_blank&#34;&gt;computational neuroscience&lt;/a&gt;. Before this i did my Btech &amp;amp; Mtech in Chemical Engineering from &lt;a href=&#34;http://www.iitd.ac.in/&#34; target=&#34;_blank&#34;&gt;IIT Delhi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am interested in applying computational methods to solve problems in biology.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>STRT-seq-2i: dual-index 5ʹ single cell and nucleus RNA-seq on an addressable microwell array</title>
-      <link>/publication/strtseq/</link>
-      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/strtseq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>loompy</title>
-      <link>/software/loompy/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/software/loompy/</guid>
-      <description>&lt;p&gt;Find the github repo &lt;a href=&#34;https://github.com/linnarsson-lab/loompy&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Molecular analysis of the midbrain dopaminergic niche during neurogenesis</title>
-      <link>/publication/niche/</link>
-      <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/niche/</guid>
-      <description></description>
     </item>
     
   </channel>

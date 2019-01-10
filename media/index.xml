@@ -7,8 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 09 Aug 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/media/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meet (me) the fist ELISIR Fellow</title>
+      <link>/media/elisir/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/media/elisir/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>New method reveals cell development</title>

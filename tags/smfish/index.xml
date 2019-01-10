@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>smFISH on Gioele La Manno</title>
+    <link>/tags/smfish/</link>
+    <description>Recent content in smFISH on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 04 Mar 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/smfish/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>osmFISH is really awesome</title>
+      <link>/post/osmfish/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/post/osmfish/</guid>
+      <description>Simone Codelluppi and Lars Borm have developed and optimized a cyclic smFISH protocol, termed ouroboros smFISH, to quantify the expression of a large number of genes in tissue sections. The goal was building a cell type map of the mouse somatosensory cortex. The results are really impressive. See the fantastic images and interactively explore the data using the Loom viewer here.
+Great news are not only is taht Lars and Simore have put a lot of effort to make it possible for any lab to set up the method and they provide detailed protocol and a polished software package.</description>
+    </item>
+    
+  </channel>
+</rss>

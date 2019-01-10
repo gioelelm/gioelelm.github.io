@@ -5,8 +5,8 @@
     
     <url>
     
-      <loc>/people/gioelelamanno/</loc>
-      <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+      <loc>/post/halima_joins/</loc>
+      <lastmod>2019-01-10T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -14,7 +14,34 @@
     
     <url>
     
-      <loc>/people/openposition1/</loc>
+      <loc>/post/anurag_joins/</loc>
+      <lastmod>2019-01-08T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/people/gioelelamanno/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/media/elisir/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/people/halimaschede/</loc>
       <lastmod>2018-10-10T00:00:00+00:00</lastmod>
     </url>
     
@@ -113,6 +140,15 @@
     
     <url>
     
+      <loc>/people/anuragranjak/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/software/cytograph/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -158,9 +194,16 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/tags/scrna-seq/" hreflang="en"/>
-    
       <loc>/tags/scrna-seq/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/people/openposition1/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -304,8 +347,18 @@
     
     <url>
     
-      <loc>/tags/development/</loc>
-      <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+      <loc>/tags/elifr/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/elisir/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -316,6 +369,16 @@
     
       <loc>/tags/epfl/</loc>
       <lastmod>2018-05-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/fellowships/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -335,7 +398,7 @@
     <url>
     
       <loc>/tags/group-leader/</loc>
-      <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -344,8 +407,8 @@
     
     <url>
     
-      <loc>/tags/interview/</loc>
-      <lastmod>2018-05-27T00:00:00+02:00</lastmod>
+      <loc>/tags/masters/</loc>
+      <lastmod>2018-10-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -355,7 +418,7 @@
     <url>
     
       <loc>/media/</loc>
-      <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -364,8 +427,8 @@
     
     <url>
     
-      <loc>/tags/media/</loc>
-      <lastmod>2016-10-07T00:00:00+00:00</lastmod>
+      <loc>/tags/new-member/</loc>
+      <lastmod>2019-01-10T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -375,39 +438,7 @@
     <url>
     
       <loc>/people/</loc>
-      <lastmod>2018-10-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/scrna-seq/" hreflang="en"/>
-    
-      <loc>/tags/scrna-seq/</loc>
-      <lastmod>2018-08-09T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/smfish/</loc>
-      <lastmod>2018-03-04T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/software/</loc>
-      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -428,6 +459,56 @@
     
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/development/</loc>
+      <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/interview/</loc>
+      <lastmod>2018-05-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/media/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/smfish/</loc>
+      <lastmod>2018-03-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/software/</loc>
+      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
