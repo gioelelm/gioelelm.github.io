@@ -87,12 +87,12 @@ icon_pack = "fa"
 link = "//github.com/gioelelm"
  
 +++
- 
- # Bio
 
- I earned my PhD at [Karolinska Instituet](http://ki.se/en/startpage) and I am proud alumnus of the [Linnarsson Lab](http://linnarssonlab.org/). My original training is in Biotechnology ([BSc @UNIPA](http://www.unipa.it/target/international-students/en/about/the-university/)) and Biomedicine ([MSc @KI](http://ki.se/en/startpage)) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.
+# Bio
+
+I earned my PhD at [Karolinska Instituet](http://ki.se/en/startpage) and I am proud alumnus of the [Linnarsson Lab](http://linnarssonlab.org/). My original training is in Biotechnology ([BSc @UNIPA](http://www.unipa.it/target/international-students/en/about/the-university/)) and Biomedicine ([MSc @KI](http://ki.se/en/startpage)) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.
  
- My research focuses on understanding [brain](https://en.wikipedia.org/wiki/Brain) development.
+My research focuses on understanding [brain](https://en.wikipedia.org/wiki/Brain) development.
  I am particularly interested in describing the sequence of states that embryonic stem  cells go through during their differentiation towards mature neurons.
  
 I have been tackling this question using machine learning tools on the wealth of data provided by [single cell RNA sequencing](https://www.nature.com/articles/nmeth.2801), a technique I have been working with and developing since its early times.

@@ -3,7 +3,7 @@
 date = "2018-11-01"
 
 # Project title.
-title = "Meet (me) the fist ELISIR Fellow"
+title = "Meet (me) the first ELISIR Fellow"
 
 # Project summary to display on homepage.
 summary = "I have been appointed the first Scholar of the EPFL Life Sciences Early Independence Research program (ELSIR), a revolutionary fellowship that gives talented PhD graduates the kind of research independence they could usually only get much later in their career."
