@@ -11,6 +11,45 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Gioele La Manno</title>
+      <link>/people/gioelelamanno/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/people/gioelelamanno/</guid>
+      <description>
+
+&lt;h1 id=&#34;bio&#34;&gt;Bio&lt;/h1&gt;
+
+&lt;p&gt;I earned my PhD at &lt;a href=&#34;http://ki.se/en/startpage&#34; target=&#34;_blank&#34;&gt;Karolinska Instituet&lt;/a&gt; and I am proud alumnus of the &lt;a href=&#34;http://linnarssonlab.org/&#34; target=&#34;_blank&#34;&gt;Linnarsson Lab&lt;/a&gt;. My original training is in Biotechnology (&lt;a href=&#34;http://www.unipa.it/target/international-students/en/about/the-university/&#34; target=&#34;_blank&#34;&gt;BSc @UNIPA&lt;/a&gt;) and Biomedicine (&lt;a href=&#34;http://ki.se/en/startpage&#34; target=&#34;_blank&#34;&gt;MSc @KI&lt;/a&gt;) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.&lt;/p&gt;
+
+&lt;p&gt;My research focuses on understanding &lt;a href=&#34;https://en.wikipedia.org/wiki/Brain&#34; target=&#34;_blank&#34;&gt;brain&lt;/a&gt; development.
+ I am particularly interested in describing the sequence of states that embryonic stem  cells go through during their differentiation towards mature neurons.&lt;/p&gt;
+
+&lt;p&gt;I have been tackling this question using machine learning tools on the wealth of data provided by &lt;a href=&#34;https://www.nature.com/articles/nmeth.2801&#34; target=&#34;_blank&#34;&gt;single cell RNA sequencing&lt;/a&gt;, a technique I have been working with and developing since its early times.&lt;/p&gt;
+
+&lt;p&gt;My long-term goal is to contribute in making biology from a descriptive to a predictive science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alex Lederer</title>
+      <link>/people/alexlederer/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/people/alexlederer/</guid>
+      <description>
+
+&lt;h1 id=&#34;short-bio&#34;&gt;Short Bio&lt;/h1&gt;
+
+&lt;p&gt;I am an incoming PhD student of the Computational and Quantitative Biology (EDCB) Program at EPFL. Originally from the United States, I completed my BSc in Molecular Biology and Computer Science at the &lt;a href=&#34;https://www.pitt.edu/&#34; target=&#34;_blank&#34;&gt;University of Pittsburgh&lt;/a&gt; before working as a bioinformatician at &lt;a href=&#34;https://www.embl.de/&#34; target=&#34;_blank&#34;&gt;EMBL Heidelberg&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;During my studies, I have been captivated by the rapidly-growing field of bioinformatics in light of the big data boom and ongoing advances in next-generation sequencing technologies. I will use a hybrid of novel experimental and computational methods to explore the neurodevelopment of the retina in several species. I also aim to contribute to the expansion of the bioinformatics toolkit available to the genomics community. I am excited to be part of an interdisciplinary team and a university with a strong reputation for working at the interface of biology and computation.&lt;/p&gt;
+
+&lt;p&gt;Proud alumnus of the &lt;a href=&#34;https://www.embl.de/research/units/genome_biology/steinmetz/&#34; target=&#34;_blank&#34;&gt;Steinmetz&lt;/a&gt; and &lt;a href=&#34;https://www.biology.pitt.edu/person/karen-arndt&#34; target=&#34;_blank&#34;&gt;Arndt labs&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome Halima!</title>
       <link>/post/halima_joins/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0100</pubDate>
@@ -27,27 +66,6 @@
       
       <guid>/post/anurag_joins/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;/people/openposition1/&#34; target=&#34;_self&#34; &gt;Anurag Ranjak&lt;/a&gt; joins the lab for a Masters project. Anurag is a Chemical Engineer with industry experience in software engineering. He will adventure in spatial transcriptpomics and image reconstruction.He recently &amp;ldquo;converted&amp;rdquo; to biology and enrolled in EPFL Masters in Life Sciences. Welcome Anurag!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Gioele La Manno</title>
-      <link>/people/gioelelamanno/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/people/gioelelamanno/</guid>
-      <description>
-
-&lt;h1 id=&#34;bio&#34;&gt;Bio&lt;/h1&gt;
-
-&lt;p&gt;I earned my PhD at &lt;a href=&#34;http://ki.se/en/startpage&#34; target=&#34;_blank&#34;&gt;Karolinska Instituet&lt;/a&gt; and I am proud alumnus of the &lt;a href=&#34;http://linnarssonlab.org/&#34; target=&#34;_blank&#34;&gt;Linnarsson Lab&lt;/a&gt;. My original training is in Biotechnology (&lt;a href=&#34;http://www.unipa.it/target/international-students/en/about/the-university/&#34; target=&#34;_blank&#34;&gt;BSc @UNIPA&lt;/a&gt;) and Biomedicine (&lt;a href=&#34;http://ki.se/en/startpage&#34; target=&#34;_blank&#34;&gt;MSc @KI&lt;/a&gt;) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.&lt;/p&gt;
-
-&lt;p&gt;My research focuses on understanding &lt;a href=&#34;https://en.wikipedia.org/wiki/Brain&#34; target=&#34;_blank&#34;&gt;brain&lt;/a&gt; development.
- I am particularly interested in describing the sequence of states that embryonic stem  cells go through during their differentiation towards mature neurons.&lt;/p&gt;
-
-&lt;p&gt;I have been tackling this question using machine learning tools on the wealth of data provided by &lt;a href=&#34;https://www.nature.com/articles/nmeth.2801&#34; target=&#34;_blank&#34;&gt;single cell RNA sequencing&lt;/a&gt;, a technique I have been working with and developing since its early times.&lt;/p&gt;
-
-&lt;p&gt;My long-term goal is to contribute in making biology from a descriptive to a predictive science.&lt;/p&gt;
 </description>
     </item>
     
@@ -200,23 +218,6 @@ and Small intestinal epithelium &lt;a href=&#34;https://www.nature.com/articles/
       
       <guid>/software/velocyto/</guid>
       <description>&lt;p&gt;Find the github repo &lt;a href=&#34;https://github.com/velocyto-team/velocyto.py&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Anurag Ranjak</title>
-      <link>/people/anuragranjak/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/people/anuragranjak/</guid>
-      <description>
-
-&lt;h1 id=&#34;biographical-notes&#34;&gt;Biographical notes&lt;/h1&gt;
-
-&lt;p&gt;I am a first year Masters student in Life Sciences in &lt;a href=&#34;https://www.epfl.ch/en/home/&#34; target=&#34;_blank&#34;&gt;EPFL&lt;/a&gt;.
-I am pursuing a minor in &lt;a href=&#34;https://www.epfl.ch/education/master/programs/lifesciences/&#34; target=&#34;_blank&#34;&gt;computational neuroscience&lt;/a&gt;. Before this i did my Btech &amp;amp; Mtech in Chemical Engineering from &lt;a href=&#34;http://www.iitd.ac.in/&#34; target=&#34;_blank&#34;&gt;IIT Delhi&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I am interested in applying computational methods to solve problems in biology.&lt;/p&gt;
 </description>
     </item>
     

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,21 @@
     <item>
       <title>Gioele La Manno</title>
       <link>/people/gioelelamanno/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/people/gioelelamanno/</guid>
       <description>Bio I earned my PhD at Karolinska Instituet and I am proud alumnus of the Linnarsson Lab. My original training is in Biotechnology (BSc @UNIPA) and Biomedicine (MSc @KI) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.
 My research focuses on understanding brain development. I am particularly interested in describing the sequence of states that embryonic stem cells go through during their differentiation towards mature neurons.</description>
+    </item>
+    
+    <item>
+      <title>Alex Lederer</title>
+      <link>/people/alexlederer/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/people/alexlederer/</guid>
+      <description>Short Bio I am an incoming PhD student of the Computational and Quantitative Biology (EDCB) Program at EPFL. Originally from the United States, I completed my BSc in Molecular Biology and Computer Science at the University of Pittsburgh before working as a bioinformatician at EMBL Heidelberg.
+During my studies, I have been captivated by the rapidly-growing field of bioinformatics in light of the big data boom and ongoing advances in next-generation sequencing technologies.</description>
     </item>
     
     <item>
