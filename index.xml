@@ -13,7 +13,7 @@
     <item>
       <title>Gioele La Manno</title>
       <link>/people/gioelelamanno/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/people/gioelelamanno/</guid>
       <description>
@@ -28,6 +28,22 @@
 &lt;p&gt;I have been tackling this question using machine learning tools on the wealth of data provided by &lt;a href=&#34;https://www.nature.com/articles/nmeth.2801&#34; target=&#34;_blank&#34;&gt;single cell RNA sequencing&lt;/a&gt;, a technique I have been working with and developing since its early times.&lt;/p&gt;
 
 &lt;p&gt;My long-term goal is to contribute in making biology from a descriptive to a predictive science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Irina Khven</title>
+      <link>/people/irinakhven/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/people/irinakhven/</guid>
+      <description>
+
+&lt;h1 id=&#34;short-bio&#34;&gt;Short Bio&lt;/h1&gt;
+
+&lt;p&gt;I have recently completed my Masters at &lt;a href=&#34;https://www.msu.ru/en/info/struct/depts/fbb.html&#34; target=&#34;_blank&#34;&gt;Moscow State University, Department of Bioengineering and Bioinformatics&lt;/a&gt;. During my undergraduate studies I’ve worked in a molecular biology lab and received a comprehensive training in many techniques. Both of my  internships - in &lt;a href=&#34;http://www.bc.biol.ethz.ch/research/weis.html&#34; target=&#34;_blank&#34;&gt;Weis lab at ETH Zurich&lt;/a&gt; and in &lt;a href=&#34;https://ist.ac.at/en/research/life-sciences/siegert-group/&#34; target=&#34;_blank&#34;&gt;Seigert lab at IST Austria&lt;/a&gt; - helped me realize that molecular neuroscience is the most exciting branch of modern biology to me.&lt;/p&gt;
+
+&lt;p&gt;I chose to do my PhD in La Manno group because it is a great chance to work on the interface of neuroscience, developmental biology and systems biology. My project will be dedicated to the retina development and regeneration. Using a set of state-of-art experimental techniques like scRNA-seq and &lt;a href=&#34;http://linnarssonlab.org/osmFISH/&#34; target=&#34;_blank&#34;&gt;cyclic smFISH&lt;/a&gt;, I hope to be able to contribute to our knowledge in this field.&lt;/p&gt;
 </description>
     </item>
     
@@ -208,16 +224,6 @@ and Small intestinal epithelium &lt;a href=&#34;https://www.nature.com/articles/
 &lt;p&gt;Single-cell RNA-seq analysis of developmental processes often reveal complex branching manifolds, which correspond to the underlying lineage tree of cell differentiation. In this work we show that by overlaying expression velocities of single cells, we can directly reveal the root and each terminal state of differentiation manifolds. This provides basis for quantitative modeling of cell dynamics and the associated regulatory processes.&lt;/p&gt;
 
 &lt;p&gt;A key advantage of expression velocity is the fact that it can be readily assessed in datasets currently being produced with common single-cell RNA-seq platforms, including as we show, SMART-seq2, InDrop, and 10X Genomics Chromium. The method (&lt;a href=&#34;http://velocyto.org&#34; target=&#34;_blank&#34;&gt;velocyto&lt;/a&gt;) is open-sourced and available as a nicely documented package for both R and Python.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>velocyto</title>
-      <link>/software/velocyto/</link>
-      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/software/velocyto/</guid>
-      <description>&lt;p&gt;Find the github repo &lt;a href=&#34;https://github.com/velocyto-team/velocyto.py&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,20 @@
     <item>
       <title>Gioele La Manno</title>
       <link>/people/gioelelamanno/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/people/gioelelamanno/</guid>
       <description>Bio I earned my PhD at Karolinska Instituet and I am proud alumnus of the Linnarsson Lab. My original training is in Biotechnology (BSc @UNIPA) and Biomedicine (MSc @KI) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.
 My research focuses on understanding brain development. I am particularly interested in describing the sequence of states that embryonic stem cells go through during their differentiation towards mature neurons.</description>
+    </item>
+    
+    <item>
+      <title>Irina Khven</title>
+      <link>/people/irinakhven/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/people/irinakhven/</guid>
+      <description>Short Bio I have recently completed my Masters at Moscow State University, Department of Bioengineering and Bioinformatics. During my undergraduate studies I’ve worked in a molecular biology lab and received a comprehensive training in many techniques. Both of my internships - in Weis lab at ETH Zurich and in Seigert lab at IST Austria - helped me realize that molecular neuroscience is the most exciting branch of modern biology to me.</description>
     </item>
     
     <item>
