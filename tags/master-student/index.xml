@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Master Student on Gioele La Manno</title>
+    <link>/tags/master-student/</link>
+    <description>Recent content in Master Student on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/master-student/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dimitri Lallement</title>
+      <link>/people/dimitrilallement/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/dimitrilallement/</guid>
+      <description>Short Bio Coming Soom</description>
+    </item>
+    
+  </channel>
+</rss>

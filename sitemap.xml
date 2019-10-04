@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/dimitri_joins/</loc>
+      <lastmod>2019-10-04T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/people/gioelelamanno/</loc>
       <lastmod>2019-05-18T00:00:00+00:00</lastmod>
     </url>
@@ -159,6 +168,15 @@
     <url>
     
       <loc>/people/anuragranjak/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/people/dimitrilallement/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -425,6 +443,16 @@
     
     <url>
     
+      <loc>/tags/master-student/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/masters/</loc>
       <lastmod>2018-10-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -446,7 +474,7 @@
     <url>
     
       <loc>/tags/new-member/</loc>
-      <lastmod>2019-01-10T00:00:00+01:00</lastmod>
+      <lastmod>2019-10-04T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
