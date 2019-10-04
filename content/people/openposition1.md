@@ -40,16 +40,17 @@ link = "mailto:gioelelamanno@gmail.com"
 
 ## Postdoctoral researcher
 
-We are looking for a talented individual interested in developmental biology, the nervous system and the retina. We particularly welcome applications from experimentalists with experience working with some of the following: mouse embryos, Crispr-Cas9 system, cloning, microscopy, FACS sorting, preparation of sequencing libraries.
+[Read the full call in pdf here!](/files/postdocCZI.pdf)
+
+The research project offered will be focused on **developing new computational approaches** to integrate single-cell/nuclei RNA-seq and ATAC-seq data generated from archival material. The successful candidate will develop new analysis approaches and apply them to a comprehensive human oligodendroglia dataset. The overarching goal is understanding gene regulation in the specification and maintenance of **oligodendrocyte lineage in the human brain**.
+
+The candidate will have the possibility to work with a **unique single-cell dataset** obtained from biopsies and post-mortem brains from different regions, ages, and sexes. The project, funded by CZI, is low-risk and high-impact as ensured by the value of the dataset we have obtained and the importance, for the wider **Human Cell Atlas community**, of new analysis schemes that we will develop.
+
+Please send your request as a single PDF file – including a CV, a complete list of publications, a statement of research interests, and the contact information of at least two reference persons – to <a href="mailto:nsbl.openings@epfl.ch">nsbl.openings@epfl.ch</a>.
 
 ## PhD student position
 <div style="text-align: justify">
-An interdisciplinary Ph.D. project in developmental neuroscience and systems biology is available at La Manno lab. The successful candidate will use a combination of cutting-edge single-cell genomics techniques, including RNA velocity, to study the embryonic development of the retina.<br><br>
-
-The project will explore the gene regulation process leading to the determination of the different cell types in the mouse and human retina. The candidate will collect and analyze multi-omics data from single-cells to achieve a better understanding of the different stem cell states and how they transition into mature neurons.
-The project will put the candidate at the interface between neurodevelopmental biology and data science. Therefore, we welcome applications from candidates with education in either the biological sciences or applied mathematics, interested in developing beyond the boundaries of their original training.<br><br>
-
-The research will be conducted within the environment of the EPFL School of Life Sciences and with the opportunity for international collaborations with leading members of the single- cell genomics community<br><br>
+There are no open positions at thee moment. Outstanding candidates might still be considered, to eenquiree please contact me at <a href="mailto:gioele.lamanno@epfl.ch">gioele.lamanno@epfl.ch</a>
 </div>
 
 
@@ -62,10 +63,6 @@ Some of the following projects can be adapted to shorter “Lab Immersions”. P
 <div style="text-align: justify">
 **Computational Projects**
 
-*> Analysis of the gene expression landscape of Retina development*<br>
-*- Background*: The mammalian adult retina is an extremely heterogeneous and organised tissue consisting in 7 major cell types further distinguishable in more than 50 subtypes. Notably, these molecularly distinct populations are generated during development from a pool of retinal progenitor cells, residing in the inner layer of the optic cup. In less than a decade since its introduction, single cell expression profiling has rapidly become the preferred approach to study cellular heterogeneity and cell type identities, and is currently used to build cellular atlases of complex tissues.<br>
-*- Project*: This project consists in a exploratory data analysis of single-cell RNA sequencing dataset of  retina development. The student will: (1)  Determine the branching gene expression landscape of retina development. (2) Compare retina development in different species  (3) Apply RNA velocity to the dataset to the flow of gene expression (4) Develop an algorithmic procedure to identify putative determinants of commitment.
-
 *> Extensions of the RNA velocity algorithm*<br>
 *- Background*: An ambitious goal of single-cell analyses is describing dynamical biological processes and shedding light on gene regulation mechanisms. The challenge in studying these phenomena consists on the destructive nature of the measurement that can only provide a static snapshot of the single cell states. to overcome this fundamental limit of single cell technologies, I recently developed a novel method, named “RNA velocity” as it estimates the first derivative of gene expression for each gene in a cell (RNA velocity of single cells, Nature 2018). The core idea is that measuring the abundance of both unspliced and spliced RNA in the same cell, we can estimate the rate of change of gene expression and predict the future expression levels of a single cell.<br>
 *- Project*: This projects will start by introducing a series of improvement to the current RNA velocity algorithm(1)  to better adapt it to different kind of datasets and (2) to provide statistical confidence interval around the estimation. The student will also (3) explore possibilities of a complete reformulation of the algorithm as a convex optimisation problem and/or statistical bayesian hierarchical model, using state of the art libraries (PyTorch, cvxpy) and modelling languages (Stan).
@@ -76,10 +73,9 @@ Some of the following projects can be adapted to shorter “Lab Immersions”. P
 
 **Experimental Projects**
 
-*> Identification and isolation of neural stem cells using RNA-based cell sorting*<br>
-*- Background*: During the development of the nervous system, an initial stem-cell pool specifies in hundreds of different neuronal cell types through a highly regulated gene regulation programs. Single-cell RNA sequencing profiling has allowed the transcriptomic characterization of many of these lineages, and importantly the definition of the sequence of intermediate states that eventually leads to the final adult cell types. To understand how gene regulation programs unfold and how mature cell forms, it is essential to characterize the many intermediate states further. Beyond measuring their transcriptome it is important to perform a complete epigenomic profiling. However many chromatin profiling techniques require thousands of cells as an input, and isolating these intermediate populations from a complex tissue becomes a key step.
-Traditional cell sorting strategies based on surface markers are not always possible or robust, they rely on surface antigens and the availability and specificity of antibodies. On the other hand, new cell sorting strategies based on hybridization of oligonucleotides to mRNA molecules are specific, robust and scalable.<br>
-*- Project*: This project aims at the separation of several neural progenitor populations with the aim of epigenetic profiling of their state. The student will: (1) Define, using single-cell data, a panel of markers which allows the isolation of different kind of neural progenitors and neuroblasts. (2) Design the FISH probes for RNA detection and sorting. (3) Use FACS sorting to separate the populations. (4) Validate with orthogonal methods the quality of the separation. (5) If time allows prepare high throughput sequencing library from the isolated cells.
+*> Identification of different population of neural progenitors by spatial transcriptomics*<br>
+*- Background*: During the development of the nervous system, an initial stem-cell pool specifies in hundreds of different neuronal cell types through a highly regulated gene regulation programs. Single-cell RNA sequencing profiling has allowed the transcriptomic characterization of many of these lineages, and importantly the definition of the sequence of intermediate states that eventually leads to the final adult cell types. To understand how gene regulation programs unfold and how mature cell forms, it is essential to characterize the many intermediate states further. Beyond measuring their transcriptome it is important to localize those cells in the tissue to start understanding their function<br>
+*- Project*: This project aims at the identification of spatial localization of different populations of radial-glial progenitors. The student will: (1) Design a set of in-situ hybridization probes, starting from single-cell data. (2) Validate the FISH probes. (3) Collect images across the ventricular zone of mouse embryos of different ages. (4) Perform data analysis to integrate the information collected.
 
 
 
