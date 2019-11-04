@@ -21,27 +21,6 @@
     </item>
     
     <item>
-      <title>Gioele La Manno</title>
-      <link>/people/gioelelamanno/</link>
-      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/people/gioelelamanno/</guid>
-      <description>
-
-&lt;h1 id=&#34;bio&#34;&gt;Bio&lt;/h1&gt;
-
-&lt;p&gt;I earned my PhD at &lt;a href=&#34;http://ki.se/en/startpage&#34; target=&#34;_blank&#34;&gt;Karolinska Instituet&lt;/a&gt; and I am proud alumnus of the &lt;a href=&#34;http://linnarssonlab.org/&#34; target=&#34;_blank&#34;&gt;Linnarsson Lab&lt;/a&gt;. My original training is in Biotechnology (&lt;a href=&#34;http://www.unipa.it/target/international-students/en/about/the-university/&#34; target=&#34;_blank&#34;&gt;BSc @UNIPA&lt;/a&gt;) and Biomedicine (&lt;a href=&#34;http://ki.se/en/startpage&#34; target=&#34;_blank&#34;&gt;MSc @KI&lt;/a&gt;) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.&lt;/p&gt;
-
-&lt;p&gt;My research focuses on understanding &lt;a href=&#34;https://en.wikipedia.org/wiki/Brain&#34; target=&#34;_blank&#34;&gt;brain&lt;/a&gt; development.
- I am particularly interested in describing the sequence of states that embryonic stem  cells go through during their differentiation towards mature neurons.&lt;/p&gt;
-
-&lt;p&gt;I have been tackling this question using machine learning tools on the wealth of data provided by &lt;a href=&#34;https://www.nature.com/articles/nmeth.2801&#34; target=&#34;_blank&#34;&gt;single cell RNA sequencing&lt;/a&gt;, a technique I have been working with and developing since its early times.&lt;/p&gt;
-
-&lt;p&gt;My long-term goal is to contribute in making biology from a descriptive to a predictive science.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Irina Khven</title>
       <link>/people/irinakhven/</link>
       <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
@@ -81,7 +60,7 @@
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>/post/halima_joins/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;/people/halimaschede/&#34; target=&#34;_self&#34; &gt;Halima Schedek&lt;/a&gt; joins the lab for a Masters project. She is enrolled in the &lt;a href=&#34;https://www.epfl.ch/education/master/programs/lifesciences/&#34; target=&#34;_blank&#34;&gt;Bioengineering program&lt;/a&gt; and has studied in biology and mathematics at &lt;a href=&#34;https://www.mcgill.ca/&#34; target=&#34;_blank&#34;&gt;McGill&lt;/a&gt;. With her passion for machine learning and  neural networks and her knowledge of anatomy and genetics she will turn a bunch of omics data in useful insights of the molecular anatomy of the brain. Welcome Halima!&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;/people/alumni/&#34; target=&#34;_self&#34; &gt;Halima Schede&lt;/a&gt; joins the lab for a Masters project. She is enrolled in the &lt;a href=&#34;https://www.epfl.ch/education/master/programs/lifesciences/&#34; target=&#34;_blank&#34;&gt;Bioengineering program&lt;/a&gt; and has studied in biology and mathematics at &lt;a href=&#34;https://www.mcgill.ca/&#34; target=&#34;_blank&#34;&gt;McGill&lt;/a&gt;. With her passion for machine learning and  neural networks and her knowledge of anatomy and genetics she will turn a bunch of omics data in useful insights of the molecular anatomy of the brain. Welcome Halima!&lt;/p&gt;
 </description>
     </item>
     
@@ -91,7 +70,48 @@
       <pubDate>Tue, 08 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>/post/anurag_joins/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;/people/anuragranjak/&#34; target=&#34;_self&#34; &gt;Anurag Ranjak&lt;/a&gt; joins the lab for a Masters project. Anurag is a Chemical Engineer with industry experience in software engineering. He will adventure in spatial transcriptpomics and image reconstruction.He recently &amp;ldquo;converted&amp;rdquo; to biology and enrolled in EPFL Masters in Life Sciences. Welcome Anurag!&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;/people/alumni/&#34; target=&#34;_self&#34; &gt;Anurag Ranjak&lt;/a&gt; joins the lab for a Masters project. Anurag is a Chemical Engineer with industry experience in software engineering. He will adventure in spatial transcriptpomics and image reconstruction.He recently &amp;ldquo;converted&amp;rdquo; to biology and enrolled in EPFL Masters in Life Sciences. Welcome Anurag!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dimitri Lallement</title>
+      <link>/people/dimitrilallement/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/people/dimitrilallement/</guid>
+      <description>
+
+&lt;h1 id=&#34;short-bio&#34;&gt;Short Bio&lt;/h1&gt;
+
+&lt;p&gt;I am a final-year student in a Master of Computer Science and I am part of an exchange program at &lt;a href=&#34;https://www.epfl.ch/en/&#34; target=&#34;_blank&#34;&gt;EPFL&lt;/a&gt; for a semester.
+I completed my bachelor in computer science at the &lt;a href=&#34;http://www.grenoble-inp.fr/en&#34; target=&#34;_blank&#34;&gt;Polytechnic Institute of Grenoble&lt;/a&gt; and for the last couple years I have been working part time for the French space agency: the &lt;a href=&#34;https://cnes.fr/en&#34; target=&#34;_blank&#34;&gt;CNES&lt;/a&gt;.
+I am a member of a machine learning project that aims to apply artificial intelligence concepts on business data. This project gives me the opportunity to work on various data types (space, financial&amp;hellip;).&lt;/p&gt;
+
+&lt;p&gt;Currently, I wish to investigate biological data through my Master&amp;rsquo;s project.
+I am glad that my studies led me to work in the biology branch, which allows me to explore new biological analysis techniques.
+I am extremely interested in the evolution of data sciences and the new perspectives they offer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gioele La Manno</title>
+      <link>/people/gioelelamanno/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/gioelelamanno/</guid>
+      <description>
+
+&lt;h1 id=&#34;bio&#34;&gt;Bio&lt;/h1&gt;
+
+&lt;p&gt;I earned my PhD at &lt;a href=&#34;http://ki.se/en/startpage&#34; target=&#34;_blank&#34;&gt;Karolinska Instituet&lt;/a&gt; and I am proud alumnus of the &lt;a href=&#34;http://linnarssonlab.org/&#34; target=&#34;_blank&#34;&gt;Linnarsson Lab&lt;/a&gt;. My original training is in Biotechnology (&lt;a href=&#34;http://www.unipa.it/target/international-students/en/about/the-university/&#34; target=&#34;_blank&#34;&gt;BSc @UNIPA&lt;/a&gt;) and Biomedicine (&lt;a href=&#34;http://ki.se/en/startpage&#34; target=&#34;_blank&#34;&gt;MSc @KI&lt;/a&gt;) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.&lt;/p&gt;
+
+&lt;p&gt;My research focuses on understanding &lt;a href=&#34;https://en.wikipedia.org/wiki/Brain&#34; target=&#34;_blank&#34;&gt;brain&lt;/a&gt; development.
+ I am particularly interested in describing the sequence of states that embryonic stem  cells go through during their differentiation towards mature neurons.&lt;/p&gt;
+
+&lt;p&gt;I have been tackling this question using machine learning tools on the wealth of data provided by &lt;a href=&#34;https://www.nature.com/articles/nmeth.2801&#34; target=&#34;_blank&#34;&gt;single cell RNA sequencing&lt;/a&gt;, a technique I have been working with and developing since its early times.&lt;/p&gt;
+
+&lt;p&gt;My long-term goal is to contribute in making biology from a descriptive to a predictive science.&lt;/p&gt;
 </description>
     </item>
     
@@ -105,20 +125,187 @@
     </item>
     
     <item>
-      <title>Halima Schede</title>
-      <link>/people/halimaschede/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Alumni</title>
+      <link>/people/alumni/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/people/halimaschede/</guid>
+      <guid>/people/alumni/</guid>
       <description>
 
-&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
+&lt;h1 id=&#34;master-students&#34;&gt;Master Students&lt;/h1&gt;
 
-&lt;p&gt;I am a current Masters student at &lt;a href=&#34;https://www.epfl.ch/en/home/&#34; target=&#34;_blank&#34;&gt;EPFL&lt;/a&gt; in the department of &lt;a href=&#34;https://www.epfl.ch/education/master/programs/lifesciences/&#34; target=&#34;_blank&#34;&gt;Life Sciences and Technology&lt;/a&gt;. I completed my BSc in Cell Biology and Anatomy, specializing in genetics, with a minor in Mathematics at &lt;a href=&#34;https://www.mcgill.ca/&#34; target=&#34;_blank&#34;&gt;McGill University&lt;/a&gt;, Canada.&lt;/p&gt;
+&lt;style&gt;
 
-&lt;p&gt;It is here at EPFL where I feel like I have finally found my place in the scientific domain. I have developed a strong interest in machine learning and deep learning algorithms, in particular, their applications to the health sciences.&lt;/p&gt;
+img.minion {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 175px; /* Set a small width */
+}
 
-&lt;p&gt;With the oncoming of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Big_data&#34; target=&#34;_blank&#34;&gt;data era&lt;/a&gt;, I believe the knowledge of how to analyze data and utilize it for the creation of predictive models will become powerful tools for medicine in the near future. I would very much like to be a part of this change.&lt;/p&gt;
+/* Add a hover effect (blue shadow) */
+img.minion:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 220px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: &#34;&#34;;
+  display: table;
+  clear: both;
+}
+&lt;/style&gt;
+
+&lt;p&gt;&lt;body&gt;
+    &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;column&#34; style=&#34;width: 25%;&#34;&gt;
+            &lt;a target=&#34;_blank&#34; href=&#34;/img/people/halima_square.jpg&#34;&gt;
+                &lt;img class=&#34;minion&#34; src=&#34;/img/people/halima_square.jpg&#34; alt=&#34;Halima&#34;&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;column&#34; style=&#34;width: 75%;&#34;&gt;
+            &lt;font size=&#34;+2&#34;&gt; Halima Schede&lt;/font&gt;&lt;br&gt;
+            &lt;strong&gt;Joined as an EPFL Master student&lt;/strong&gt; &lt;br&gt;
+            &lt;strong&gt;Currently @ EPFL - Master student&lt;/strong&gt; &lt;br&gt;
+            &lt;strong&gt;Short info&lt;/strong&gt;: Halima joined the lab with a strong interest in machine learning and deep learning algorithms, in particular, their applications to the health sciences. She worked to the development of computational methods allowing spatial omics profiling.
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;column&#34; style=&#34;width: 25%;&#34;&gt;
+            &lt;a target=&#34;_blank&#34; href=&#34;/img/people/anurag_square.jpg&#34;&gt;
+                &lt;img class=&#34;minion&#34; src=&#34;/img/people/anurag_square.jpg&#34; alt=&#34;Anurag&#34;&gt;
+            &lt;/a&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;column&#34; style=&#34;width: 75%;&#34;&gt;
+            &lt;font size=&#34;+2&#34;&gt; Anurag Ranjak &lt;/font&gt;&lt;br&gt;
+            &lt;strong&gt;Joined as an EPFL Master student&lt;/strong&gt; &lt;br&gt;
+            &lt;strong&gt;Currently @ EPFL - Master student&lt;/strong&gt; &lt;br&gt;
+            &lt;strong&gt;Short info&lt;/strong&gt;: Anurag joined the lab with a past in Chemical engineering, switching to biology following his newborn passion. He implemented optimization algorithms to solve problems related to spatial transcriptomics.
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/body&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;bachelor-students&#34;&gt;Bachelor Students&lt;/h1&gt;
+
+&lt;p&gt;&lt;body&gt;
+&lt;div class=&#34;row&#34;&gt;
+    &lt;div class=&#34;column&#34; style=&#34;width: 25%;&#34;&gt;
+        &lt;a target=&#34;_blank&#34; href=&#34;/img/people/luca_square.jpg&#34;&gt;
+            &lt;img class=&#34;minion&#34; src=&#34;/img/people/luca_square.jpg&#34; alt=&#34;Luca&#34;&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;column&#34; style=&#34;width: 75%;&#34;&gt;
+        &lt;font size=&#34;+2&#34;&gt; Luca Fusar Bassini &lt;/font&gt;&lt;br&gt;
+        &lt;strong&gt;Currently @ Scuola Normale Superiore di Pisa&lt;/strong&gt; &lt;br&gt;
+        &lt;strong&gt;Short info&lt;/strong&gt;: Luca joined us for a short project where he developed models of the population dynamics of the retina.
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Positions</title>
+      <link>/people/openposition1/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/openposition1/</guid>
+      <description>
+
+&lt;h1 id=&#34;openings-and-available-projects&#34;&gt;Openings and available projects&lt;/h1&gt;
+
+&lt;h2 id=&#34;postdoctoral-researcher&#34;&gt;Postdoctoral researcher&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;/files/postdocCZI.pdf&#34;&gt;Read the full call in pdf here!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The research project offered will be focused on &lt;strong&gt;developing new computational approaches&lt;/strong&gt; to integrate single-cell/nuclei RNA-seq and ATAC-seq data generated from archival material. The successful candidate will develop new analysis approaches and apply them to a comprehensive human oligodendroglia dataset. The overarching goal is understanding gene regulation in the specification and maintenance of &lt;strong&gt;oligodendrocyte lineage in the human brain&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The candidate will have the possibility to work with a &lt;strong&gt;unique single-cell dataset&lt;/strong&gt; obtained from biopsies and post-mortem brains from different regions, ages, and sexes. The project, funded by CZI, is low-risk and high-impact as ensured by the value of the dataset we have obtained and the importance, for the wider &lt;strong&gt;Human Cell Atlas community&lt;/strong&gt;, of new analysis schemes that we will develop.&lt;/p&gt;
+
+&lt;p&gt;Please send your request as a single PDF file – including a CV, a complete list of publications, a statement of research interests, and the contact information of at least two reference persons – to &lt;a href=&#34;mailto:nsbl.openings@epfl.ch&#34;&gt;nsbl.openings@epfl.ch&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;phd-student-position&#34;&gt;PhD student position&lt;/h2&gt;
+
+&lt;div style=&#34;text-align: justify&#34;&gt;
+There are no open positions at the moment. Outstanding candidates might still be considered, to enquires please contact me at &lt;a href=&#34;mailto:gioele.lamanno@epfl.ch&#34;&gt;gioele.lamanno@epfl.ch&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;*&lt;em&gt;Selection of the candidate will be performed through the EPFL PhD programs&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;masters-projects&#34;&gt;Masters Projects&lt;/h2&gt;
+
+&lt;p&gt;Some of the following projects can be adapted to shorter &amp;ldquo;Semester Projects&amp;rdquo; and “Lab Immersions”.
+Please contact me for further information.&lt;/p&gt;
+
+&lt;p&gt;&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;strong&gt;Computational Projects&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Particularly indicated for EPFL students of Data Science and Computer science.&lt;/p&gt;
+
+&lt;p&gt;Title&amp;gt; &lt;strong&gt;Building data-aware prior-conditioned models for experiment design&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Project Description &amp;gt;&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;- Background&lt;/strong&gt;: In this project we want to address the following question: How can one select a maximally informative subset of features from a extensive but sparse dataset so to design an experiment where those features will be measure more densely?
+The question is motivated by the following experimental dichotomy in biology: there are two families of techniques to measure the same variable (gene expression) but technical aspects and different biases characterize the two techniques. The high-throughput (thousands of variables) method is sparse and low sensitivity (missing values and low integer values), while some low-throughput methods have  high sensitivity, and include othre valuable data (localization information). Starting from the high-throughput data, one would like to be able to optimally select the features with minimal loss of information&lt;br&gt;
+&lt;strong&gt;- Activities&lt;/strong&gt;: The student will (1) Build a model that predicts dense low-throughput measurements from sparse high-throughput data using machine learning and statistical modeling. (2) Design a strategy that optimally selects a set of features to measure by low-throughput method. (3) Evaluate performances of the method considering uncertainties (4) Incorporate experimenter knowledge in the selection in the form of statistical priors. (5) integrating thee procedure in a command line tool &lt;br&gt;
+&lt;strong&gt;Faculty and laboratory &amp;gt;&lt;/strong&gt; - SV - BMI - Neurodevelopmental Systems Biology Lab&lt;br&gt;
+&lt;strong&gt;Contact person &amp;gt;&lt;/strong&gt; Gioele La Manno - gioele.lamanno@eplf.ch&lt;br&gt;
+&lt;strong&gt;Available to&amp;gt;&lt;/strong&gt; Master students of Data Science, Computer science and Life Science Engineering&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Title&amp;gt; &lt;strong&gt;Integration, modeling and visualization of central nervous systems data&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Project Description &amp;gt;&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;- Background&lt;/strong&gt;: The central nervous system is complex and its generation involves several mechanisms and parameters that control it. To date, we lack an integrative modeling of these data to visualize and better understand the process that control neuronal type-specific generation, differentiation, and circuit assembly. For this project we will use the cerebellum, a critical regulator of motor function.&lt;br&gt;
+&lt;strong&gt;- Activities&lt;/strong&gt;:  The student will: (1) Integrate datasets within a common structure from different data sources (2) Make this data easily explorable through data visualization tools (for example using R Shiny apps) (3) Build integrative models this datasets through time to explore cerebellar development.&lt;br&gt;
+&lt;strong&gt;Faculty and laboratory &amp;gt;&lt;/strong&gt; - SV - BMI - Neurodevelopmental Systems Biology Lab, in collaboration with the group of Ludovic Telley at Unil&lt;br&gt;
+&lt;strong&gt;Available to&amp;gt;&lt;/strong&gt; Master students of Data Science, Computer science and Life Science Engineering. Knowledge of both python and R is required.&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Title&amp;gt; &lt;strong&gt;Extensions of the RNA velocity algorithm&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Project Description &amp;gt;&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;- Background&lt;/strong&gt;: An ambitious goal of single-cell analyses is describing dynamical biological processes and shedding light on gene regulation mechanisms. The challenge in studying these phenomena consists on the destructive nature of the measurement that can only provide a static snapshot of the single cell states. to overcome this fundamental limit of single cell technologies, I recently developed a novel method, named “RNA velocity” as it estimates the first derivative of gene expression for each gene in a cell (RNA velocity of single cells, Nature 2018). The core idea is that measuring the abundance of both unspliced and spliced RNA in the same cell, we can estimate the rate of change of gene expression and predict the future expression levels of a single cell.&lt;br&gt;
+&lt;strong&gt;- Activities&lt;/strong&gt;: This projects will start by introducing a series of improvement to the current RNA velocity algorithm(1)  to better adapt it to different kind of datasets and (2) to provide statistical confidence interval around the estimation. The student will also (3) explore possibilities of a complete reformulation of the algorithm as a convex optimisation problem and/or statistical bayesian hierarchical model, using state of the art libraries (PyTorch, cvxpy) and modelling languages (Stan).&lt;br&gt;
+&lt;strong&gt;- Reference&lt;/strong&gt;: &lt;a href=&#34;https://www.nature.com/articles/s41586-018-0414-6&#34; target=&#34;_blank&#34;&gt;RNA velocity of single cells. La Manno et al. Nature 2018&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Available to&amp;gt;&lt;/strong&gt; Master students of Data Science, Computer science and Life Science Engineering
+&lt;strong&gt;Faculty and laboratory &amp;gt;&lt;/strong&gt; - SV - BMI - Neurodevelopmental Systems Biology Lab&lt;br&gt;
+&lt;strong&gt;Contact person &amp;gt;&lt;/strong&gt; Gioele La Manno - gioele.lamanno@eplf.ch&lt;br&gt; &lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Title&amp;gt; &lt;strong&gt;Computational integration of chromatin accessibility and transcriptomics data&lt;/strong&gt;&lt;br&gt;&lt;br&gt;
+&lt;em&gt;Project Description &amp;gt;&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;- Background&lt;/strong&gt;: The single cell revolution is rapidly extending from transcriptomics to many other genomics techniques including a wide set of techniques  probing the state of the chromatin. When different types of functional genomics data are generated on single cells from different samples of cells from the same heterogeneous populations, the results of the analysis (e.g. clustering) on the two datasets need to be aligned. This aligned then allows to carry on a coupled analysis of the different kind of dataset giving a more reach view of the internal molecular state of a cell.&lt;br&gt;
+&lt;strong&gt;- Activities&lt;/strong&gt;: The projects aims at the establishment of a algorithm to align of single cell ATAC-seq data  with RNA-seq data. The student will (1) individuate from the literature datasets that can be matched and process the raw data (2) consider different approaches in the literature for the for alignment and (3) benchmark them using a recent joint single-cell/RNA-seq dataset as a ground truth standard. (4) Use what learned to explore possibilities in developing an improved strategy for the alignment that would be compatible with continuous cell types transitions (i.g. lineages in development) and it is not limited to discrete cell types.&lt;br&gt;
+&lt;strong&gt;Faculty and laboratory &amp;gt;&lt;/strong&gt; SV - BMI - Neurodevelopmental Systems Biology Lab&lt;br&gt;
+&lt;strong&gt;Available to&amp;gt;&lt;/strong&gt; Master students of Data Science, Computer science and Life Science Engineering&lt;br&gt;
+&lt;strong&gt;Contact person &amp;gt;&lt;/strong&gt;&lt;br&gt;
+Gioele La Manno - gioele.lamanno@eplf.ch&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Experimental Projects&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;gt; Identification of different population of neural progenitors by spatial transcriptomics&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;- Background&lt;/em&gt;: During the development of the nervous system, an initial stem-cell pool specifies in hundreds of different neuronal cell types through a highly regulated gene regulation programs. Single-cell RNA sequencing profiling has allowed the transcriptomic characterization of many of these lineages, and importantly the definition of the sequence of intermediate states that eventually leads to the final adult cell types. To understand how gene regulation programs unfold and how mature cell forms, it is essential to characterize the many intermediate states further. Beyond measuring their transcriptome it is important to localize those cells in the tissue to start understanding their function&lt;br&gt;
+&lt;em&gt;- Project&lt;/em&gt;: This project aims at the identification of spatial localization of different populations of radial-glial progenitors. The student will: (1) Design a set of in-situ hybridization probes, starting from single-cell data. (2) Validate the FISH probes. (3) Collect images across the ventricular zone of mouse embryos of different ages. (4) Perform data analysis to integrate the information collected.&lt;/p&gt;
+
+&lt;h2 id=&#34;semester-projects&#34;&gt;Semester Projects&lt;/h2&gt;
+
+&lt;p&gt;Particularly indicated for EPFL students of Data Science and Computer science.&lt;/p&gt;
+
+&lt;p&gt;Title&amp;gt; &lt;strong&gt;Implementation and extension of multimodal data integration algorithms using python&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Project Description &amp;gt;&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;- Background&lt;/strong&gt;: The scientific community is generating a great volume of datasets that record many features from single cells. These datasets survey the same population but each dataset is measuring different features. These measurements are disjoint and do not come from the same individuals. However, since the datasets are collected from the same organ/tissue it should be possible to align them. This has proved to be possible using a series of multivariate statistics / machine learning procedures (Stuart et al. 2019).&lt;br&gt;
+&lt;strong&gt;- Activities&lt;/strong&gt;: The project is divided in two parts a implementation and an extension part. In the first part the student will (1) individuate from the literature methods for multimodal data integration and batch correction (2) Reimplement the best of them in python with a common and minimal api (using numpy, scipy and scikit-learn). The second part the student will (3) Identify common modules in those methods and attempt to combine different feature from them to (2) propose a new improved version. (4) Finally the different method including the improved one will be benchmarked using different reference datasets.&lt;br&gt;
+&lt;strong&gt;- Reference&lt;/strong&gt;: &lt;a href=&#34;http://www.cell.com/cell/pdf/S0092-8674(19)30559-8.pdf&#34; target=&#34;_blank&#34;&gt;Comprehensive Integration of Single-Cell Data. Stuart et al. Cell 2019&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Faculty and laboratory &amp;gt;&lt;/strong&gt; - SV - BMI - Neurodevelopmental Systems Biology Lab&lt;br&gt;
+&lt;strong&gt;Contact person &amp;gt;&lt;/strong&gt; Gioele La Manno - gioele.lamanno@eplf.ch&lt;br&gt;
+&lt;strong&gt;Available to&amp;gt;&lt;/strong&gt; Master students of Data Science, Computer science and Life Science Engineering&lt;br&gt;
+&lt;strong&gt;Number of students &amp;gt;&lt;/strong&gt; 1&lt;/p&gt;
 </description>
     </item>
     
@@ -196,27 +383,6 @@ and Small intestinal epithelium &lt;a href=&#34;https://www.nature.com/articles/
       
       <guid>/publication/mousebrain/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial organization of the somatosensory cortex revealed by cyclic smFISH</title>
-      <link>/publication/osmfish/</link>
-      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/osmfish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>osmFISH is really awesome</title>
-      <link>/post/osmfish/</link>
-      <pubDate>Sun, 04 Mar 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/post/osmfish/</guid>
-      <description>&lt;p&gt;Simone Codelluppi and Lars Borm have developed and optimized a cyclic smFISH protocol, termed ouroboros smFISH, to quantify the expression of a large number of genes in tissue sections. The goal was building a cell type map of the mouse somatosensory cortex. The results are really impressive. See the fantastic images and interactively explore the data using the Loom viewer &lt;a href=&#34;http://linnarssonlab.org/osmFISH/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Great news are not only is taht Lars and Simore have put a lot of effort to make it possible for any lab to set up the method and they provide &lt;a href=&#34;https://www.biorxiv.org/content/early/2018/03/04/276097&#34; target=&#34;_blank&#34;&gt;detailed protocol&lt;/a&gt; and a polished &lt;a href=&#34;(http://linnarssonlab.org/osmFISH/availability/)&#34; target=&#34;_blank&#34;&gt;software package&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

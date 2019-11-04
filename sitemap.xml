@@ -14,15 +14,6 @@
     
     <url>
     
-      <loc>/people/gioelelamanno/</loc>
-      <lastmod>2019-05-18T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/people/irinakhven/</loc>
       <lastmod>2019-05-17T00:00:00+00:00</lastmod>
     </url>
@@ -59,6 +50,24 @@
     
     <url>
     
+      <loc>/people/dimitrilallement/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/people/gioelelamanno/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/media/elisir/</loc>
       <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     </url>
@@ -68,8 +77,17 @@
     
     <url>
     
-      <loc>/people/halimaschede/</loc>
-      <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+      <loc>/people/alumni/</loc>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/people/openposition1/</loc>
+      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -167,24 +185,6 @@
     
     <url>
     
-      <loc>/people/anuragranjak/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/people/dimitrilallement/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/software/cytograph/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -231,15 +231,6 @@
     <url>
     
       <loc>/tags/scrna-seq/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/people/openposition1/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -374,6 +365,16 @@
     
     <url>
     
+      <loc>/tags/alumni/</loc>
+      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
@@ -434,7 +435,7 @@
     <url>
     
       <loc>/tags/group-leader/</loc>
-      <lastmod>2019-05-18T00:00:00+00:00</lastmod>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -444,17 +445,7 @@
     <url>
     
       <loc>/tags/master-student/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/masters/</loc>
-      <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -484,7 +475,7 @@
     <url>
     
       <loc>/people/</loc>
-      <lastmod>2019-05-18T00:00:00+00:00</lastmod>
+      <lastmod>2019-05-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

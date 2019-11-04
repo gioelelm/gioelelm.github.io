@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/master-student/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,10 @@
     <item>
       <title>Dimitri Lallement</title>
       <link>/people/dimitrilallement/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/people/dimitrilallement/</guid>
-      <description>Short Bio Coming Soom</description>
+      <description>Short Bio I am a final-year student in a Master of Computer Science and I am part of an exchange program at EPFL for a semester. I completed my bachelor in computer science at the Polytechnic Institute of Grenoble and for the last couple years I have been working part time for the French space agency: the CNES. I am a member of a machine learning project that aims to apply artificial intelligence concepts on business data.</description>
     </item>
     
   </channel>

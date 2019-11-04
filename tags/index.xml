@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Alumni</title>
+      <link>/tags/alumni/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/alumni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ELIFR</title>
       <link>/tags/elifr/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
@@ -60,7 +69,7 @@
     <item>
       <title>Group Leader</title>
       <link>/tags/group-leader/</link>
-      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/group-leader/</guid>
       <description></description>
@@ -69,18 +78,9 @@
     <item>
       <title>Master Student</title>
       <link>/tags/master-student/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/master-student/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Masters</title>
-      <link>/tags/masters/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/masters/</guid>
       <description></description>
     </item>
     

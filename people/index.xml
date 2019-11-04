@@ -7,20 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 18 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Gioele La Manno</title>
-      <link>/people/gioelelamanno/</link>
-      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/people/gioelelamanno/</guid>
-      <description>Bio I earned my PhD at Karolinska Instituet and I am proud alumnus of the Linnarsson Lab. My original training is in Biotechnology (BSc @UNIPA) and Biomedicine (MSc @KI) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.
-My research focuses on understanding brain development. I am particularly interested in describing the sequence of states that embryonic stem cells go through during their differentiation towards mature neurons.</description>
-    </item>
     
     <item>
       <title>Irina Khven</title>
@@ -42,38 +32,37 @@ During my studies, I have been captivated by the rapidly-growing field of bioinf
     </item>
     
     <item>
-      <title>Halima Schede</title>
-      <link>/people/halimaschede/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/people/halimaschede/</guid>
-      <description>Blurb I am a current Masters student at EPFL in the department of Life Sciences and Technology. I completed my BSc in Cell Biology and Anatomy, specializing in genetics, with a minor in Mathematics at McGill University, Canada.
-It is here at EPFL where I feel like I have finally found my place in the scientific domain. I have developed a strong interest in machine learning and deep learning algorithms, in particular, their applications to the health sciences.</description>
-    </item>
-    
-    <item>
-      <title>Anurag Ranjak</title>
-      <link>/people/anuragranjak/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/people/anuragranjak/</guid>
-      <description>Biographical notes I am a first year Masters student in Life Sciences in EPFL. I am pursuing a minor in computational neuroscience. Before this i did my Btech &amp;amp; Mtech in Chemical Engineering from IIT Delhi.
-I am interested in applying computational methods to solve problems in biology.</description>
-    </item>
-    
-    <item>
       <title>Dimitri Lallement</title>
       <link>/people/dimitrilallement/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/people/dimitrilallement/</guid>
-      <description>Short Bio Coming Soom</description>
+      <description>Short Bio I am a final-year student in a Master of Computer Science and I am part of an exchange program at EPFL for a semester. I completed my bachelor in computer science at the Polytechnic Institute of Grenoble and for the last couple years I have been working part time for the French space agency: the CNES. I am a member of a machine learning project that aims to apply artificial intelligence concepts on business data.</description>
+    </item>
+    
+    <item>
+      <title>Gioele La Manno</title>
+      <link>/people/gioelelamanno/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/gioelelamanno/</guid>
+      <description>Bio I earned my PhD at Karolinska Instituet and I am proud alumnus of the Linnarsson Lab. My original training is in Biotechnology (BSc @UNIPA) and Biomedicine (MSc @KI) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.
+My research focuses on understanding brain development. I am particularly interested in describing the sequence of states that embryonic stem cells go through during their differentiation towards mature neurons.</description>
+    </item>
+    
+    <item>
+      <title>Alumni</title>
+      <link>/people/alumni/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/alumni/</guid>
+      <description>Master Students  img.minion { border: 1px solid #ddd; /* Gray border */ border-radius: 4px; /* Rounded border */ padding: 5px; /* Some padding */ width: 175px; /* Set a small width */ } /* Add a hover effect (blue shadow) */ img.minion:hover { box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5); } * { box-sizing: border-box; } /* Create two equal columns that floats next to each other */ .</description>
     </item>
     
     <item>
       <title>Open Positions</title>
       <link>/people/openposition1/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/people/openposition1/</guid>
       <description>Openings and available projects Postdoctoral researcher Read the full call in pdf here!
