@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2018-01-01"
+date = "2019-01-01"
 
 # Project title.
 title = "Dimitri Lallement"
@@ -24,14 +24,19 @@ tags = ["Master Student"]
 # Does the project detail page use math formatting?
 math = false
 
+[[education.courses]]
+  course = "BSc in Computer Science"
+  institution = "ENSIMAG, Polytechnic Institute of Grenoble"
+  year = 2018
 
 [[education.courses]]
-  course = "MSc"
-  institution = ""
-  year = 2019
+  course = "[Ongoing] MSc in Computer science"
+  institution = "Exchangee at EPFL"
+  year = 2020
 
 [interests]
-  interests = ["Computer science"]
+  interests =  ["Data Science", "Software Design", "Machine Learning",
+                "Deep learning", "Python and Java development", "Genetics"]
 
 # List your qualifications (such as academic degrees).
 # Featured image
@@ -44,9 +49,25 @@ caption = ""
 icon = "envelope"
 icon_pack = "fa"
 link = "mailto:dimitri.lallement33@gmail.com"
+
+[[social]]
+icon = "linkedin"
+icon_pack = "fa"
+link = "https://www.linkedin.com/in/dimitri-lallement/"
+
+[[social]]
+icon = "github"
+icon_pack = "fa"
+link = "https://github.com/dimitriLallement"
  
 +++
  
 # Short Bio
 
-Coming Soom
+I am a final-year student in a Master of Computer Science and I am part of an exchange program at [EPFL](https://www.epfl.ch/en/) for a semester.
+I completed my bachelor in computer science at the [Polytechnic Institute of Grenoble](http://www.grenoble-inp.fr/en) and for the last couple years I have been working part time for the French space agency: the [CNES](https://cnes.fr/en). 
+I am a member of a machine learning project that aims to apply artificial intelligence concepts on business data. This project gives me the opportunity to work on various data types (space, financial...).
+
+Currently, I wish to investigate biological data through my Master's project.
+I am glad that my studies led me to work in the biology branch, which allows me to explore new biological analysis techniques. 
+I am extremely interested in the evolution of data sciences and the new perspectives they offer.
