@@ -8,7 +8,7 @@ title = "Irina Khven"
 # Project summary to display on homepage.
 summary = 'Doctoral Student'
 summary_link = ''
-summary2 = "EDNE PhD Programme"
+summary2 = "EDNE PhD Program"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "people/irina_square.jpg"
@@ -24,6 +24,9 @@ tags = ["PhD Student"]
 # Does the project detail page use math formatting?
 math = false
 
+[[education.courses]]
+course = "PhD in Neuroscience (ongoing)"
+institution = "EPFL"
 
 [[education.courses]]
   course = "MSc in Bioengineering and Bioinformatics"
@@ -36,7 +39,7 @@ math = false
   "Developmental biology",
   "Molecular biology",
   "Bioinformatics",
-  "Hiking",
+  "Hiking and gardening",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -49,12 +52,12 @@ caption = ""
 [[social]]
 icon = "envelope"
 icon_pack = "fa"
-link = "mailto:irinakhven@gmail.com"
+link = "mailto:irina.khven@epfl.ch"
  
 +++
  
 # Short Bio
 
-I have recently completed my Masters at [Moscow State University, Department of Bioengineering and Bioinformatics](https://www.msu.ru/en/info/struct/depts/fbb.html). During my undergraduate studies I’ve worked in a molecular biology lab and received a comprehensive training in many techniques. Both of my  internships - in [Weis lab at ETH Zurich](http://www.bc.biol.ethz.ch/research/weis.html) and in [Seigert lab at IST Austria](https://ist.ac.at/en/research/life-sciences/siegert-group/) - helped me realize that molecular neuroscience is the most exciting branch of modern biology to me.
+I have recently completed my Masters at [Moscow State University, Department of Bioengineering and Bioinformatics](https://www.msu.ru/en/info/struct/depts/fbb.html). During my undergraduate studies I’ve worked in a molecular biology lab and received a comprehensive training in many techniques. Both of my  internships, one in the [Weis lab at ETH Zurich](http://www.bc.biol.ethz.ch/research/weis.html) and another in the [Seigert lab at IST Austria](https://ist.ac.at/en/research/life-sciences/siegert-group/), helped me realize that molecular neuroscience is the most exciting branch of modern biology to me.
 
-I chose to do my PhD in La Manno group because it is a great chance to work on the interface of neuroscience, developmental biology and systems biology. My project will be dedicated to the retina development and regeneration. Using a set of state-of-art experimental techniques like scRNA-seq and [cyclic smFISH](http://linnarssonlab.org/osmFISH/), I hope to be able to contribute to our knowledge in this field.
+I chose to do my PhD in La Manno group because it is a great chance to work on the interface of neuroscience, developmental biology and systems biology. My project is dedicated to the study of mammalian brain development and spatial omic techniques. Using a set of state-of-art experimental tools like scRNA-seq and [cyclic smFISH](http://linnarssonlab.org/osmFISH/), I hope to be able to contribute to our knowledge in this field.

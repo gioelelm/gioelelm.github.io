@@ -3,12 +3,12 @@
 date = "2018-10-10"
 
 # Project title.
-title = "Halima Schede"
+title = "Halima Hannah Schede"
 
 # Project summary to display on homepage.
-summary = "Master's Student"
+summary = "PhD Student"
 summary_link = ''
-summary2 = "Project Student"
+summary2 = "EDCB PhD Program"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "people/halima_square.jpg"
@@ -27,8 +27,9 @@ math = false
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "M.Eng. Bioengineering (pursuing)"
+  course = "M.Eng. Bioengineering"
   institution = "EPFL"
+  year = 2020 
 
 [[education.courses]]
   course = "BSc in Cell Biology and Anatomy (minor Math)"
@@ -53,15 +54,13 @@ caption = ""
 [[social]]
 icon = "envelope"
 icon_pack = "fa"
-link = "mailto:halima.schede@gmail.com"
+link = "mailto:halima.schede@epfl.ch"
 
  
 +++
  
 # Blurb
  
-I am a current Masters student at [EPFL](https://www.epfl.ch/en/home/) in the department of [Life Sciences and Technology](https://www.epfl.ch/education/master/programs/lifesciences/). I completed my BSc in Cell Biology and Anatomy, specializing in genetics, with a minor in Mathematics at [McGill University](https://www.mcgill.ca/), Canada.
+ I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and [D'Angelo Labs](https://www.epfl.ch/labs/dangelo-lab/). I have a strong interest in the applications of statistical models and data analysis to the health sciences. After completing my Bachelor's degree in McGill University, Canada in Biology and Mathematics and my M. Eng in Bioengineering at EPFL, during which I completed an internship in the La Manno Lab, I returned to the lab full time as a PhD student.
 
-It is here at EPFL where I feel like I have finally found my place in the scientific domain. I have developed a strong interest in machine learning and deep learning algorithms, in particular, their applications to the health sciences.
-
-With the oncoming of the [data era](https://en.wikipedia.org/wiki/Big_data), I believe the knowledge of how to analyze data and utilize it for the creation of predictive models will become powerful tools for medicine in the near future. I would very much like to be a part of this change.
+I have worked towards the development of [Tomographer](https://www.biorxiv.org/content/10.1101/2020.08.04.235655v1), a technique dedicated to the spatial molecular profiling of tissues, as well as the construction of a Lipid Brain Atlas which is based on mass spectrometry data. I have other interests including tennis, hiking, baking, and jamming!
