@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Postdoc on Gioele La Manno</title>
+    <link>/tags/postdoc/</link>
+    <description>Recent content in Postdoc on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/postdoc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zahra Moslehi</title>
+      <link>/people/zahramoslehi/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/people/zahramoslehi/</guid>
+      <description>Short Bio I received my B.Sc. degree in Computer Engineering from Yazd University, my M.Sc. degree in Software Engineering from Amirkabir University of Technology, and my Ph.D. degree in Artificial Intelligence from Isfahan University of Technology. During my doctoral studies, I made two research visits at the University of Geneva and University of Sheffield. After my Ph.D., I continued my research and teaching experiences at Isfahan University of Technology, University of Isfahan, and Shahid Beheshti University, Iran.</description>
+    </item>
+    
+  </channel>
+</rss>

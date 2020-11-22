@@ -7,10 +7,56 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 17 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Christian Schneider</title>
+      <link>/people/christianschneider/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/people/christianschneider/</guid>
+      <description>Short Bio I am an MD student visiting EPFL as part of my doctoral research project. While studying medicine at Charité, my research focus has been developing molecular biotechnologies for clinical application in neurological diseases, with projects based in Berlin, India and Central Africa. As part of my home university’s lab for Translational Neurogenomics, I joined the La Manno Lab with a key interest in quantitative systems biology of single cells.</description>
+    </item>
+    
+    <item>
+      <title>Lisa Dravta</title>
+      <link>/people/lisadravta/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/people/lisadravta/</guid>
+      <description>Short Bio I have joined the La Manno Lab for a semester project as part of my Master&amp;rsquo;s program in Computational Neurosciences. I will be looking into extracting new information from the single cell atlas of the developmental mouse brain. My background is in Life Sciences and Engineering, with a special focus on neurosciences, genomics, programming and data analysis.</description>
+    </item>
+    
+    <item>
+      <title>Roger Aylagas Torres</title>
+      <link>/people/rogeraylagas/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/people/rogeraylagas/</guid>
+      <description>Short Bio My name is Roger Aylagas Torres and I am from Barcelona, Catalonia. I studied my BSc in Telecommunication Engineering at the Universitat Politècnica de Catalunya with a minor in Audiovisual Signal Processing and I am currently pursuing a MSc in Advanced Telecommunication also at UPC with the path of Artificial Intelligence for Multimedia.
+I am currently doing my Master Thesis in the La Manno Lab and I am working on building a self-supervised algorithm for the integration of scRNA-seq and scATAC-seq data.</description>
+    </item>
+    
+    <item>
+      <title>Zahra Moslehi</title>
+      <link>/people/zahramoslehi/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/people/zahramoslehi/</guid>
+      <description>Short Bio I received my B.Sc. degree in Computer Engineering from Yazd University, my M.Sc. degree in Software Engineering from Amirkabir University of Technology, and my Ph.D. degree in Artificial Intelligence from Isfahan University of Technology. During my doctoral studies, I made two research visits at the University of Geneva and University of Sheffield. After my Ph.D., I continued my research and teaching experiences at Isfahan University of Technology, University of Isfahan, and Shahid Beheshti University, Iran.</description>
+    </item>
+    
+    <item>
+      <title>Ece Asirim</title>
+      <link>/people/eceasirim/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/people/eceasirim/</guid>
+      <description>Short Bio I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and D&amp;rsquo;Angelo Labs. I completed my MSc degree in University of Fribourg, working on Drosophila larval circadian rhythms. My current project focuses on lipidomics and neuroscience, as in the central nervous system, lipids play a crucial role by influencing the firing of neurons and synaptic plasticity. To address the lacking knowledge of lipid metabolism in different brain regions, we aim to build a high-resolution atlas of lipid metabolism in adult mouse brain, both in health and disease conditions.</description>
+    </item>
     
     <item>
       <title>Irina Khven</title>
@@ -18,7 +64,7 @@
       <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/people/irinakhven/</guid>
-      <description>Short Bio I have recently completed my Masters at Moscow State University, Department of Bioengineering and Bioinformatics. During my undergraduate studies I’ve worked in a molecular biology lab and received a comprehensive training in many techniques. Both of my internships - in Weis lab at ETH Zurich and in Seigert lab at IST Austria - helped me realize that molecular neuroscience is the most exciting branch of modern biology to me.</description>
+      <description>Short Bio I have recently completed my Masters at Moscow State University, Department of Bioengineering and Bioinformatics. During my undergraduate studies I’ve worked in a molecular biology lab and received a comprehensive training in many techniques. Both of my internships, one in the Weis lab at ETH Zurich and another in the Seigert lab at IST Austria, helped me realize that molecular neuroscience is the most exciting branch of modern biology to me.</description>
     </item>
     
     <item>
@@ -27,17 +73,8 @@
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/people/alexlederer/</guid>
-      <description>Short Bio I am an incoming PhD student of the Computational and Quantitative Biology (EDCB) Program at EPFL. Originally from the United States, I completed my BSc in Molecular Biology and Computer Science at the University of Pittsburgh before working as a bioinformatician at EMBL Heidelberg.
-During my studies, I have been captivated by the rapidly-growing field of bioinformatics in light of the big data boom and ongoing advances in next-generation sequencing technologies.</description>
-    </item>
-    
-    <item>
-      <title>Dimitri Lallement</title>
-      <link>/people/dimitrilallement/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/people/dimitrilallement/</guid>
-      <description>Short Bio I am a final-year student in a Master of Computer Science and I am part of an exchange program at EPFL for a semester. I completed my bachelor in computer science at the Polytechnic Institute of Grenoble and for the last couple years I have been working part time for the French space agency: the CNES. I am a member of a machine learning project that aims to apply artificial intelligence concepts on business data.</description>
+      <description>Short Bio I am a PhD student in the Computational and Quantitative Biology (EDCB) program at EPFL. Originally from the United States, I completed my BSc in Molecular Biology and Computer Science at the University of Pittsburgh before working as a research fellow at EMBL Heidelberg.
+During my studies, I have been captivated by the concept of temporal omics and bioinformatics in light of the big data boom and advances in next-generation sequencing technologies.</description>
     </item>
     
     <item>
@@ -48,6 +85,15 @@ During my studies, I have been captivated by the rapidly-growing field of bioinf
       <guid>/people/gioelelamanno/</guid>
       <description>Bio I earned my PhD at Karolinska Instituet and I am proud alumnus of the Linnarsson Lab. My original training is in Biotechnology (BSc @UNIPA) and Biomedicine (MSc @KI) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.
 My research focuses on understanding brain development. I am particularly interested in describing the sequence of states that embryonic stem cells go through during their differentiation towards mature neurons.</description>
+    </item>
+    
+    <item>
+      <title>Halima Hannah Schede</title>
+      <link>/people/halimaschede/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/halimaschede/</guid>
+      <description>Blurb I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and D&amp;rsquo;Angelo Labs. I have a strong interest in the applications of statistical models and data analysis to the health sciences. After completing my Bachelor&amp;rsquo;s degree in McGill University, Canada in Biology and Mathematics and my M. Eng in Bioengineering at EPFL, during which I completed an internship in the La Manno Lab, I returned to the lab full time as a PhD student.</description>
     </item>
     
     <item>

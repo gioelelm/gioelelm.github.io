@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grants on Gioele La Manno</title>
+    <link>/tags/grants/</link>
+    <description>Recent content in grants on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/grants/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Two EPFL life scientists awarded SNSF grants</title>
+      <link>/media/ambizione/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/media/ambizione/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The lab has been awarded a SPARK SNF grant!</title>
+      <link>/media/spark/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/media/spark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The lab has been awarded a Human Cell Atlas CZI grant</title>
+      <link>/media/czi/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/media/czi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

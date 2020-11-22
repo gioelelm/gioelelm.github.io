@@ -5,8 +5,98 @@
     
     <url>
     
+      <loc>/people/christianschneider/</loc>
+      <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/people/lisadravta/</loc>
+      <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/people/rogeraylagas/</loc>
+      <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/people/zahramoslehi/</loc>
+      <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/people/eceasirim/</loc>
+      <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/media/ambizione/</loc>
+      <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/tomographybiorxiv/</loc>
+      <lastmod>2020-08-06T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/media/spark/</loc>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/media/elisirs2019/</loc>
+      <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/dimitri_joins/</loc>
       <lastmod>2019-10-04T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/media/czi/</loc>
+      <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -50,15 +140,6 @@
     
     <url>
     
-      <loc>/people/dimitrilallement/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/people/gioelelamanno/</loc>
       <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     </url>
@@ -70,6 +151,15 @@
     
       <loc>/media/elisir/</loc>
       <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/people/halimaschede/</loc>
+      <lastmod>2018-10-10T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -149,7 +239,43 @@
     
     <url>
     
+      <loc>/post/devatlas/</loc>
+      <lastmod>2018-03-04T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/newmembers2020/</loc>
+      <lastmod>2018-03-04T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/osmfish/</loc>
+      <lastmod>2018-03-04T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/temporalomics/</loc>
+      <lastmod>2018-03-04T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/tomography/</loc>
       <lastmod>2018-03-04T00:00:00+01:00</lastmod>
     </url>
     
@@ -375,6 +501,26 @@
     
     <url>
     
+      <loc>/tags/ambizione/</loc>
+      <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/czi/</loc>
+      <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
@@ -395,7 +541,7 @@
     <url>
     
       <loc>/tags/elisir/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -444,8 +590,18 @@
     
     <url>
     
-      <loc>/tags/master-student/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <loc>/tags/masters/</loc>
+      <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/masters-student/</loc>
+      <lastmod>2020-10-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -455,7 +611,7 @@
     <url>
     
       <loc>/media/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2020-09-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -475,7 +631,7 @@
     <url>
     
       <loc>/people/</loc>
-      <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+      <lastmod>2020-10-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -485,7 +641,37 @@
     <url>
     
       <loc>/tags/phd-student/</loc>
-      <lastmod>2019-05-17T00:00:00+00:00</lastmod>
+      <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/postdoc/</loc>
+      <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/rna-seq/</loc>
+      <lastmod>2020-08-06T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/snf/</loc>
+      <lastmod>2020-09-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -514,8 +700,28 @@
     
     <url>
     
+      <loc>/tags/collegues/</loc>
+      <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/development/</loc>
       <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/grants/</loc>
+      <lastmod>2020-09-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -535,7 +741,7 @@
     <url>
     
       <loc>/tags/media/</loc>
-      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2020-09-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -556,6 +762,16 @@
     
       <loc>/tags/software/</loc>
       <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/spatial-omics/</loc>
+      <lastmod>2020-08-06T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

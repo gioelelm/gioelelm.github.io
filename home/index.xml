@@ -14,13 +14,14 @@
     
     <item>
       <title>&lt;font size=&#34;5&#34; style=&#34;bold&#34;&gt;&lt;i&gt;What&#39;s new&lt;/i&gt;&lt;/font&gt; &lt;br&gt;
-RNA velocity of single cells
+Tomographical molecular profiling of tissues
 </title>
       <link>/home/featured/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>/home/featured/</guid>
-      <description>Our paper &amp;ldquo;RNA velocity of single cells&amp;rdquo; is out! This work is a close collaboration between Kharchencko and Linnarsson Lab, where we show that is possible to estimate the time derivative of RNA abundance in scRNA-seq experiments by distinguishing unspliced and spliced RNA molecules. The computational method, velocyto (velox + κύτος, quick cell), is available as R package or Python library.</description>
+      <description>We just released our preprint &amp;ldquo;Spatial tissue profiling by imaging-free molecular tomography&amp;rdquo; on the biorxiv!
+The framework we propose in the paper is a way to upgrade, in a generic fashion, conventional genomic assays to spatially resolved techniques. The code of the method Tomographer is already available on Github.</description>
     </item>
     
     <item>

@@ -31,6 +31,24 @@
     </item>
     
     <item>
+      <title>Ambizione</title>
+      <link>/tags/ambizione/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ambizione/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CZI</title>
+      <link>/tags/czi/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/czi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ELIFR</title>
       <link>/tags/elifr/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
@@ -42,7 +60,7 @@
     <item>
       <title>ELISIR</title>
       <link>/tags/elisir/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/elisir/</guid>
       <description></description>
@@ -76,11 +94,20 @@
     </item>
     
     <item>
-      <title>Master Student</title>
-      <link>/tags/master-student/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Masters</title>
+      <link>/tags/masters/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/master-student/</guid>
+      <guid>/tags/masters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Masters Student</title>
+      <link>/tags/masters-student/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/masters-student/</guid>
       <description></description>
     </item>
     
@@ -96,9 +123,45 @@
     <item>
       <title>PhD Student</title>
       <link>/tags/phd-student/</link>
-      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/phd-student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postdoc</title>
+      <link>/tags/postdoc/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/postdoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA-seq</title>
+      <link>/tags/rna-seq/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/rna-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNF</title>
+      <link>/tags/snf/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/snf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>collegues</title>
+      <link>/tags/collegues/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/collegues/</guid>
       <description></description>
     </item>
     
@@ -108,6 +171,15 @@
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grants</title>
+      <link>/tags/grants/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/grants/</guid>
       <description></description>
     </item>
     
@@ -123,7 +195,7 @@
     <item>
       <title>media</title>
       <link>/tags/media/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/media/</guid>
       <description></description>
@@ -144,6 +216,15 @@
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatial-omics</title>
+      <link>/tags/spatial-omics/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/spatial-omics/</guid>
       <description></description>
     </item>
     

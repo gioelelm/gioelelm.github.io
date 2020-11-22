@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RNA-seq on Gioele La Manno</title>
+    <link>/tags/rna-seq/</link>
+    <description>Recent content in RNA-seq on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/rna-seq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First preprint of the lab: spatial-omics by tomography!</title>
+      <link>/post/tomographybiorxiv/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/post/tomographybiorxiv/</guid>
+      <description>We just released the first preprint of the lab, find it here.
+This is the summary of what the paper is about:
+Genomics techniques are currently being adapted to provide spatially resolved omics profiling. However, the adaptation of each new method typically requires the setup of specific detection strategies or specialized instrumentation. A generic approach to spatially resolve different types of high throughput data is missing. Here, we describe an imaging-free framework to localize high throughput readouts within a tissue by combining compressive sampling and image reconstruction.</description>
+    </item>
+    
+  </channel>
+</rss>
