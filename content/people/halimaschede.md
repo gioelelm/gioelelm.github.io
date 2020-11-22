@@ -6,7 +6,7 @@ date = "2018-10-10"
 title = "Halima Hannah Schede"
 
 # Project summary to display on homepage.
-summary = "PhD Student"
+summary = "Doctoral Student"
 summary_link = ''
 summary2 = "EDCB PhD Program"
 

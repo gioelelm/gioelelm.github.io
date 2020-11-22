@@ -76,15 +76,15 @@ img.minion:hover {
 <body>
     <div class="row">
         <div class="column" style="width: 25%;">
-            <a target="_blank" href="/img/people/halima_square.jpg">
-                <img class="minion" src="/img/people/halima_square.jpg" alt="Halima">
+            <a target="_blank" href="/img/dimitri_square.jpg">
+                <img class="minion" src="/img/people/dimitri_square.jpg" alt="Dimitri">
             </a>
         </div>
         <div class="column" style="width: 75%;">
-            <font size="+2"> Halima Schede</font><br> 
-            **Joined as an EPFL Master student** <br>
-            **Currently @ EPFL - Master student** <br>
-            **Short info**: Halima joined the lab with a strong interest in machine learning and deep learning algorithms, in particular, their applications to the health sciences. She worked to the development of computational methods allowing spatial omics profiling.
+            <font size="+2"> Dimitri Lallement</font><br> 
+            **Joined as an visiting Master student** <br>
+            **Currently @ ENSIMAG** <br>
+            **Short info**: Dimitri joined as final-year student in a Master of Computer Science and he was part of an exchange program at [EPFL](https://www.epfl.ch/en/) for a semester. Moving from a very different field, he worked on machine learning project and explored possibilities related to new biologically-principled data analysis techniques.
         </div>
     </div>
     <div class="row">
