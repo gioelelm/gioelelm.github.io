@@ -40,11 +40,11 @@ link = "mailto:gioelelamanno@gmail.com"
 
 ## Postdoctoral researcher
 
-[Read the full call in pdf here!](/files/postdocCZI.pdf)
+[Read the full call in pdf here!](/files/PostdocOpening2021.pdf)
 
-The research project offered will be focused on **developing new computational approaches** to integrate single-cell/nuclei RNA-seq and ATAC-seq data generated from archival material. The successful candidate will develop new analysis approaches and apply them to a comprehensive human oligodendroglia dataset. The overarching goal is understanding gene regulation in the specification and maintenance of **oligodendrocyte lineage in the human brain**.
+The research project offered will be focused on the spatio-temporal organization of neural progenitor cells across the developing nervous systems in health and disease. The project, funded by SNF, is low-risk and high-impact.
 
-The candidate will have the possibility to work with a **unique single-cell dataset** obtained from biopsies and post-mortem brains from different regions, ages, and sexes. The project, funded by CZI, is low-risk and high-impact as ensured by the value of the dataset we have obtained and the importance, for the wider **Human Cell Atlas community**, of new analysis schemes that we will develop.
+The overarching goal is understanding the functional implications of the distribution and abundance of radial glial subtypes and the modalities teratogens and metabolic alterations can disrupt it.
 
 Please send your request as a single PDF file – including a CV, a complete list of publications, a statement of research interests, and the contact information of at least two reference persons – to <a href="mailto:nsbl.openings@epfl.ch">nsbl.openings@epfl.ch</a>.
 
