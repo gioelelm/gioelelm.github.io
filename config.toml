@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "La Manno Lab"
-  role = "Neurodevelopmental Systems Biology Lab"
+  role = "Lab of Brain Development and Biological Data Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.

@@ -6,7 +6,7 @@ date = 2017-10-15
 
 title = """
 <font size="5" style="bold"><i>What's new</i></font> <br>
-Tomographical molecular profiling of tissues
+We formulated the lipotype hypothesis
 """
 
 # Order that this section will appear in.
@@ -23,10 +23,9 @@ weight = 1
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
-  url = "./post/tomographybiorxiv/"
+  url = "./post/lipotypehipothesis/"
   label = '<i class="fa fa-arrow-circle-right"></i> Read more'
 +++
 
-We just released our preprint ["Spatial tissue profiling by imaging-free molecular tomography"](https://www.biorxiv.org/content/10.1101/2020.08.04.235655v1) on the biorxiv!<br>
-The framework we propose in the paper is a way to upgrade, in a generic fashion, conventional genomic assays to spatially resolved techniques.
-The code of the method [Tomographer](https://github.com/lamanno-epfl/tomographer) is already available on Github.
+We wrote a piece with Giovanni D'Angelo titled ["The lipotype hypothesis"](https://doi.org/10.1038/s41580-022-00556-w) on Nature Reviews Molecular Cell Biology! <br>
+Considering recent evidence on lipid-cell response to interaction cues, we proposed that cell variability in lipid composition assists the divergence of differentiation trajectories, leading to the establishment of several cell identities.
