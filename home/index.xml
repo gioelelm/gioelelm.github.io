@@ -29,8 +29,8 @@ We formulated the lipotype hypothesis
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>About Our research focuses on understanding how the cell types in the nervous system are made. We are particularly interested in describing the sequence of states that embryonic stem cells go through during their differentiation towards mature neurons in the central nervous system and the retina.
-We make use of highly quantitative single-cell genomics techniques and machine learning tools to address our scientific questions. For example, we have used the wealth of data provided by single cell RNA sequencing to characterize the developmental process in entire tissues.</description>
+      <description>About We are a computational and developmental biology lab with a focus on understanding the complexities and dynamics of brain development. Our approach combines single-cell genomics, spatial omics technologies, and machine learning tools. Our use of techniques like RNA velocity allow us to trace the future states of individual cells, predicting developmental trajectories and cellular fate decisions in the process of differentiating embryonic stem cells into mature neurons.
+A significant aspect of our research is the exploration of lipid heterogeneity at the single-cell level.</description>
     </item>
     
     <item>

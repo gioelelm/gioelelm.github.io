@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/spatial/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>From cell “fat” to cell fate</title>
+      <link>/media/lipotypespub/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/media/lipotypespub/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>“Molecular Tomographer” algorithm maps gene expression in space</title>

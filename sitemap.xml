@@ -5,8 +5,53 @@
     
     <url>
     
+      <loc>/media/appointment/</loc>
+      <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/lipotypehipothesis/</loc>
       <lastmod>2022-11-01T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/media/mousedevpub/</loc>
+      <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/media/rpepub/</loc>
+      <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/lipotypes/</loc>
+      <lastmod>2022-04-15T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/media/lipotypespub/</loc>
+      <lastmod>2022-04-10T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -637,7 +682,7 @@
     <url>
     
       <loc>/media/</loc>
-      <lastmod>2021-04-22T00:00:00+00:00</lastmod>
+      <lastmod>2023-03-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -716,6 +761,36 @@
     
     <url>
     
+      <loc>/tags/brain/</loc>
+      <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/carreer/</loc>
+      <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/cell-fate/</loc>
+      <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/collegues/</loc>
       <lastmod>2019-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -727,7 +802,7 @@
     <url>
     
       <loc>/tags/development/</loc>
-      <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+      <lastmod>2022-06-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -766,8 +841,48 @@
     
     <url>
     
+      <loc>/tags/macular-degeneration/</loc>
+      <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/media/</loc>
       <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/professorship/</loc>
+      <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/replacement-theraphy/</loc>
+      <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/single-cell/</loc>
+      <lastmod>2022-06-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -797,7 +912,7 @@
     <url>
     
       <loc>/tags/spatial/</loc>
-      <lastmod>2021-04-22T00:00:00+00:00</lastmod>
+      <lastmod>2022-04-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

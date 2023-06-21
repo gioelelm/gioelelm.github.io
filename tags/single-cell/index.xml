@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>single-cell on Gioele La Manno</title>
+    <link>/tags/single-cell/</link>
+    <description>Recent content in single-cell on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/single-cell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Molecular atlas reveals how brain cells develop</title>
+      <link>/media/mousedevpub/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/media/mousedevpub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streamlining stem cells to treat macular degeneration</title>
+      <link>/media/rpepub/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/media/rpepub/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
