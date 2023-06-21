@@ -11,12 +11,70 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Alexandre Bouillon</title>
+      <link>/people/alexandrebouillon/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/people/alexandrebouillon/</guid>
+      <description>
+
+&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
+
+&lt;p&gt;I am an happy Master student&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Gioele is appointed Tenure Track Assistant Professor</title>
       <link>/media/appointment/</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>/media/appointment/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Luca Fusar Bassini</title>
+      <link>/people/lucafusar/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/people/lucafusar/</guid>
+      <description>
+
+&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
+
+&lt;p&gt;I am an happy PhD student&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alessandro Valente</title>
+      <link>/people/alessandrovalente/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/people/alessandrovalente/</guid>
+      <description>
+
+&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
+
+&lt;p&gt;I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and &lt;a href=&#34;https://www.epfl.ch/labs/dangelo-lab/&#34; target=&#34;_blank&#34;&gt;D&amp;rsquo;Angelo Labs&lt;/a&gt;. I have a strong interest in the applications of statistical models and data analysis to the health sciences. After completing my Bachelor&amp;rsquo;s degree in McGill University, Canada in Biology and Mathematics and my M. Eng in Bioengineering at EPFL, during which I completed an internship in the La Manno Lab, I returned to the lab full time as a PhD student.&lt;/p&gt;
+
+&lt;p&gt;I have worked towards the development of &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.08.04.235655v1&#34; target=&#34;_blank&#34;&gt;Tomographer&lt;/a&gt;, a technique dedicated to the spatial molecular profiling of tissues, as well as the construction of a Lipid Brain Atlas which is based on mass spectrometry data. I have other interests including tennis, hiking, baking, and jamming!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daniel Bobrovskij</title>
+      <link>/people/daniilbobrovskij/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/people/daniilbobrovskij/</guid>
+      <description>
+
+&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
+
+&lt;p&gt;I am an happy PhD student&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -67,106 +125,70 @@
     </item>
     
     <item>
+      <title>Albert Dominguez Mantes</title>
+      <link>/people/albertmantes/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/people/albertmantes/</guid>
+      <description>
+
+&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
+
+&lt;p&gt;I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and the Weigert Lab. I have a strong interest in the applications of statistical models and data analysis to the health sciences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Halima Hannah Schede</title>
+      <link>/people/halimaschede/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/people/halimaschede/</guid>
+      <description>
+
+&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
+
+&lt;p&gt;I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and &lt;a href=&#34;https://www.epfl.ch/labs/dangelo-lab/&#34; target=&#34;_blank&#34;&gt;D&amp;rsquo;Angelo Labs&lt;/a&gt;. I have a strong interest in the applications of statistical models and data analysis to the health sciences. After completing my Bachelor&amp;rsquo;s degree in McGill University, Canada in Biology and Mathematics and my M. Eng in Bioengineering at EPFL, during which I completed an internship in the La Manno Lab, I returned to the lab full time as a PhD student.&lt;/p&gt;
+
+&lt;p&gt;I have worked towards the development of &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.08.04.235655v1&#34; target=&#34;_blank&#34;&gt;Tomographer&lt;/a&gt;, a technique dedicated to the spatial molecular profiling of tissues, as well as the construction of a Lipid Brain Atlas which is based on mass spectrometry data. I have other interests including tennis, hiking, baking, and jamming!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Leila Alieh</title>
+      <link>/people/leilaalieh/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/people/leilaalieh/</guid>
+      <description>
+
+&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
+
+&lt;p&gt;I am an happy postdoc!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Antonio Herrera Camacho</title>
+      <link>/people/antonioherrera/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/people/antonioherrera/</guid>
+      <description>
+
+&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
+
+&lt;p&gt;I am an happy postdoc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>“Molecular Tomographer” algorithm maps gene expression in space</title>
       <link>/media/tomographypub/</link>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/media/tomographypub/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Two EPFL life scientists awarded SNSF grants</title>
-      <link>/media/ambizione/</link>
-      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/media/ambizione/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>First preprint of the lab: spatial-omics by tomography!</title>
-      <link>/post/tomographybiorxiv/</link>
-      <pubDate>Thu, 06 Aug 2020 00:00:00 -0600</pubDate>
-      
-      <guid>/post/tomographybiorxiv/</guid>
-      <description>&lt;p&gt;We just released the first preprint of the lab, find it &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.08.04.235655v1&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This is the summary of what the paper is about:&lt;/p&gt;
-
-&lt;p&gt;Genomics techniques are currently being adapted to provide spatially resolved omics profiling. However, the adaptation of each new method typically requires the setup of specific detection strategies or specialized instrumentation. A generic approach to spatially resolve different types of high throughput data is missing. Here, we describe an imaging-free framework to localize high throughput readouts within a tissue by combining compressive sampling and image reconstruction. We implemented this framework to transform a low-input RNA sequencing protocol into an imaging-free spatial transcriptomics technique (STRP-seq) and validated this method with a transcriptome profiling of the murine brain. To verify the broad applicability of STRP-seq, we applied the technique on the brain of the Australian bearded dragon Pogona vitticeps. Our results reveal the molecular anatomy of the telencephalon of this lizard, providing evidence for a marked regionalization of the reptilian pallium and subpallium. Overall, the proposed framework constitutes a new approach that allows upgrading in a generic fashion conventional genomic assays to spatially resolved techniques.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The lab has been awarded a SPARK SNF grant!</title>
-      <link>/media/spark/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/media/spark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Martin and Ana Marija join EPFL as ELISIR fellows</title>
-      <link>/media/elisirs2019/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/media/elisirs2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Welcome Dimitri!</title>
-      <link>/post/dimitri_joins/</link>
-      <pubDate>Fri, 04 Oct 2019 00:00:00 -0600</pubDate>
-      
-      <guid>/post/dimitri_joins/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;/people/alumni/&#34; target=&#34;_self&#34; &gt;Dimitri Lallement&lt;/a&gt; joins the lab for a Masters thesis project. He is enrolled in the Computer Science Engineering program, ENSIMAG at Grenoble and doing a exchange with EPFL. He has studied his Bachelor at  the University of Bordeaux and studied as Data Scientist Junior at CNES. He wants to face challenging research problem and explore new methods that can help the interpretation of single-cell RNAseq datasets. Welcome Dimitri!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The lab has been awarded a Human Cell Atlas CZI grant</title>
-      <link>/media/czi/</link>
-      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/media/czi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Irina Khven</title>
-      <link>/people/irinakhven/</link>
-      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/people/irinakhven/</guid>
-      <description>
-
-&lt;h1 id=&#34;short-bio&#34;&gt;Short Bio&lt;/h1&gt;
-
-&lt;p&gt;I have recently completed my Masters at &lt;a href=&#34;https://www.msu.ru/en/info/struct/depts/fbb.html&#34; target=&#34;_blank&#34;&gt;Moscow State University, Department of Bioengineering and Bioinformatics&lt;/a&gt;. During my undergraduate studies I’ve worked in a molecular biology lab and received a comprehensive training in many techniques. Both of my  internships, one in the &lt;a href=&#34;http://www.bc.biol.ethz.ch/research/weis.html&#34; target=&#34;_blank&#34;&gt;Weis lab at ETH Zurich&lt;/a&gt; and another in the &lt;a href=&#34;https://ist.ac.at/en/research/life-sciences/siegert-group/&#34; target=&#34;_blank&#34;&gt;Seigert lab at IST Austria&lt;/a&gt;, helped me realize that molecular neuroscience is the most exciting branch of modern biology to me.&lt;/p&gt;
-
-&lt;p&gt;I chose to do my PhD in La Manno group because it is a great chance to work on the interface of neuroscience, developmental biology and systems biology. My project is dedicated to the study of mammalian brain development and spatial omic techniques. Using a set of state-of-art experimental tools like scRNA-seq and &lt;a href=&#34;http://linnarssonlab.org/osmFISH/&#34; target=&#34;_blank&#34;&gt;cyclic smFISH&lt;/a&gt;, I hope to be able to contribute to our knowledge in this field.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Alex Lederer</title>
-      <link>/people/alexlederer/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/people/alexlederer/</guid>
-      <description>
-
-&lt;h1 id=&#34;short-bio&#34;&gt;Short Bio&lt;/h1&gt;
-
-&lt;p&gt;I am a PhD student in the Computational and Quantitative Biology (EDCB) program at EPFL. Originally from the United States, I completed my BSc in Molecular Biology and Computer Science at the &lt;a href=&#34;https://www.pitt.edu/&#34; target=&#34;_blank&#34;&gt;University of Pittsburgh&lt;/a&gt; before working as a research fellow at &lt;a href=&#34;https://www.embl.de/&#34; target=&#34;_blank&#34;&gt;EMBL Heidelberg&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;During my studies, I have been captivated by the concept of &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0958166919301430&#34; target=&#34;_blank&#34;&gt;temporal omics&lt;/a&gt; and bioinformatics in light of the big data boom and advances in next-generation sequencing technologies. One ambition of my PhD is to help bridge the gap between experimental and computational approaches, since the most important discoveries in biology will ultimately benefit from a union of these perspectives. I am using single-cell transcriptomic methods to explore the developing nervous system and eye in several species. I am also contributing to expansion of the bioinformatics toolkit available to the single-cell community. I enjoy collaborating as part of an interdisciplinary team and at a university with a strong reputation for working at the interface of biology and computation.&lt;/p&gt;
-
-&lt;p&gt;Proud alumnus of the &lt;a href=&#34;https://www.embl.de/research/units/genome_biology/steinmetz/&#34; target=&#34;_blank&#34;&gt;Steinmetz&lt;/a&gt; and &lt;a href=&#34;https://www.biology.pitt.edu/person/karen-arndt&#34; target=&#34;_blank&#34;&gt;Arndt labs&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

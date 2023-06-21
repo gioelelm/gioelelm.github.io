@@ -7,89 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 17 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Irina Khven</title>
-      <link>/people/irinakhven/</link>
-      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/people/irinakhven/</guid>
-      <description>Short Bio I have recently completed my Masters at Moscow State University, Department of Bioengineering and Bioinformatics. During my undergraduate studies I’ve worked in a molecular biology lab and received a comprehensive training in many techniques. Both of my internships, one in the Weis lab at ETH Zurich and another in the Seigert lab at IST Austria, helped me realize that molecular neuroscience is the most exciting branch of modern biology to me.</description>
-    </item>
-    
-    <item>
-      <title>Alex Lederer</title>
-      <link>/people/alexlederer/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/people/alexlederer/</guid>
-      <description>Short Bio I am a PhD student in the Computational and Quantitative Biology (EDCB) program at EPFL. Originally from the United States, I completed my BSc in Molecular Biology and Computer Science at the University of Pittsburgh before working as a research fellow at EMBL Heidelberg.
-During my studies, I have been captivated by the concept of temporal omics and bioinformatics in light of the big data boom and advances in next-generation sequencing technologies.</description>
-    </item>
-    
-    <item>
-      <title>Gioele La Manno</title>
-      <link>/people/gioelelamanno/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/people/gioelelamanno/</guid>
-      <description>Bio I earned my PhD at Karolinska Instituet and I am proud alumnus of the Linnarsson Lab. My original training is in Biotechnology (BSc @UNIPA) and Biomedicine (MSc @KI) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.
-My research focuses on understanding brain development. I am particularly interested in describing the sequence of states that embryonic stem cells go through during their differentiation towards mature neurons.</description>
-    </item>
-    
-    <item>
-      <title>Albert Dominguez Mantes</title>
-      <link>/people/albertmantes/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/people/albertmantes/</guid>
-      <description>Blurb I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and the Weigert Lab. I have a strong interest in the applications of statistical models and data analysis to the health sciences.</description>
-    </item>
-    
-    <item>
-      <title>Alessandro Valente</title>
-      <link>/people/alessandrovalente/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/people/alessandrovalente/</guid>
-      <description>Blurb I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and D&amp;rsquo;Angelo Labs. I have a strong interest in the applications of statistical models and data analysis to the health sciences. After completing my Bachelor&amp;rsquo;s degree in McGill University, Canada in Biology and Mathematics and my M. Eng in Bioengineering at EPFL, during which I completed an internship in the La Manno Lab, I returned to the lab full time as a PhD student.</description>
-    </item>
-    
-    <item>
       <title>Alexandre Bouillon</title>
       <link>/people/alexandrebouillon/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/people/alexandrebouillon/</guid>
       <description>Blurb I am an happy Master student</description>
     </item>
     
     <item>
-      <title>Antonio Herrera Camacho</title>
-      <link>/people/antonioherrera/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Luca Fusar Bassini</title>
+      <link>/people/lucafusar/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/people/antonioherrera/</guid>
-      <description>Blurb I am an happy postdoc.</description>
+      <guid>/people/lucafusar/</guid>
+      <description>Blurb I am an happy PhD student</description>
+    </item>
+    
+    <item>
+      <title>Alessandro Valente</title>
+      <link>/people/alessandrovalente/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/people/alessandrovalente/</guid>
+      <description>Blurb I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and D&amp;rsquo;Angelo Labs. I have a strong interest in the applications of statistical models and data analysis to the health sciences. After completing my Bachelor&amp;rsquo;s degree in McGill University, Canada in Biology and Mathematics and my M. Eng in Bioengineering at EPFL, during which I completed an internship in the La Manno Lab, I returned to the lab full time as a PhD student.</description>
     </item>
     
     <item>
       <title>Daniel Bobrovskij</title>
       <link>/people/daniilbobrovskij/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>/people/daniilbobrovskij/</guid>
       <description>Blurb I am an happy PhD student</description>
     </item>
     
     <item>
+      <title>Albert Dominguez Mantes</title>
+      <link>/people/albertmantes/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/people/albertmantes/</guid>
+      <description>Blurb I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and the Weigert Lab. I have a strong interest in the applications of statistical models and data analysis to the health sciences.</description>
+    </item>
+    
+    <item>
       <title>Halima Hannah Schede</title>
       <link>/people/halimaschede/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>/people/halimaschede/</guid>
       <description>Blurb I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and D&amp;rsquo;Angelo Labs. I have a strong interest in the applications of statistical models and data analysis to the health sciences. After completing my Bachelor&amp;rsquo;s degree in McGill University, Canada in Biology and Mathematics and my M. Eng in Bioengineering at EPFL, during which I completed an internship in the La Manno Lab, I returned to the lab full time as a PhD student.</description>
@@ -98,25 +69,44 @@ My research focuses on understanding brain development. I am particularly intere
     <item>
       <title>Leila Alieh</title>
       <link>/people/leilaalieh/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>/people/leilaalieh/</guid>
       <description>Blurb I am an happy postdoc!</description>
     </item>
     
     <item>
-      <title>Luca Fusar Bassini</title>
-      <link>/people/lucafusar/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Antonio Herrera Camacho</title>
+      <link>/people/antonioherrera/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/people/lucafusar/</guid>
-      <description>Blurb I am an happy PhD student</description>
+      <guid>/people/antonioherrera/</guid>
+      <description>Blurb I am an happy postdoc.</description>
+    </item>
+    
+    <item>
+      <title>Irina Khven</title>
+      <link>/people/irinakhven/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/people/irinakhven/</guid>
+      <description>Short Bio I have recently completed my Masters at Moscow State University, Department of Bioengineering and Bioinformatics. During my undergraduate studies I’ve worked in a molecular biology lab and received a comprehensive training in many techniques. Both of my internships, one in the Weis lab at ETH Zurich and another in the Seigert lab at IST Austria, helped me realize that molecular neuroscience is the most exciting branch of modern biology to me.</description>
+    </item>
+    
+    <item>
+      <title>Alex Lederer</title>
+      <link>/people/alexlederer/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/alexlederer/</guid>
+      <description>Short Bio I am a PhD student in the Computational and Quantitative Biology (EDCB) program at EPFL. Originally from the United States, I completed my BSc in Molecular Biology and Computer Science at the University of Pittsburgh before working as a research fellow at EMBL Heidelberg.
+During my studies, I have been captivated by the concept of temporal omics and bioinformatics in light of the big data boom and advances in next-generation sequencing technologies.</description>
     </item>
     
     <item>
       <title>Alumni</title>
       <link>/people/alumni/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/people/alumni/</guid>
       <description>Master Students  img.minion { border: 1px solid #ddd; /*Gray border*/ border-radius: 4px; /*Rounded border*/ padding: 5px; /*Some padding*/ width: 175px; /*Set a small width*/ } /*Add a hover effect (blue shadow)*/ img.minion:hover { box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5); } * { box-sizing: border-box; } /*Create two equal columns that floats next to each other*/ .column { float: left; width: 50%; padding: 10px; height: 220px; /*Should be removed.</description>
@@ -125,11 +115,21 @@ My research focuses on understanding brain development. I am particularly intere
     <item>
       <title>Open Positions</title>
       <link>/people/openposition1/</link>
-      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/people/openposition1/</guid>
       <description>Openings and available projects Postdoctoral and PhD student positions There are no open positions at the moment. Outstanding candidates might still be considered, to enquires please contact me at gioele.lamanno@epfl.ch.
 For Ph.D. students, while direct enquiries are appreciated, to become a Ph.D. student in the lab an official application needs to go through official channels of EPFL-SV doctoral schools: EDNE, EDCB or EDMS. PhD recruitment happens only twice per year, so if interested please keep an eye on the application deadlines.</description>
+    </item>
+    
+    <item>
+      <title>Gioele La Manno</title>
+      <link>/people/gioelelamanno/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/people/gioelelamanno/</guid>
+      <description>Bio I earned my PhD at Karolinska Instituet and I am proud alumnus of the Linnarsson Lab. My original training is in Biotechnology (BSc @UNIPA) and Biomedicine (MSc @KI) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.
+My research focuses on understanding brain development. I am particularly interested in describing the sequence of states that embryonic stem cells go through during their differentiation towards mature neurons.</description>
     </item>
     
   </channel>
