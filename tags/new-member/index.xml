@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 04 Oct 2019 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/tags/new-member/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome Luca and Alessandro!</title>
+      <link>/post/lucaale_join/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0600</pubDate>
+      
+      <guid>/post/lucaale_join/</guid>
+      <description>Luca Fusar Bassini and Alessandro Valente join the lab for their PhD. Luca is a Biologist with a keen interest in developing computational methods to distill biological insight out of data, Alessandro is Biotechnologist with excellent experience in stem cell engineering and brain organoid models. They are both going to work on the lipidome-transcriptome axis in neurulation. Welcome Luca and Alessandro!.</description>
+    </item>
     
     <item>
       <title>Welcome Dimitri!</title>

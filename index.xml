@@ -25,6 +25,16 @@
     </item>
     
     <item>
+      <title>Welcome Luca and Alessandro!</title>
+      <link>/post/lucaale_join/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0600</pubDate>
+      
+      <guid>/post/lucaale_join/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/people/lucafusar/&#34; target=&#34;_self&#34; &gt;Luca Fusar Bassini&lt;/a&gt; and &lt;a href=&#34;/people/alessandrovalente/&#34; target=&#34;_self&#34;&gt;Alessandro Valente&lt;/a&gt; join the lab for their PhD. Luca is a Biologist with a keen interest in developing computational methods to distill biological insight out of data, Alessandro is Biotechnologist with excellent experience in stem cell engineering and brain organoid models. They are both going to work on the lipidome-transcriptome axis in neurulation. Welcome Luca and Alessandro!.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Gioele is appointed Tenure Track Assistant Professor</title>
       <link>/media/appointment/</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
@@ -45,6 +55,15 @@
 
 &lt;p&gt;I am an happy PhD student&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Gioele gives the TEDx talk: “Scientists at the mirror”</title>
+      <link>/media/tedx/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/media/tedx/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -88,11 +107,39 @@
     </item>
     
     <item>
+      <title>Sphingolipids Control Dermal Fibroblast Heterogeneity</title>
+      <link>/publication/lipotypes/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lipotypes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>We released the map of cell states in brain development</title>
+      <link>/post/devatlas/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 -0600</pubDate>
+      
+      <guid>/post/devatlas/</guid>
+      <description>&lt;p&gt;Using a combination of sequencing techniques and mathematical methods, our lab has traced the genetic programs that direct the development of each cell in the brain. This molecular map help understanding how the brain develops and provide insights into a range of brain disorders. &lt;a href=&#34;https://www.nature.com/articles/s41586-021-03775-x#citeas&#34; target=&#34;_blank&#34;&gt;Nature paper here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Molecular atlas reveals how brain cells develop</title>
       <link>/media/mousedevpub/</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/media/mousedevpub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular profiling of stem cell-derived retinal pigment epithelial cell differentiation established for clinical translation</title>
+      <link>/publication/rpe/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rpe/</guid>
       <description></description>
     </item>
     
@@ -106,6 +153,18 @@
     </item>
     
     <item>
+      <title>CZI awards us with a Data Insight grant</title>
+      <link>/post/czitools/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 -0600</pubDate>
+      
+      <guid>/post/czitools/</guid>
+      <description>&lt;p&gt;RNA Velocity is an analysis framework that has become fundamental in the toolbox of the single-cell research community. It allows extracting dynamical information from expression data. After its release, the method was adopted rapidly by the community; however, ways to assess statistical confidence and unambiguously interpret its outputs have not been consolidated. Most noticeably, it is not currently possible to test biological hypotheses by statistical inference on the RNA Velocity estimates.&lt;/p&gt;
+
+&lt;p&gt;This project will develop two complementary approaches that provide a statistical layer to make the estimates of the framework robust and interpretable. First, Pyro-Velocity, a multivariate RNA Velocity model, will estimate the uncertainty of future cell states. This approach considers the data manifold and all the genes simultaneously to obtain quantifiable and testable information on cell fate and dynamics. Second, the team will develop Pyro-Speed, a method for supervised and rapid velocity statistical testing along biologically interpretable axes of variation. Those axes will be extracted from a quasi-exhaustive collection of publicly available single-cell datasets by matrix factorization. Pyro-Speed will support biologists in avoiding common mistakes associated with incorrect interpretation of RNA velocity analyses, as cells can become similar in different possible ways (cell cycle phase, metabolism, differentiation). Both tools will be implemented with Pyro, a state-of-the-art Deep Probabilistic Programming framework that is revolutionizing single-cell modeling. These tools respond to the community’s current needs, as they allow characterization and interpretability of RNA Velocity with statistically-grounded approaches.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>From cell fat to cell fate</title>
       <link>/post/lipotypes/</link>
       <pubDate>Fri, 15 Apr 2022 00:00:00 -0600</pubDate>
@@ -113,82 +172,6 @@
       <guid>/post/lipotypes/</guid>
       <description>&lt;p&gt;In multicellular organisms, cells are parts of communities in which an individual contributes to the collective phenotype of the community. Appreciating the “social” organization of these cell communities is instrumental to dissecting their physiology and the pathological consequences of their abnormalities. In Capolupo et al. we investigated the lipid metabolism and gene expression of individual human skin cells and found that specific lipid compositions drive cell specialization. Specifically, we found that sphingolipids determine the transcriptional programs of fibroblasts populating in different layers of the human skin. These results reveal an unexpected role for membrane lipids in the establishment of cell identity and tissue architecture&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>From cell “fat” to cell fate</title>
-      <link>/media/lipotypespub/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/media/lipotypespub/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Albert Dominguez Mantes</title>
-      <link>/people/albertmantes/</link>
-      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/people/albertmantes/</guid>
-      <description>
-
-&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
-
-&lt;p&gt;I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and the Weigert Lab. I have a strong interest in the applications of statistical models and data analysis to the health sciences.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Halima Hannah Schede</title>
-      <link>/people/halimaschede/</link>
-      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/people/halimaschede/</guid>
-      <description>
-
-&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
-
-&lt;p&gt;I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and &lt;a href=&#34;https://www.epfl.ch/labs/dangelo-lab/&#34; target=&#34;_blank&#34;&gt;D&amp;rsquo;Angelo Labs&lt;/a&gt;. I have a strong interest in the applications of statistical models and data analysis to the health sciences. After completing my Bachelor&amp;rsquo;s degree in McGill University, Canada in Biology and Mathematics and my M. Eng in Bioengineering at EPFL, during which I completed an internship in the La Manno Lab, I returned to the lab full time as a PhD student.&lt;/p&gt;
-
-&lt;p&gt;I have worked towards the development of &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.08.04.235655v1&#34; target=&#34;_blank&#34;&gt;Tomographer&lt;/a&gt;, a technique dedicated to the spatial molecular profiling of tissues, as well as the construction of a Lipid Brain Atlas which is based on mass spectrometry data. I have other interests including tennis, hiking, baking, and jamming!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Leila Alieh</title>
-      <link>/people/leilaalieh/</link>
-      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/people/leilaalieh/</guid>
-      <description>
-
-&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
-
-&lt;p&gt;I am an happy postdoc!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Antonio Herrera Camacho</title>
-      <link>/people/antonioherrera/</link>
-      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/people/antonioherrera/</guid>
-      <description>
-
-&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
-
-&lt;p&gt;I am an happy postdoc.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>“Molecular Tomographer” algorithm maps gene expression in space</title>
-      <link>/media/tomographypub/</link>
-      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/media/tomographypub/</guid>
-      <description></description>
     </item>
     
   </channel>

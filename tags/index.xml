@@ -105,7 +105,7 @@
     <item>
       <title>New member</title>
       <link>/tags/new-member/</link>
-      <pubDate>Fri, 04 Oct 2019 00:00:00 -0600</pubDate>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0600</pubDate>
       
       <guid>/tags/new-member/</guid>
       <description></description>
@@ -148,11 +148,11 @@
     </item>
     
     <item>
-      <title>carreer</title>
-      <link>/tags/carreer/</link>
+      <title>career</title>
+      <link>/tags/career/</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/carreer/</guid>
+      <guid>/tags/career/</guid>
       <description></description>
     </item>
     
@@ -166,18 +166,9 @@
     </item>
     
     <item>
-      <title>collegues</title>
-      <link>/tags/collegues/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/collegues/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>development</title>
       <link>/tags/development/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 -0600</pubDate>
       
       <guid>/tags/development/</guid>
       <description></description>
@@ -186,7 +177,7 @@
     <item>
       <title>grants</title>
       <link>/tags/grants/</link>
-      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 -0600</pubDate>
       
       <guid>/tags/grants/</guid>
       <description></description>
@@ -225,6 +216,15 @@
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outreach</title>
+      <link>/tags/outreach/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/outreach/</guid>
       <description></description>
     </item>
     
@@ -288,6 +288,15 @@
       <pubDate>Thu, 06 Aug 2020 00:00:00 -0600</pubDate>
       
       <guid>/tags/spatial-omics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tedx</title>
+      <link>/tags/tedx/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tedx/</guid>
       <description></description>
     </item>
     

@@ -14,6 +14,15 @@
     
     <url>
     
+      <loc>/post/lucaale_join/</loc>
+      <lastmod>2023-04-01T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/media/appointment/</loc>
       <lastmod>2023-03-10T00:00:00+00:00</lastmod>
     </url>
@@ -25,6 +34,15 @@
     
       <loc>/people/lucafusar/</loc>
       <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/media/tedx/</loc>
+      <lastmod>2023-01-13T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -59,7 +77,34 @@
     
     <url>
     
+      <loc>/publication/lipotypes/</loc>
+      <lastmod>2022-10-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/devatlas/</loc>
+      <lastmod>2022-06-14T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/media/mousedevpub/</loc>
+      <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/rpe/</loc>
       <lastmod>2022-06-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -70,6 +115,15 @@
     
       <loc>/media/rpepub/</loc>
       <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/czitools/</loc>
+      <lastmod>2022-06-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -122,6 +176,24 @@
     
     <url>
     
+      <loc>/publication/mouseatlas/</loc>
+      <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/tomographypp/</loc>
+      <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/people/antonioherrera/</loc>
       <lastmod>2021-06-06T00:00:00+00:00</lastmod>
     </url>
@@ -160,15 +232,6 @@
     
       <loc>/media/spark/</loc>
       <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/media/elisirs2019/</loc>
-      <lastmod>2019-11-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -284,43 +347,7 @@
     
     <url>
     
-      <loc>/post/devatlas/</loc>
-      <lastmod>2018-03-04T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/newmembers2020/</loc>
-      <lastmod>2018-03-04T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/post/osmfish/</loc>
-      <lastmod>2018-03-04T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/temporalomics/</loc>
-      <lastmod>2018-03-04T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/tomography/</loc>
       <lastmod>2018-03-04T00:00:00-07:00</lastmod>
     </url>
     
@@ -509,15 +536,6 @@
     
     <url>
     
-      <loc>/media/astrocytes/</loc>
-      <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/software/nbregression/</loc>
       <lastmod>2016-05-01T00:00:00+00:00</lastmod>
     </url>
@@ -692,7 +710,7 @@
     <url>
     
       <loc>/tags/new-member/</loc>
-      <lastmod>2019-10-04T00:00:00-06:00</lastmod>
+      <lastmod>2023-04-01T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -771,7 +789,7 @@
     
     <url>
     
-      <loc>/tags/carreer/</loc>
+      <loc>/tags/career/</loc>
       <lastmod>2023-03-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -791,18 +809,8 @@
     
     <url>
     
-      <loc>/tags/collegues/</loc>
-      <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/development/</loc>
-      <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+      <lastmod>2022-06-14T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -812,7 +820,7 @@
     <url>
     
       <loc>/tags/grants/</loc>
-      <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+      <lastmod>2022-06-01T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -853,6 +861,16 @@
     
       <loc>/tags/media/</loc>
       <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/outreach/</loc>
+      <lastmod>2023-01-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -923,6 +941,16 @@
     
       <loc>/tags/spatial-omics/</loc>
       <lastmod>2020-08-06T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/tedx/</loc>
+      <lastmod>2023-01-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

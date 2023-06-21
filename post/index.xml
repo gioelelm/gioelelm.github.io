@@ -13,12 +13,39 @@
     
     
     <item>
+      <title>Welcome Luca and Alessandro!</title>
+      <link>/post/lucaale_join/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0600</pubDate>
+      
+      <guid>/post/lucaale_join/</guid>
+      <description>Luca Fusar Bassini and Alessandro Valente join the lab for their PhD. Luca is a Biologist with a keen interest in developing computational methods to distill biological insight out of data, Alessandro is Biotechnologist with excellent experience in stem cell engineering and brain organoid models. They are both going to work on the lipidome-transcriptome axis in neurulation. Welcome Luca and Alessandro!.</description>
+    </item>
+    
+    <item>
       <title>We formulated the lipotype hypothesis</title>
       <link>/post/lipotypehipothesis/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 -0600</pubDate>
       
       <guid>/post/lipotypehipothesis/</guid>
       <description>The overall lipid composition of cell membranes is defined by variations in the concentration of hundreds of individual species. Although, in principle, the unconstrained variations of lipid levels are able to generate infinite combinations of lipid composition, the action of regulatory circuits restricts the spectrum of possible lipid configurations in a given cell and under given conditions. Lipid configurations can be seen as a finite number of states that represent local energetic minima of the lipid compositional landscape.</description>
+    </item>
+    
+    <item>
+      <title>We released the map of cell states in brain development</title>
+      <link>/post/devatlas/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 -0600</pubDate>
+      
+      <guid>/post/devatlas/</guid>
+      <description>Using a combination of sequencing techniques and mathematical methods, our lab has traced the genetic programs that direct the development of each cell in the brain. This molecular map help understanding how the brain develops and provide insights into a range of brain disorders. Nature paper here</description>
+    </item>
+    
+    <item>
+      <title>CZI awards us with a Data Insight grant</title>
+      <link>/post/czitools/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 -0600</pubDate>
+      
+      <guid>/post/czitools/</guid>
+      <description>RNA Velocity is an analysis framework that has become fundamental in the toolbox of the single-cell research community. It allows extracting dynamical information from expression data. After its release, the method was adopted rapidly by the community; however, ways to assess statistical confidence and unambiguously interpret its outputs have not been consolidated. Most noticeably, it is not currently possible to test biological hypotheses by statistical inference on the RNA Velocity estimates.</description>
     </item>
     
     <item>
@@ -90,50 +117,10 @@ To explain what an ELIFR fellow is I could simply refer to it as a &amp;ldquo;su
     
     <item>
       <title>osmFISH is really awesome</title>
-      <link>/post/devatlas/</link>
-      <pubDate>Sun, 04 Mar 2018 00:00:00 -0700</pubDate>
-      
-      <guid>/post/devatlas/</guid>
-      <description>Simone Codelluppi and Lars Borm have developed and optimized a cyclic smFISH protocol, termed ouroboros smFISH, to quantify the expression of a large number of genes in tissue sections. The goal was building a cell type map of the mouse somatosensory cortex. The results are really impressive. See the fantastic images and interactively explore the data using the Loom viewer here.
-Great news are not only is taht Lars and Simore have put a lot of effort to make it possible for any lab to set up the method and they provide detailed protocol and a polished software package.</description>
-    </item>
-    
-    <item>
-      <title>osmFISH is really awesome</title>
-      <link>/post/newmembers2020/</link>
-      <pubDate>Sun, 04 Mar 2018 00:00:00 -0700</pubDate>
-      
-      <guid>/post/newmembers2020/</guid>
-      <description>Simone Codelluppi and Lars Borm have developed and optimized a cyclic smFISH protocol, termed ouroboros smFISH, to quantify the expression of a large number of genes in tissue sections. The goal was building a cell type map of the mouse somatosensory cortex. The results are really impressive. See the fantastic images and interactively explore the data using the Loom viewer here.
-Great news are not only is taht Lars and Simore have put a lot of effort to make it possible for any lab to set up the method and they provide detailed protocol and a polished software package.</description>
-    </item>
-    
-    <item>
-      <title>osmFISH is really awesome</title>
       <link>/post/osmfish/</link>
       <pubDate>Sun, 04 Mar 2018 00:00:00 -0700</pubDate>
       
       <guid>/post/osmfish/</guid>
-      <description>Simone Codelluppi and Lars Borm have developed and optimized a cyclic smFISH protocol, termed ouroboros smFISH, to quantify the expression of a large number of genes in tissue sections. The goal was building a cell type map of the mouse somatosensory cortex. The results are really impressive. See the fantastic images and interactively explore the data using the Loom viewer here.
-Great news are not only is taht Lars and Simore have put a lot of effort to make it possible for any lab to set up the method and they provide detailed protocol and a polished software package.</description>
-    </item>
-    
-    <item>
-      <title>osmFISH is really awesome</title>
-      <link>/post/temporalomics/</link>
-      <pubDate>Sun, 04 Mar 2018 00:00:00 -0700</pubDate>
-      
-      <guid>/post/temporalomics/</guid>
-      <description>Simone Codelluppi and Lars Borm have developed and optimized a cyclic smFISH protocol, termed ouroboros smFISH, to quantify the expression of a large number of genes in tissue sections. The goal was building a cell type map of the mouse somatosensory cortex. The results are really impressive. See the fantastic images and interactively explore the data using the Loom viewer here.
-Great news are not only is taht Lars and Simore have put a lot of effort to make it possible for any lab to set up the method and they provide detailed protocol and a polished software package.</description>
-    </item>
-    
-    <item>
-      <title>osmFISH is really awesome</title>
-      <link>/post/tomography/</link>
-      <pubDate>Sun, 04 Mar 2018 00:00:00 -0700</pubDate>
-      
-      <guid>/post/tomography/</guid>
       <description>Simone Codelluppi and Lars Borm have developed and optimized a cyclic smFISH protocol, termed ouroboros smFISH, to quantify the expression of a large number of genes in tissue sections. The goal was building a cell type map of the mouse somatosensory cortex. The results are really impressive. See the fantastic images and interactively explore the data using the Loom viewer here.
 Great news are not only is taht Lars and Simore have put a lot of effort to make it possible for any lab to set up the method and they provide detailed protocol and a polished software package.</description>
     </item>
