@@ -59,9 +59,9 @@ defaultContentLanguageInSubdir = false
   {name = "EPFL", url = "https://www.epfl.ch/"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "dglogo_small.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "gioele.la.manno@ki.se"
-  address = "Scheeles väg 1, 171 77 Stockholm"
+  avatar = "newdglogo_small.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "gioele.lamanno@epf.ch"
+  address = "EPFL, Lausanne"
   office_hours = ""
   phone = ""
   skype = "gioelesky"
@@ -76,7 +76,7 @@ defaultContentLanguageInSubdir = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = "logo_lab_v1.png"
+  logo = "logo_lab_v2.png"
   logouni = "epfl.png"
   
 
@@ -302,10 +302,10 @@ defaultContentLanguageInSubdir = false
   url = "people/openposition1/"
   weight = 7
 
-[[menu.main]]
-  name = "CV"
-  url = "files/cv.pdf"
-  weight = 8
+#[[menu.main]]
+#  name = "CV"
+#  url = "files/cv.pdf"
+#  weight = 8
 
 
 

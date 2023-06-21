@@ -32,48 +32,33 @@ caption = ""
 [[social]]
 icon = "envelope"
 icon_pack = "fa"
-link = "mailto:gioelelamanno@gmail.com"
+link = "mailto:gioele.lamanno@epfl.ch"
  
 +++
  
 # Openings and available projects
 
-## Postdoctoral researcher
-
-[Read the full call in pdf here!](/files/PostdocOpening2021.pdf)
-
-The research project offered will be focused on the spatio-temporal organization of neural progenitor cells across the developing nervous systems in health and disease. The project, funded by SNF, is low-risk and high-impact.
-
-The overarching goal is understanding the functional implications of the distribution and abundance of radial glial subtypes and the modalities teratogens and metabolic alterations can disrupt it.
-
-Please send your request as a single PDF file – including a CV, a complete list of publications, a statement of research interests, and the contact information of at least two reference persons – to <a href="mailto:nsbl.openings@epfl.ch">nsbl.openings@epfl.ch</a>.
-
-## PhD student position
+## Postdoctoral and PhD student positions
 
 <div style="text-align: justify">
-There are no open positions at the moment. Outstanding candidates might still be considered, to enquires please contact me at <a href="mailto:gioele.lamanno@epfl.ch">gioele.lamanno@epfl.ch</a>
-</div>
 
-**Selection of the candidate will be performed through the EPFL PhD programs*
+There are no open positions at the moment.
+
+Outstanding candidates might still be considered, to enquires please contact me at <a href="mailto:gioele.lamanno@epfl.ch">gioele.lamanno@epfl.ch</a>.<br><br>
+
+For Ph.D. students, while direct enquiries are appreciated, to become a Ph.D. student in the lab an official application needs to go through official channels of EPFL-SV doctoral schools: <a href="https://www.epfl.ch/education/phd/edne-neuroscience/edne-how-to-apply/">EDNE</a>, <a href="https://www.epfl.ch/education/phd/edcb-computational-and-quantitative-biology/edcb-how-to-apply/">EDCB</a> or <a href="https://www.epfl.ch/education/phd/edms-molecular-life-sciences/edms-how-to-apply/">EDMS</a>. PhD recruitment happens only twice per year, so if interested please keep an eye on the application deadlines.<br><br>
+
+For postdoctoral researcher positions, please send your request as a single PDF file – including a CV, a complete list of publications, a statement of research interests, and the contact information of at least two reference persons – to <a href="mailto:gioele.lamanno@epfl.ch">Gioele</a>.
+</div>
 
 ## Masters Projects
 
-Some of the following projects can be adapted to shorter "Semester Projects" and “Lab Immersions”.
-Please contact me for further information.
+We always offer a set of exciting computational and experimental projects for Masters student interested to do a thesis or a Semester project in our lab. Example of projects available are listerd below. Contact <a href="mailto:gioele.lamanno@epfl.ch">Gioele</a>
 
 <div style="text-align: justify">
 **Computational Projects**
 
 Particularly indicated for EPFL students of Data Science and Computer science.
-
-Title> **Building data-aware prior-conditioned models for experiment design**<br>
-**Project Description >**<br>
-**- Background**: In this project we want to address the following question: How can one select a maximally informative subset of features from a extensive but sparse dataset so to design an experiment where those features will be measure more densely?
-The question is motivated by the following experimental dichotomy in biology: there are two families of techniques to measure the same variable (gene expression) but technical aspects and different biases characterize the two techniques. The high-throughput (thousands of variables) method is sparse and low sensitivity (missing values and low integer values), while some low-throughput methods have  high sensitivity, and include othre valuable data (localization information). Starting from the high-throughput data, one would like to be able to optimally select the features with minimal loss of information<br>
-**- Activities**: The student will (1) Build a model that predicts dense low-throughput measurements from sparse high-throughput data using machine learning and statistical modeling. (2) Design a strategy that optimally selects a set of features to measure by low-throughput method. (3) Evaluate performances of the method considering uncertainties (4) Incorporate experimenter knowledge in the selection in the form of statistical priors. (5) integrating thee procedure in a command line tool <br>
-**Faculty and laboratory >** - SV - BMI - Neurodevelopmental Systems Biology Lab<br>
-**Contact person >** Gioele La Manno - <gioele.lamanno@epfl.ch><br>
-**Available to>** Master students of Data Science, Computer science and Life Science Engineering<br>
 
 Title> **Integration, modeling and visualization of central nervous systems data**<br>
 **Project Description >**<br>
@@ -91,31 +76,8 @@ Title> **Extensions of the RNA velocity algorithm**<br>
 **Faculty and laboratory >** - SV - BMI - Neurodevelopmental Systems Biology Lab<br>
 **Contact person >** Gioele La Manno - <gioele.lamanno@epfl.ch><br> <br>
 
-Title> **Computational integration of chromatin accessibility and transcriptomics data**<br><br>
-*Project Description >*<br>
-**- Background**: The single cell revolution is rapidly extending from transcriptomics to many other genomics techniques including a wide set of techniques  probing the state of the chromatin. When different types of functional genomics data are generated on single cells from different samples of cells from the same heterogeneous populations, the results of the analysis (e.g. clustering) on the two datasets need to be aligned. This aligned then allows to carry on a coupled analysis of the different kind of dataset giving a more reach view of the internal molecular state of a cell.<br>
-**- Activities**: The projects aims at the establishment of a algorithm to align of single cell ATAC-seq data  with RNA-seq data. The student will (1) individuate from the literature datasets that can be matched and process the raw data (2) consider different approaches in the literature for the for alignment and (3) benchmark them using a recent joint single-cell/RNA-seq dataset as a ground truth standard. (4) Use what learned to explore possibilities in developing an improved strategy for the alignment that would be compatible with continuous cell types transitions (i.g. lineages in development) and it is not limited to discrete cell types.<br>
-**Faculty and laboratory >** SV - BMI - Neurodevelopmental Systems Biology Lab<br>
-**Available to>** Master students of Data Science, Computer science and Life Science Engineering<br>
-**Contact person >**<br>
-Gioele La Manno - <gioele.lamanno@epfl.ch><br>
-
 **Experimental Projects**
 
-*> Identification of different population of neural progenitors by spatial transcriptomics*<br>
-*- Background*: During the development of the nervous system, an initial stem-cell pool specifies in hundreds of different neuronal cell types through a highly regulated gene regulation programs. Single-cell RNA sequencing profiling has allowed the transcriptomic characterization of many of these lineages, and importantly the definition of the sequence of intermediate states that eventually leads to the final adult cell types. To understand how gene regulation programs unfold and how mature cell forms, it is essential to characterize the many intermediate states further. Beyond measuring their transcriptome it is important to localize those cells in the tissue to start understanding their function<br>
-*- Project*: This project aims at the identification of spatial localization of different populations of radial-glial progenitors. The student will: (1) Design a set of in-situ hybridization probes, starting from single-cell data. (2) Validate the FISH probes. (3) Collect images across the ventricular zone of mouse embryos of different ages. (4) Perform data analysis to integrate the information collected.
-
-## Semester Projects
-
-Particularly indicated for EPFL students of Data Science and Computer science.
-
-Title> **Implementation and extension of multimodal data integration algorithms using python**<br>
-**Project Description >**<br>
-**- Background**: The scientific community is generating a great volume of datasets that record many features from single cells. These datasets survey the same population but each dataset is measuring different features. These measurements are disjoint and do not come from the same individuals. However, since the datasets are collected from the same organ/tissue it should be possible to align them. This has proved to be possible using a series of multivariate statistics / machine learning procedures (Stuart et al. 2019).<br>
-**- Activities**: The project is divided in two parts a implementation and an extension part. In the first part the student will (1) individuate from the literature methods for multimodal data integration and batch correction (2) Reimplement the best of them in python with a common and minimal api (using numpy, scipy and scikit-learn). The second part the student will (3) Identify common modules in those methods and attempt to combine different feature from them to (2) propose a new improved version. (4) Finally the different method including the improved one will be benchmarked using different reference datasets.<br>
-**- Reference**: [Comprehensive Integration of Single-Cell Data. Stuart et al. Cell 2019](http://www.cell.com/cell/pdf/S0092-8674(19)30559-8.pdf)<br>
-**Faculty and laboratory >** - SV - BMI - Neurodevelopmental Systems Biology Lab<br>
-**Contact person >** Gioele La Manno - <gioele.lamanno@epfl.ch><br>
-**Available to>** Master students of Data Science, Computer science and Life Science Engineering<br>
-**Number of students >** 1
+Title> **Identification of different population of neural progenitors by spatial transcriptomics**<br>
+**- Background**: During the development of the nervous system, an initial stem-cell pool specifies in hundreds of different neuronal cell types through a highly regulated gene regulation programs. Single-cell RNA sequencing profiling has allowed the transcriptomic characterization of many of these lineages, and importantly the definition of the sequence of intermediate states that eventually leads to the final adult cell types. To understand how gene regulation programs unfold and how mature cell forms, it is essential to characterize the many intermediate states further. Beyond measuring their transcriptome it is important to localize those cells in the tissue to start understanding their function<br>
+**- Project**: This project aims at the identification of spatial localization of different populations of radial-glial progenitors. The student will: (1) Design a set of in-situ hybridization probes, starting from single-cell data. (2) Validate the FISH probes. (3) Collect images across the ventricular zone of mouse embryos of different ages. (4) Perform data analysis to integrate the information collected.

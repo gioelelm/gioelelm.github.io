@@ -20,13 +20,13 @@ weight = 2
 +++
 
 ## About
+
  <div style="text-align: justify">
-Our research focuses on understanding how the *cell types* in the nervous system are made.
-We are particularly interested in describing the sequence of states that embryonic stem cells go through during their differentiation towards mature neurons in the *central nervous system* and the *retina*. 
- 
-We make use of highly quantitative single-cell genomics techniques and machine learning tools to address our scientific questions. For example, we have used the wealth of data provided by [single cell RNA sequencing](https://www.nature.com/articles/nmeth.2801) to characterize the developmental process in [entire tissues](https://ki.se/en/news/new-method-reveals-cell-development). One of the long-term goals of the lab is to understand the complex gene regulatory programs that lead to the formation of cell types in the nervous system.
+We are a computational and developmental biology lab with a focus on understanding the complexities and dynamics of brain development. Our approach combines single-cell genomics, spatial omics technologies, and machine learning tools. Our use of techniques like RNA velocity allow us to trace the future states of individual cells, predicting developmental trajectories and cellular fate decisions in the process of differentiating embryonic stem cells into mature neurons.
 
-With our work, we have the ambition to contribute to the fight against *neurodegenerative and blinding diseases*. However we are wary of overselling our research as translational, what we do is *basic research* and we feel privileged of being granted this opportunity. We are convinced that our data-oriented and quantitative approach to biology is the way to build up information that can, then, immediatelly be used to [support applied efforts](https://ki.se/en/news/midbrain-study-gives-boost-to-parkinsons-research).
+A significant aspect of our research is the exploration of lipid heterogeneity at the single-cell level. We believe this emerging field holds the key to understanding how different biochemical drivers, including lipids, influence the dynamic process of brain development.
 
-<a href="{{<ref "people/openposition1.md">}}" target="_self" >★</a> Looking for a postdoc, internship, master or a PhD? <a href="mailto:gioelelamanno@gmail.com">Get in touch!</a> <br>We welcome applications from both experimentalists and analysts, being  curious about how the nervous system develops and a quantitative mindset are an important plus. Descriptions for some of the available projects can be found <a href="{{<ref "people/openposition1.md">}}" target="_self" >here</a>.
+Our long-term goal is to unravel the intricate gene regulatory programs that drive the formation of cell types in the nervous system. By doing so, we hope to contribute to the understanding of neurodevelopmental disorders and the improvement of cell replacement therapies.
+
+<a href="{{<ref "people/openposition1.md">}}" target="_self" >★</a> Looking for a postdoc, internship, master or a PhD? <a href="mailto:gioele.lamanno@epfl.ch">Get in touch!</a> <br>We welcome applications from both experimentalists and analysts, being  curious about how the nervous system develops and a quantitative mindset are an important plus. Descriptions for some of the available projects can be found <a href="{{<ref "people/openposition1.md">}}" target="_self" >here</a>.
 </div>
