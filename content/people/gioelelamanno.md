@@ -6,9 +6,9 @@ date = "2018-11-01"
 title = "Gioele La Manno" # note I am using UNICODE 00A0 non breaking spaces
 
 # Project summary to display on homepage.
-summary = 'Principal Investigator'
-summary_link = 'https://elifr.epfl.ch/?page=program_description'
-summary2 = "ELISIR Fellow"
+summary = 'Assistant Professor'
+summary_link = 'https://www.epfl.ch/schools/sv/bmi/'
+summary2 = "EPFL - Brain Mind Institute"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "people/glm_square.jpg"
@@ -91,10 +91,10 @@ link = "//github.com/gioelelm"
 # Bio
 
 I earned my PhD at [Karolinska Instituet](http://ki.se/en/startpage) and I am proud alumnus of the [Linnarsson Lab](http://linnarssonlab.org/). My original training is in Biotechnology ([BSc @UNIPA](http://www.unipa.it/target/international-students/en/about/the-university/)) and Biomedicine ([MSc @KI](http://ki.se/en/startpage)) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.
- 
+
 My research focuses on understanding [brain](https://en.wikipedia.org/wiki/Brain) development.
  I am particularly interested in describing the sequence of states that embryonic stem cells go through during their differentiation towards mature neurons.
- 
+
 I have been tackling this question using machine learning tools on the wealth of data provided by [single cell RNA sequencing](https://www.nature.com/articles/nmeth.2801), a technique I have been working with and developing since its early times.
 
 My long-term goal is to contribute in making biology from a descriptive to a predictive science.
