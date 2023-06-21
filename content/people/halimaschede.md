@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2018-10-10"
+date = "2021-11-11"
 
 # Project title.
 title = "Halima Hannah Schede"
@@ -60,7 +60,7 @@ link = "mailto:halima.schede@epfl.ch"
 +++
  
 # Blurb
- 
+
  I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and [D'Angelo Labs](https://www.epfl.ch/labs/dangelo-lab/). I have a strong interest in the applications of statistical models and data analysis to the health sciences. After completing my Bachelor's degree in McGill University, Canada in Biology and Mathematics and my M. Eng in Bioengineering at EPFL, during which I completed an internship in the La Manno Lab, I returned to the lab full time as a PhD student.
 
 I have worked towards the development of [Tomographer](https://www.biorxiv.org/content/10.1101/2020.08.04.235655v1), a technique dedicated to the spatial molecular profiling of tissues, as well as the construction of a Lipid Brain Atlas which is based on mass spectrometry data. I have other interests including tennis, hiking, baking, and jamming!

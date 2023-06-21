@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2019-02-28"
+date = "2018-07-07"
 
 # Project title.
 title = "Alex Lederer"
@@ -84,4 +84,3 @@ I am a PhD student in the Computational and Quantitative Biology (EDCB) program 
 During my studies, I have been captivated by the concept of [temporal omics](https://www.sciencedirect.com/science/article/pii/S0958166919301430) and bioinformatics in light of the big data boom and advances in next-generation sequencing technologies. One ambition of my PhD is to help bridge the gap between experimental and computational approaches, since the most important discoveries in biology will ultimately benefit from a union of these perspectives. I am using single-cell transcriptomic methods to explore the developing nervous system and eye in several species. I am also contributing to expansion of the bioinformatics toolkit available to the single-cell community. I enjoy collaborating as part of an interdisciplinary team and at a university with a strong reputation for working at the interface of biology and computation.
 
 Proud alumnus of the [Steinmetz](https://www.embl.de/research/units/genome_biology/steinmetz/) and [Arndt labs](https://www.biology.pitt.edu/person/karen-arndt).
-

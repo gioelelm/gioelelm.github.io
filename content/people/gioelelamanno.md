@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2018-11-01"
+date = "2017-11-01"
 
 # Project title.
 title = "Gioele La Manno" # note I am using UNICODE 00A0 non breaking spaces
@@ -11,8 +11,8 @@ summary_link = 'https://www.epfl.ch/schools/sv/bmi/'
 summary2 = "EPFL - Brain Mind Institute"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "people/glm_square.jpg"
-image = "people/glm_circled.jpg"
+image_preview = "people/glm2_square.jpg"
+image = "people/glm2_circled.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
