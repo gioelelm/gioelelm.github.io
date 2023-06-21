@@ -22,7 +22,7 @@ abstract_short = "We used RNA sequencing of half a million single cells to creat
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

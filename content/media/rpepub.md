@@ -9,7 +9,7 @@ title = "Streamlining stem cells to treat macular degeneration"
 summary = "Our lab in collaboration with the Lanner lab has tested and confirmed a protocol for growing human embryonic stem cells into retina cells to treat eye diseases such as age-related macular degeneration. [Stem Cell Reports paper here](https://linkinghub.elsevier.com/retrieve/pii/S2213671122002570)"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "rpe.png"
+image_preview = "rpe.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

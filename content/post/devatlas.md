@@ -1,13 +1,10 @@
 +++
-date = 2018-03-04
+date = 2022-06-14
 draft = false
-tags = ["smFISH"]
-title = "osmFISH is really awesome"
+tags = ["development"]
+title = "We released the map of cell states in brain development"
 math = false
-summary = """Congratulations to Lars and Simone! 
-This week Simone Codelluppi and Lars Borm, in our lab have been releasing to the world their creation: osmFISH, a fantastic technique they have been optimizing to perfection! I really reccomand to read the [preprint here](https://www.biorxiv.org/content/early/2018/03/04/276097)"""
+summary = """It is super exciting to release this resource we have been working so long for: an atlas of all the cell states appearing in mouse brain development, between gastrulation and birth!"""
 +++
 
-Simone Codelluppi and Lars Borm have developed and optimized a cyclic smFISH protocol, termed ouroboros smFISH, to quantify the expression of a large number of genes in tissue sections. The goal was building a cell type map of the mouse somatosensory cortex. The results are really impressive. See the fantastic images and interactively explore the data using the Loom viewer [here](http://linnarssonlab.org/osmFISH/).
-
-Great news are not only is taht Lars and Simore have put a lot of effort to make it possible for any lab to set up the method and they provide [detailed protocol](https://www.biorxiv.org/content/early/2018/03/04/276097) and a polished [software package]((http://linnarssonlab.org/osmFISH/availability/)).
+Using a combination of sequencing techniques and mathematical methods, our lab has traced the genetic programs that direct the development of each cell in the brain. This molecular map help understanding how the brain develops and provide insights into a range of brain disorders. [Nature paper here](https://www.nature.com/articles/s41586-021-03775-x#citeas)

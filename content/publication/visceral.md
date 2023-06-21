@@ -33,7 +33,7 @@ abstract_short = "We explored the heterogeneity of mouse stellate and thoracic g
 image_preview = "nipple.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

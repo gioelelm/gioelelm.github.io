@@ -35,7 +35,7 @@ abstract_short = "We discover: Species differences in developmental timing and c
 image_preview = "cell.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
