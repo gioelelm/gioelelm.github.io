@@ -7,56 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Christian Schneider</title>
-      <link>/people/christianschneider/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/people/christianschneider/</guid>
-      <description>Short Bio I am an MD student visiting EPFL as part of my doctoral research project. While studying medicine at Charité, my research focus has been developing molecular biotechnologies for clinical application in neurological diseases, with projects based in Berlin, India and Central Africa. As part of my home university’s lab for Translational Neurogenomics, I joined the La Manno Lab with a key interest in quantitative systems biology of single cells.</description>
-    </item>
-    
-    <item>
-      <title>Lisa Dravta</title>
-      <link>/people/lisadravta/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/people/lisadravta/</guid>
-      <description>Short Bio I have joined the La Manno Lab for a semester project as part of my Master&amp;rsquo;s program in Computational Neurosciences. I will be looking into extracting new information from the single cell atlas of the developmental mouse brain. My background is in Life Sciences and Engineering, with a special focus on neurosciences, genomics, programming and data analysis.</description>
-    </item>
-    
-    <item>
-      <title>Roger Aylagas Torres</title>
-      <link>/people/rogeraylagas/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/people/rogeraylagas/</guid>
-      <description>Short Bio My name is Roger Aylagas Torres and I am from Barcelona, Catalonia. I studied my BSc in Telecommunication Engineering at the Universitat Politècnica de Catalunya with a minor in Audiovisual Signal Processing and I am currently pursuing a MSc in Advanced Telecommunication also at UPC with the path of Artificial Intelligence for Multimedia.
-I am currently doing my Master Thesis in the La Manno Lab and I am working on building a self-supervised algorithm for the integration of scRNA-seq and scATAC-seq data.</description>
-    </item>
-    
-    <item>
-      <title>Zahra Moslehi</title>
-      <link>/people/zahramoslehi/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/people/zahramoslehi/</guid>
-      <description>Short Bio I received my B.Sc. degree in Computer Engineering from Yazd University, my M.Sc. degree in Software Engineering from Amirkabir University of Technology, and my Ph.D. degree in Artificial Intelligence from Isfahan University of Technology. During my doctoral studies, I made two research visits at the University of Geneva and University of Sheffield. After my Ph.D., I continued my research and teaching experiences at Isfahan University of Technology, University of Isfahan, and Shahid Beheshti University, Iran.</description>
-    </item>
-    
-    <item>
-      <title>Ece Asirim</title>
-      <link>/people/eceasirim/</link>
-      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/people/eceasirim/</guid>
-      <description>Short Bio I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and D&amp;rsquo;Angelo Labs. I completed my MSc degree in University of Fribourg, working on Drosophila larval circadian rhythms. My current project focuses on lipidomics and neuroscience, as in the central nervous system, lipids play a crucial role by influencing the firing of neurons and synaptic plasticity. To address the lacking knowledge of lipid metabolism in different brain regions, we aim to build a high-resolution atlas of lipid metabolism in adult mouse brain, both in health and disease conditions.</description>
-    </item>
     
     <item>
       <title>Irina Khven</title>
@@ -88,6 +42,51 @@ My research focuses on understanding brain development. I am particularly intere
     </item>
     
     <item>
+      <title>Albert Dominguez Mantes</title>
+      <link>/people/albertmantes/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/albertmantes/</guid>
+      <description>Blurb I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and the Weigert Lab. I have a strong interest in the applications of statistical models and data analysis to the health sciences.</description>
+    </item>
+    
+    <item>
+      <title>Alessandro Valente</title>
+      <link>/people/alessandrovalente/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/alessandrovalente/</guid>
+      <description>Blurb I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and D&amp;rsquo;Angelo Labs. I have a strong interest in the applications of statistical models and data analysis to the health sciences. After completing my Bachelor&amp;rsquo;s degree in McGill University, Canada in Biology and Mathematics and my M. Eng in Bioengineering at EPFL, during which I completed an internship in the La Manno Lab, I returned to the lab full time as a PhD student.</description>
+    </item>
+    
+    <item>
+      <title>Alexandre Bouillon</title>
+      <link>/people/alexandrebouillon/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/alexandrebouillon/</guid>
+      <description>Blurb I am an happy Master student</description>
+    </item>
+    
+    <item>
+      <title>Antonio Herrera Camacho</title>
+      <link>/people/antonioherrera/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/antonioherrera/</guid>
+      <description>Blurb I am an happy postdoc.</description>
+    </item>
+    
+    <item>
+      <title>Daniel Bobrovskij</title>
+      <link>/people/daniilbobrovskij/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/daniilbobrovskij/</guid>
+      <description>Blurb I am an happy PhD student</description>
+    </item>
+    
+    <item>
       <title>Halima Hannah Schede</title>
       <link>/people/halimaschede/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
@@ -97,12 +96,30 @@ My research focuses on understanding brain development. I am particularly intere
     </item>
     
     <item>
+      <title>Leila Alieh</title>
+      <link>/people/leilaalieh/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/leilaalieh/</guid>
+      <description>Blurb I am an happy postdoc!</description>
+    </item>
+    
+    <item>
+      <title>Luca Fusar Bassini</title>
+      <link>/people/lucafusar/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/lucafusar/</guid>
+      <description>Blurb I am an happy PhD student</description>
+    </item>
+    
+    <item>
       <title>Alumni</title>
       <link>/people/alumni/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/people/alumni/</guid>
-      <description>Master Students  img.minion { border: 1px solid #ddd; /* Gray border */ border-radius: 4px; /* Rounded border */ padding: 5px; /* Some padding */ width: 175px; /* Set a small width */ } /* Add a hover effect (blue shadow) */ img.minion:hover { box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5); } * { box-sizing: border-box; } /* Create two equal columns that floats next to each other */ .</description>
+      <description>Master Students  img.minion { border: 1px solid #ddd; /*Gray border*/ border-radius: 4px; /*Rounded border*/ padding: 5px; /*Some padding*/ width: 175px; /*Set a small width*/ } /*Add a hover effect (blue shadow)*/ img.minion:hover { box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5); } * { box-sizing: border-box; } /*Create two equal columns that floats next to each other*/ .column { float: left; width: 50%; padding: 10px; height: 220px; /*Should be removed.</description>
     </item>
     
     <item>

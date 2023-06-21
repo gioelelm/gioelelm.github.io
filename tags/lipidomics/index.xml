@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lipidomics on Gioele La Manno</title>
+    <link>/tags/lipidomics/</link>
+    <description>Recent content in lipidomics on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 01 Nov 2022 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/tags/lipidomics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We formulated the lipotype hypothesis</title>
+      <link>/post/lipotypehipothesis/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 -0600</pubDate>
+      
+      <guid>/post/lipotypehipothesis/</guid>
+      <description>The overall lipid composition of cell membranes is defined by variations in the concentration of hundreds of individual species. Although, in principle, the unconstrained variations of lipid levels are able to generate infinite combinations of lipid composition, the action of regulatory circuits restricts the spectrum of possible lipid configurations in a given cell and under given conditions. Lipid configurations can be seen as a finite number of states that represent local energetic minima of the lipid compositional landscape.</description>
+    </item>
+    
+  </channel>
+</rss>

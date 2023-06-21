@@ -7,83 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Christian Schneider</title>
-      <link>/people/christianschneider/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <title>We formulated the lipotype hypothesis</title>
+      <link>/post/lipotypehipothesis/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 -0600</pubDate>
       
-      <guid>/people/christianschneider/</guid>
-      <description>
-
-&lt;h1 id=&#34;short-bio&#34;&gt;Short Bio&lt;/h1&gt;
-
-&lt;p&gt;I am an MD student visiting EPFL as part of my doctoral research project. While studying medicine at &lt;a href=&#34;https://www.charite.de/&#34; target=&#34;_blank&#34;&gt;Charité&lt;/a&gt;, my research focus has been developing molecular biotechnologies for clinical application in neurological diseases, with projects based in Berlin, India and Central Africa. As part of my home university’s lab for &lt;a href=&#34;https://translationalgenomics.charite.de/forschung/ag_schuelke/&#34; target=&#34;_blank&#34;&gt;Translational Neurogenomics&lt;/a&gt;, I joined the La Manno Lab with a key interest in quantitative systems biology of single cells.&lt;/p&gt;
-
-&lt;p&gt;During my research stay at EPFL, I am working on the development of techniques in &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.08.04.235655v1&#34; target=&#34;_blank&#34;&gt;spatial omics&lt;/a&gt; and &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0958166919301430&#34; target=&#34;_blank&#34;&gt;temporal omics&lt;/a&gt;, both in the wet lab and bioinformatic settings. Currently, I am applying these techniques to study central nervous system development in vertebrates and fruit flies. My long-term vision is to contribute to the convergence of quantitative biology and medical research.&lt;/p&gt;
+      <guid>/post/lipotypehipothesis/</guid>
+      <description>&lt;p&gt;The overall lipid composition of cell membranes is defined by variations in the concentration of hundreds of individual species. Although, in principle, the unconstrained variations of lipid levels are able to generate infinite combinations of lipid composition, the action of regulatory circuits restricts the spectrum of possible lipid configurations in a given cell and under given conditions. Lipid configurations can be seen as a finite number of states that represent local energetic minima of the lipid compositional landscape. Thanks to their interplay with cell signalling, these configurations then promote the establishment of specific transcriptional programmes and of cell phenotypic states. In addition, the stability of lipid configurations allows them to be maintained over time and thus to propagate phenotypic states across cell generations. To reflect their properties of singularity and heritability, we have referred to these lipid configurations as lipotypes.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Lisa Dravta</title>
-      <link>/people/lisadravta/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <title>“Molecular Tomographer” algorithm maps gene expression in space</title>
+      <link>/media/tomographypub/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/people/lisadravta/</guid>
-      <description>
-
-&lt;h1 id=&#34;short-bio&#34;&gt;Short Bio&lt;/h1&gt;
-
-&lt;p&gt;I have joined the La Manno Lab for a semester project as part of my Master&amp;rsquo;s program in Computational Neurosciences. I will be looking into extracting new information from the &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.07.02.184051v1.full&#34; target=&#34;_blank&#34;&gt;single cell atlas&lt;/a&gt; of the developmental mouse brain. My background is in Life Sciences and Engineering, with a special focus on neurosciences, genomics, programming and data analysis.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Roger Aylagas Torres</title>
-      <link>/people/rogeraylagas/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/people/rogeraylagas/</guid>
-      <description>
-
-&lt;h1 id=&#34;short-bio&#34;&gt;Short Bio&lt;/h1&gt;
-
-&lt;p&gt;My name is Roger Aylagas Torres and I am from Barcelona, Catalonia. I studied my BSc in Telecommunication Engineering at the &lt;a href=&#34;https://telecos.upc.edu/en&#34; target=&#34;_blank&#34;&gt;Universitat Politècnica de Catalunya&lt;/a&gt; with a minor in Audiovisual Signal Processing and I am currently pursuing a MSc in Advanced Telecommunication also at UPC with the path of Artificial Intelligence for Multimedia.&lt;/p&gt;
-
-&lt;p&gt;I am currently doing my Master Thesis in the La Manno Lab and I am working on building a self-supervised algorithm for the integration of scRNA-seq and scATAC-seq data.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Zahra Moslehi</title>
-      <link>/people/zahramoslehi/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/people/zahramoslehi/</guid>
-      <description>
-
-&lt;h1 id=&#34;short-bio&#34;&gt;Short Bio&lt;/h1&gt;
-
-&lt;p&gt;I received my B.Sc. degree in Computer Engineering from Yazd University, my M.Sc. degree in Software Engineering from Amirkabir University of Technology, and my Ph.D. degree in Artificial Intelligence from &lt;a href=&#34;https://www.iut.ac.ir/en/&#34; target=&#34;_blank&#34;&gt;Isfahan University of Technology&lt;/a&gt;. During my doctoral studies, I made two research visits at the University of Geneva and University of Sheffield. After my Ph.D., I continued my research and teaching experiences at Isfahan University of Technology, University of Isfahan, and Shahid Beheshti University, Iran.&lt;/p&gt;
-
-&lt;p&gt;I joined the La Manno lab as a postdoctoral researcher to develop pipelines for the integration of snRNA-seq and snATAC-seq datasets for clustering purposes and to build robust prediction models of transitions between cellular states. I aim to correlate dynamical changes in the chromatin accessibility landscape with RNA velocity to determine if whether we can build models with which robust prediction of future states can be made. Calculating ATAC-to-RNA distance is not trivial and I will apply machine learning approaches to learn the distance metric function. With my background on metric learning and representation learning, I will work on learning a good distance metric for this integration problem.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ece Asirim</title>
-      <link>/people/eceasirim/</link>
-      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/people/eceasirim/</guid>
-      <description>
-
-&lt;h1 id=&#34;short-bio&#34;&gt;Short Bio&lt;/h1&gt;
-
-&lt;p&gt;I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and &lt;a href=&#34;https://www.epfl.ch/labs/dangelo-lab/&#34; target=&#34;_blank&#34;&gt;D&amp;rsquo;Angelo Labs&lt;/a&gt;. I completed my MSc degree in University of Fribourg, working on Drosophila larval &lt;a href=&#34;https://www.nature.com/articles/s41598-020-59614-y&#34; target=&#34;_blank&#34;&gt;circadian rhythms&lt;/a&gt;. My current project focuses on lipidomics and neuroscience, as in the central nervous system, lipids play a crucial role by influencing the firing of neurons and synaptic plasticity. To address the lacking knowledge of lipid metabolism in different brain regions, we aim to build a high-resolution atlas of lipid metabolism in adult mouse brain, both in health and disease conditions. As a group, we thrive to bring a better understanding to questions we are curious about and hope to develop novel approaches.&lt;/p&gt;
-</description>
+      <guid>/media/tomographypub/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -98,7 +41,7 @@
     <item>
       <title>First preprint of the lab: spatial-omics by tomography!</title>
       <link>/post/tomographybiorxiv/</link>
-      <pubDate>Thu, 06 Aug 2020 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 -0600</pubDate>
       
       <guid>/post/tomographybiorxiv/</guid>
       <description>&lt;p&gt;We just released the first preprint of the lab, find it &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.08.04.235655v1&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -130,7 +73,7 @@
     <item>
       <title>Welcome Dimitri!</title>
       <link>/post/dimitri_joins/</link>
-      <pubDate>Fri, 04 Oct 2019 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 -0600</pubDate>
       
       <guid>/post/dimitri_joins/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;/people/alumni/&#34; target=&#34;_self&#34; &gt;Dimitri Lallement&lt;/a&gt; joins the lab for a Masters thesis project. He is enrolled in the Computer Science Engineering program, ENSIMAG at Grenoble and doing a exchange with EPFL. He has studied his Bachelor at  the University of Bordeaux and studied as Data Scientist Junior at CNES. He wants to face challenging research problem and explore new methods that can help the interpretation of single-cell RNAseq datasets. Welcome Dimitri!&lt;/p&gt;
@@ -183,7 +126,7 @@
     <item>
       <title>Welcome Halima!</title>
       <link>/post/halima_joins/</link>
-      <pubDate>Thu, 10 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 -0700</pubDate>
       
       <guid>/post/halima_joins/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;/people/alumni/&#34; target=&#34;_self&#34; &gt;Halima Schede&lt;/a&gt; joins the lab for a Masters project. She is enrolled in the &lt;a href=&#34;https://www.epfl.ch/education/master/programs/lifesciences/&#34; target=&#34;_blank&#34;&gt;Bioengineering program&lt;/a&gt; and has studied in biology and mathematics at &lt;a href=&#34;https://www.mcgill.ca/&#34; target=&#34;_blank&#34;&gt;McGill&lt;/a&gt;. With her passion for machine learning and  neural networks and her knowledge of anatomy and genetics she will turn a bunch of omics data in useful insights of the molecular anatomy of the brain. Welcome Halima!&lt;/p&gt;
@@ -193,10 +136,54 @@
     <item>
       <title>Welcome Anurag!</title>
       <link>/post/anurag_joins/</link>
-      <pubDate>Tue, 08 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 -0700</pubDate>
       
       <guid>/post/anurag_joins/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;/people/alumni/&#34; target=&#34;_self&#34; &gt;Anurag Ranjak&lt;/a&gt; joins the lab for a Masters project. Anurag is a Chemical Engineer with industry experience in software engineering. He will adventure in spatial transcriptpomics and image reconstruction.He recently &amp;ldquo;converted&amp;rdquo; to biology and enrolled in EPFL Masters in Life Sciences. Welcome Anurag!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gioele La Manno</title>
+      <link>/people/gioelelamanno/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/gioelelamanno/</guid>
+      <description>
+
+&lt;h1 id=&#34;bio&#34;&gt;Bio&lt;/h1&gt;
+
+&lt;p&gt;I earned my PhD at &lt;a href=&#34;http://ki.se/en/startpage&#34; target=&#34;_blank&#34;&gt;Karolinska Instituet&lt;/a&gt; and I am proud alumnus of the &lt;a href=&#34;http://linnarssonlab.org/&#34; target=&#34;_blank&#34;&gt;Linnarsson Lab&lt;/a&gt;. My original training is in Biotechnology (&lt;a href=&#34;http://www.unipa.it/target/international-students/en/about/the-university/&#34; target=&#34;_blank&#34;&gt;BSc @UNIPA&lt;/a&gt;) and Biomedicine (&lt;a href=&#34;http://ki.se/en/startpage&#34; target=&#34;_blank&#34;&gt;MSc @KI&lt;/a&gt;) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.&lt;/p&gt;
+
+&lt;p&gt;My research focuses on understanding &lt;a href=&#34;https://en.wikipedia.org/wiki/Brain&#34; target=&#34;_blank&#34;&gt;brain&lt;/a&gt; development.
+ I am particularly interested in describing the sequence of states that embryonic stem cells go through during their differentiation towards mature neurons.&lt;/p&gt;
+
+&lt;p&gt;I have been tackling this question using machine learning tools on the wealth of data provided by &lt;a href=&#34;https://www.nature.com/articles/nmeth.2801&#34; target=&#34;_blank&#34;&gt;single cell RNA sequencing&lt;/a&gt;, a technique I have been working with and developing since its early times.&lt;/p&gt;
+
+&lt;p&gt;My long-term goal is to contribute in making biology from a descriptive to a predictive science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meet (me) the first ELISIR Fellow</title>
+      <link>/media/elisir/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/media/elisir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Albert Dominguez Mantes</title>
+      <link>/people/albertmantes/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/albertmantes/</guid>
+      <description>
+
+&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
+
+&lt;p&gt;I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and the Weigert Lab. I have a strong interest in the applications of statistical models and data analysis to the health sciences.&lt;/p&gt;
 </description>
     </item>
     

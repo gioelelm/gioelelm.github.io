@@ -69,7 +69,7 @@
     <item>
       <title>EPFL</title>
       <link>/tags/epfl/</link>
-      <pubDate>Sun, 27 May 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 27 May 2018 00:00:00 -0600</pubDate>
       
       <guid>/tags/epfl/</guid>
       <description></description>
@@ -103,18 +103,9 @@
     </item>
     
     <item>
-      <title>Masters Student</title>
-      <link>/tags/masters-student/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/masters-student/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>New member</title>
       <link>/tags/new-member/</link>
-      <pubDate>Fri, 04 Oct 2019 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 -0600</pubDate>
       
       <guid>/tags/new-member/</guid>
       <description></description>
@@ -123,25 +114,16 @@
     <item>
       <title>PhD Student</title>
       <link>/tags/phd-student/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/phd-student/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Postdoc</title>
-      <link>/tags/postdoc/</link>
-      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/postdoc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>RNA-seq</title>
       <link>/tags/rna-seq/</link>
-      <pubDate>Thu, 06 Aug 2020 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 -0600</pubDate>
       
       <guid>/tags/rna-seq/</guid>
       <description></description>
@@ -186,9 +168,18 @@
     <item>
       <title>interview</title>
       <link>/tags/interview/</link>
-      <pubDate>Sun, 27 May 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 27 May 2018 00:00:00 -0600</pubDate>
       
       <guid>/tags/interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lipidomics</title>
+      <link>/tags/lipidomics/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 -0600</pubDate>
+      
+      <guid>/tags/lipidomics/</guid>
       <description></description>
     </item>
     
@@ -204,7 +195,7 @@
     <item>
       <title>smFISH</title>
       <link>/tags/smfish/</link>
-      <pubDate>Sun, 04 Mar 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 -0700</pubDate>
       
       <guid>/tags/smfish/</guid>
       <description></description>
@@ -220,11 +211,29 @@
     </item>
     
     <item>
+      <title>spatial</title>
+      <link>/tags/spatial/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>spatial-omics</title>
       <link>/tags/spatial-omics/</link>
-      <pubDate>Thu, 06 Aug 2020 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 -0600</pubDate>
       
       <guid>/tags/spatial-omics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tomogrpahy</title>
+      <link>/tags/tomogrpahy/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tomogrpahy/</guid>
       <description></description>
     </item>
     

@@ -7,21 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>&lt;font size=&#34;5&#34; style=&#34;bold&#34;&gt;&lt;i&gt;What&#39;s new&lt;/i&gt;&lt;/font&gt; &lt;br&gt;
-Tomographical molecular profiling of tissues
+We formulated the lipotype hypothesis
 </title>
       <link>/home/featured/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
       
       <guid>/home/featured/</guid>
-      <description>We just released our preprint &amp;ldquo;Spatial tissue profiling by imaging-free molecular tomography&amp;rdquo; on the biorxiv!
-The framework we propose in the paper is a way to upgrade, in a generic fashion, conventional genomic assays to spatially resolved techniques. The code of the method Tomographer is already available on Github.</description>
+      <description>We wrote a piece with Giovanni D&amp;rsquo;Angelo titled &amp;ldquo;The lipotype hypothesis&amp;rdquo; on Nature Reviews Molecular Cell Biology! Considering recent evidence on lipid-cell response to interaction cues, we proposed that cell variability in lipid composition assists the divergence of differentiation trajectories, leading to the establishment of several cell identities.</description>
     </item>
     
     <item>
@@ -64,7 +63,7 @@ We make use of highly quantitative single-cell genomics techniques and machine l
     <item>
       <title>Selected Publications</title>
       <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>/home/publications_selected/</guid>
       <description></description>
@@ -73,19 +72,10 @@ We make use of highly quantitative single-cell genomics techniques and machine l
     <item>
       <title>Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>/home/publications/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>/home/cv/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/cv/</guid>
-      <description>This is my CV</description>
     </item>
     
     <item>
