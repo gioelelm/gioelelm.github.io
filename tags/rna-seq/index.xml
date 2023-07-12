@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 06 Aug 2020 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/rna-seq/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>First preprint of the lab: spatial-omics by tomography!</title>
       <link>/post/tomographybiorxiv/</link>
-      <pubDate>Thu, 06 Aug 2020 00:00:00 -0600</pubDate>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0200</pubDate>
       
       <guid>/post/tomographybiorxiv/</guid>
       <description>We just released the first preprint of the lab, find it here.

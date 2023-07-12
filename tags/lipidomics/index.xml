@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Nov 2022 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/lipidomics/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>We formulated the lipotype hypothesis</title>
       <link>/post/lipotypehipothesis/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0100</pubDate>
       
       <guid>/post/lipotypehipothesis/</guid>
       <description>The overall lipid composition of cell membranes is defined by variations in the concentration of hundreds of individual species. Although, in principle, the unconstrained variations of lipid levels are able to generate infinite combinations of lipid composition, the action of regulatory circuits restricts the spectrum of possible lipid configurations in a given cell and under given conditions. Lipid configurations can be seen as a finite number of states that represent local energetic minima of the lipid compositional landscape.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>From cell fat to cell fate</title>
       <link>/post/lipotypes/</link>
-      <pubDate>Fri, 15 Apr 2022 00:00:00 -0600</pubDate>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0200</pubDate>
       
       <guid>/post/lipotypes/</guid>
       <description>In multicellular organisms, cells are parts of communities in which an individual contributes to the collective phenotype of the community. Appreciating the “social” organization of these cell communities is instrumental to dissecting their physiology and the pathological consequences of their abnormalities. In Capolupo et al. we investigated the lipid metabolism and gene expression of individual human skin cells and found that specific lipid compositions drive cell specialization. Specifically, we found that sphingolipids determine the transcriptional programs of fibroblasts populating in different layers of the human skin.</description>

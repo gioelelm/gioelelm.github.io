@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -27,7 +27,7 @@
     <item>
       <title>Welcome Luca and Alessandro!</title>
       <link>/post/lucaale_join/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 -0600</pubDate>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate>
       
       <guid>/post/lucaale_join/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;/people/lucafusar/&#34; target=&#34;_self&#34; &gt;Luca Fusar Bassini&lt;/a&gt; and &lt;a href=&#34;/people/alessandrovalente/&#34; target=&#34;_self&#34;&gt;Alessandro Valente&lt;/a&gt; join the lab for their PhD. Luca is a Biologist with a keen interest in developing computational methods to distill biological insight out of data, Alessandro is Biotechnologist with excellent experience in stem cell engineering and brain organoid models. They are both going to work on the lipidome-transcriptome axis in neurulation. Welcome Luca and Alessandro!.&lt;/p&gt;
@@ -83,23 +83,27 @@
     </item>
     
     <item>
-      <title>Daniel Bobrovskij</title>
+      <title>Daniil Bobrovskiy</title>
       <link>/people/daniilbobrovskij/</link>
       <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>/people/daniilbobrovskij/</guid>
       <description>
 
-&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
+&lt;h1 id=&#34;short-bio&#34;&gt;Short Bio&lt;/h1&gt;
 
-&lt;p&gt;I am an happy PhD student&lt;/p&gt;
+&lt;p&gt;I am a Master&amp;rsquo;s student in the Life Sciences Engineering program at EPFL. Prior to arriving at EPFL, I completed four years of the six-year program in Bioengineering and Bioinformatics at the Lomonosov Moscow State University.&lt;/p&gt;
+
+&lt;p&gt;My engagement with La Manno lab began in 2021 when I had the privilege of joining as a grant recipient of the Zimin Foundation - SMTB Alumni &lt;a href=&#34;https://molbioschool.org/en/page/scholarship&#34; target=&#34;_blank&#34;&gt;Summer Research Program&lt;/a&gt;. The following year, I officially joined the La Manno lab team as a student research assistant. I am currently developing a Bayesian model for the dynamical analysis of single-cell transcriptomics data in collaboration with the &lt;a href=&#34;https://www.massgeneral.org/cancer-center/clinical-trials-and-research/center-for-cancer-research/investigators/pinello-lab&#34; target=&#34;_blank&#34;&gt;Pinello lab&lt;/a&gt;. My research is principally centered on transfer learning methods, aiming to utilize large single-cell atlases to elucidate gene expression dynamics during tissue development.&lt;/p&gt;
+
+&lt;p&gt;During my undergraduate studies, I was working at &lt;a href=&#34;https://crei.skoltech.ru/cls/research-projects/khrameeva/&#34; target=&#34;_blank&#34;&gt;Khrameeva lab&lt;/a&gt;, where I acquired first-hand experience in analyzing genomics, lipidomics, and metabolomics data as a part of a multidisciplinary international research group.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>We formulated the lipotype hypothesis</title>
       <link>/post/lipotypehipothesis/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0100</pubDate>
       
       <guid>/post/lipotypehipothesis/</guid>
       <description>&lt;p&gt;The overall lipid composition of cell membranes is defined by variations in the concentration of hundreds of individual species. Although, in principle, the unconstrained variations of lipid levels are able to generate infinite combinations of lipid composition, the action of regulatory circuits restricts the spectrum of possible lipid configurations in a given cell and under given conditions. Lipid configurations can be seen as a finite number of states that represent local energetic minima of the lipid compositional landscape. Thanks to their interplay with cell signalling, these configurations then promote the establishment of specific transcriptional programmes and of cell phenotypic states. In addition, the stability of lipid configurations allows them to be maintained over time and thus to propagate phenotypic states across cell generations. To reflect their properties of singularity and heritability, we have referred to these lipid configurations as lipotypes.&lt;/p&gt;
@@ -113,16 +117,6 @@
       
       <guid>/publication/lipotypes/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>We released the map of cell states in brain development</title>
-      <link>/post/devatlas/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 -0600</pubDate>
-      
-      <guid>/post/devatlas/</guid>
-      <description>&lt;p&gt;Using a combination of sequencing techniques and mathematical methods, our lab has traced the genetic programs that direct the development of each cell in the brain. This molecular map help understanding how the brain develops and provide insights into a range of brain disorders. &lt;a href=&#34;https://www.nature.com/articles/s41586-021-03775-x#citeas&#34; target=&#34;_blank&#34;&gt;Nature paper here&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -153,9 +147,19 @@
     </item>
     
     <item>
+      <title>We released the map of cell states in brain development</title>
+      <link>/post/devatlas/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/post/devatlas/</guid>
+      <description>&lt;p&gt;Using a combination of sequencing techniques and mathematical methods, our lab has traced the genetic programs that direct the development of each cell in the brain. This molecular map help understanding how the brain develops and provide insights into a range of brain disorders. &lt;a href=&#34;https://www.nature.com/articles/s41586-021-03775-x#citeas&#34; target=&#34;_blank&#34;&gt;Nature paper here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CZI awards us with a Data Insight grant</title>
       <link>/post/czitools/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0200</pubDate>
       
       <guid>/post/czitools/</guid>
       <description>&lt;p&gt;RNA Velocity is an analysis framework that has become fundamental in the toolbox of the single-cell research community. It allows extracting dynamical information from expression data. After its release, the method was adopted rapidly by the community; however, ways to assess statistical confidence and unambiguously interpret its outputs have not been consolidated. Most noticeably, it is not currently possible to test biological hypotheses by statistical inference on the RNA Velocity estimates.&lt;/p&gt;
@@ -167,7 +171,7 @@
     <item>
       <title>From cell fat to cell fate</title>
       <link>/post/lipotypes/</link>
-      <pubDate>Fri, 15 Apr 2022 00:00:00 -0600</pubDate>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0200</pubDate>
       
       <guid>/post/lipotypes/</guid>
       <description>&lt;p&gt;In multicellular organisms, cells are parts of communities in which an individual contributes to the collective phenotype of the community. Appreciating the “social” organization of these cell communities is instrumental to dissecting their physiology and the pathological consequences of their abnormalities. In Capolupo et al. we investigated the lipid metabolism and gene expression of individual human skin cells and found that specific lipid compositions drive cell specialization. Specifically, we found that sphingolipids determine the transcriptional programs of fibroblasts populating in different layers of the human skin. These results reveal an unexpected role for membrane lipids in the establishment of cell identity and tissue architecture&lt;/p&gt;

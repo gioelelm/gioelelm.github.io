@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/grants/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>CZI awards us with a Data Insight grant</title>
       <link>/post/czitools/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0200</pubDate>
       
       <guid>/post/czitools/</guid>
       <description>RNA Velocity is an analysis framework that has become fundamental in the toolbox of the single-cell research community. It allows extracting dynamical information from expression data. After its release, the method was adopted rapidly by the community; however, ways to assess statistical confidence and unambiguously interpret its outputs have not been consolidated. Most noticeably, it is not currently possible to test biological hypotheses by statistical inference on the RNA Velocity estimates.</description>

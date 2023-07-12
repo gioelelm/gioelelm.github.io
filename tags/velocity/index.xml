@@ -24,7 +24,7 @@
     <item>
       <title>RNA velocity is out in Nature</title>
       <link>/post/velocitynature/</link>
-      <pubDate>Wed, 08 Aug 2018 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0200</pubDate>
       
       <guid>/post/velocitynature/</guid>
       <description>In a previous preprint RNA velocity in single cells we had presented the discovery that standard RNA-seq data contains additional information on the rate and direction of change in gene expression. If you haven&amp;rsquo;t read what this is about you can see my previous post or directly go and read the more eloquent Nature News and Views kindly written by Allon Klein.
@@ -34,7 +34,7 @@ Now our work has gone through the process of peer review.</description>
     <item>
       <title>RNA velocity preprint</title>
       <link>/post/velocity/</link>
-      <pubDate>Mon, 08 Jan 2018 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>/post/velocity/</guid>
       <description>Single-cell RNA-seq measurements provide a powerful approach for studying complex biological tissues. Some of the more interesting contexts involve dynamic processes, such as development or disease progression. However single-cell measurements only capture a snapshot of a transcriptional state at a single point in time.

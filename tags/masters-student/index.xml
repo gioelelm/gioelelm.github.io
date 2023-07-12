@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Master&#39;s Student on Gioele La Manno</title>
+    <link>/tags/masters-student/</link>
+    <description>Recent content in Master&#39;s Student on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/masters-student/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Daniil Bobrovskiy</title>
+      <link>/people/daniilbobrovskij/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/people/daniilbobrovskij/</guid>
+      <description>Short Bio I am a Master&amp;rsquo;s student in the Life Sciences Engineering program at EPFL. Prior to arriving at EPFL, I completed four years of the six-year program in Bioengineering and Bioinformatics at the Lomonosov Moscow State University.
+My engagement with La Manno lab began in 2021 when I had the privilege of joining as a grant recipient of the Zimin Foundation - SMTB Alumni Summer Research Program. The following year, I officially joined the La Manno lab team as a student research assistant.</description>
+    </item>
+    
+  </channel>
+</rss>

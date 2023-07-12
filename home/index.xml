@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,7 @@
 We formulated the lipotype hypothesis
 </title>
       <link>/home/featured/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>/home/featured/</guid>
       <description>We wrote a piece with Giovanni D&amp;rsquo;Angelo titled &amp;ldquo;The lipotype hypothesis&amp;rdquo; on Nature Reviews Molecular Cell Biology! Considering recent evidence on lipid-cell response to interaction cues, we proposed that cell variability in lipid composition assists the divergence of differentiation trajectories, leading to the establishment of several cell identities.</description>
@@ -63,7 +63,7 @@ A significant aspect of our research is the exploration of lipid heterogeneity a
     <item>
       <title>Selected Publications</title>
       <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/publications_selected/</guid>
       <description></description>
@@ -72,7 +72,7 @@ A significant aspect of our research is the exploration of lipid heterogeneity a
     <item>
       <title>Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/publications/</guid>
       <description></description>
