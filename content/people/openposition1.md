@@ -60,12 +60,20 @@ We always offer a set of exciting computational and experimental projects for Ma
 
 Particularly indicated for EPFL students of Data Science and Computer science.
 
+Title> **Developing a genomic deconvolution-based differential gene expression analysis**
+**Project Description >**<br>
+**– Background**: The field of biostatistics heavily relies on Differential gene expression analysis (DGEA) for deciphering the environmental effects and associated condition shifts. However, the conventional approach using pseudobulk data, randomly sampled from cells, has limitations in capturing donor-specific signals when pooling cells from multiple sources.<br>
+**– Activities**: In this master’s project, you will utilize the power of genotype-based clustering technology, introduced by souporcell, to develop a new approach, single-cell donor deconvolution differential gene expression (scDDDGE). This strategy aims to enhance statistical power through donor-guided pseudobulk aggregation. Your primary tasks will include determining the number of donors in a dataset, performing cell deconvolution, and identifying differentially expressed genes (DEGs). Preliminary research indicates scDDDGE may outperform traditional aggregation methods, providing improved DEG identification accuracy, even when cell numbers and donor representation are minimal. The primary goal of this master’s project is contribute developing and use scDDDGE to study inter-donor treatment response and identify robust cell type markers. This project offers the exciting potential to boost statistical power in experimental designs and contribute to our understanding of interindividual variation in development.
+Keywords: biostatistics, single-cell, computation, transcriptomic<br>
+**Available to**> : Any student with background in bioinformatics, statistics or data science<br>
+**Contact person >** Gioele La Manno:gioele.lamanno@epfl.ch<br><br>
+
 Title> **Integration, modeling and visualization of central nervous systems data**<br>
 **Project Description >**<br>
 **- Background**: The central nervous system is complex and its generation involves several mechanisms and parameters that control it. To date, we lack an integrative modeling of these data to visualize and better understand the process that control neuronal type-specific generation, differentiation, and circuit assembly. For this project we will use the cerebellum, a critical regulator of motor function.<br>
 **- Activities**:  The student will: (1) Integrate datasets within a common structure from different data sources (2) Make this data easily explorable through data visualization tools (for example using R Shiny apps) (3) Build integrative models this datasets through time to explore cerebellar development.<br>
 **Faculty and laboratory >** - SV - BMI - Neurodevelopmental Systems Biology Lab, in collaboration with the group of Ludovic Telley at Unil<br>
-**Available to>** Master students of Data Science, Computer science and Life Science Engineering. Knowledge of both python and R is required.<br>
+**Available to>** Master students of Data Science, Computer science and Life Science Engineering. Knowledge of both python and R is required.<br><br>
 
 Title> **Extensions of the RNA velocity algorithm**<br>
 **Project Description >**<br>
