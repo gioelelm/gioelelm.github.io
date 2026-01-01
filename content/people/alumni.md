@@ -113,6 +113,31 @@ img.minion:hover {
             **Short info**: During my research stay at EPFL, I worked on the development of techniques in [spatial omics](https://www.biorxiv.org/content/10.1101/2020.08.04.235655v1) and [temporal omics](https://www.sciencedirect.com/science/article/pii/S0958166919301430), both in the wet lab and bioinformatic settings. I  applied these techniques to study central nervous system development in vertebrates and fruit flies.
         </div>
     </div>
+    <div class="row">
+        <div class="column" style="width: 25%;">
+            <a target="_blank" href="/img/people/irina_square.jpg">
+                <img class="minion" src="/img/people/irina_square.jpg" alt="Irina">
+            </a>
+        </div>
+        <div class="column" style="width: 75%;">
+            <font size="+2"> Irina Khven </font><br>
+            **Joined as a PhD Student**<br>
+            **EDNE PhD Program**<br>
+            **Short info**:  Irina joined the La Manno Lab for her PhD in Neuroscience. Her project was dedicated to the study of mammalian brain development and spatial omic techniques. Using state-of-art experimental tools like scRNA-seq and cyclic smFISH, she contributed significantly to our knowledge in developmental neuroscience.
+        </div>
+    </div>
+    <div class="row">
+        <div class="column" style="width: 25%;">
+            <a target="_blank" href="/img/people/leila_square.jpg">
+                <img class="minion" src="/img/people/leila_square.jpg" alt="Leila">
+            </a>
+        </div>
+        <div class="column" style="width: 75%;">
+            <font size="+2"> Leila Alieh </font><br>
+            **Joined as a Postdoctoral researcher**<br>
+            **Short info**:  Leila joined the La Manno Lab as a postdoctoral researcher working on bioinformatics, genetics, and cell biology projects. With expertise in Python, R programming, and deep learning frameworks, she contributed to computational biology research in the lab.
+        </div>
+    </div>
 
 </body>
 
