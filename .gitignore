@@ -5,3 +5,9 @@
 # Visual Studio code
 .vscode/*
 .vscode/
+
+# Hugo
+public/
+hugo
+hugo_*.tar.gz
+LICENSE
