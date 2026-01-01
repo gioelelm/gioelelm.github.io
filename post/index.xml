@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 08 Jan 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Welcome Luca and Alessandro!</title>
       <link>/post/lucaale_join/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/post/lucaale_join/</guid>
       <description>Luca Fusar Bassini and Alessandro Valente join the lab for their PhD. Luca is a Biologist with a keen interest in developing computational methods to distill biological insight out of data, Alessandro is Biotechnologist with excellent experience in stem cell engineering and brain organoid models. They are both going to work on the lipidome-transcriptome axis in neurulation. Welcome Luca and Alessandro!.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>We formulated the lipotype hypothesis</title>
       <link>/post/lipotypehipothesis/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>/post/lipotypehipothesis/</guid>
       <description>The overall lipid composition of cell membranes is defined by variations in the concentration of hundreds of individual species. Although, in principle, the unconstrained variations of lipid levels are able to generate infinite combinations of lipid composition, the action of regulatory circuits restricts the spectrum of possible lipid configurations in a given cell and under given conditions. Lipid configurations can be seen as a finite number of states that represent local energetic minima of the lipid compositional landscape.</description>
@@ -33,7 +33,7 @@
     <item>
       <title>We released the map of cell states in brain development</title>
       <link>/post/devatlas/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/post/devatlas/</guid>
       <description>Using a combination of sequencing techniques and mathematical methods, our lab has traced the genetic programs that direct the development of each cell in the brain. This molecular map help understanding how the brain develops and provide insights into a range of brain disorders. Nature paper here</description>
@@ -42,7 +42,7 @@
     <item>
       <title>CZI awards us with a Data Insight grant</title>
       <link>/post/czitools/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/post/czitools/</guid>
       <description>RNA Velocity is an analysis framework that has become fundamental in the toolbox of the single-cell research community. It allows extracting dynamical information from expression data. After its release, the method was adopted rapidly by the community; however, ways to assess statistical confidence and unambiguously interpret its outputs have not been consolidated. Most noticeably, it is not currently possible to test biological hypotheses by statistical inference on the RNA Velocity estimates.</description>
@@ -51,7 +51,7 @@
     <item>
       <title>From cell fat to cell fate</title>
       <link>/post/lipotypes/</link>
-      <pubDate>Fri, 15 Apr 2022 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>/post/lipotypes/</guid>
       <description>In multicellular organisms, cells are parts of communities in which an individual contributes to the collective phenotype of the community. Appreciating the “social” organization of these cell communities is instrumental to dissecting their physiology and the pathological consequences of their abnormalities. In Capolupo et al. we investigated the lipid metabolism and gene expression of individual human skin cells and found that specific lipid compositions drive cell specialization. Specifically, we found that sphingolipids determine the transcriptional programs of fibroblasts populating in different layers of the human skin.</description>
@@ -60,7 +60,7 @@
     <item>
       <title>First preprint of the lab: spatial-omics by tomography!</title>
       <link>/post/tomographybiorxiv/</link>
-      <pubDate>Thu, 06 Aug 2020 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/tomographybiorxiv/</guid>
       <description>We just released the first preprint of the lab, find it here.
@@ -71,7 +71,7 @@ Genomics techniques are currently being adapted to provide spatially resolved om
     <item>
       <title>Welcome Dimitri!</title>
       <link>/post/dimitri_joins/</link>
-      <pubDate>Fri, 04 Oct 2019 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/dimitri_joins/</guid>
       <description>Dimitri Lallement joins the lab for a Masters thesis project. He is enrolled in the Computer Science Engineering program, ENSIMAG at Grenoble and doing a exchange with EPFL. He has studied his Bachelor at the University of Bordeaux and studied as Data Scientist Junior at CNES. He wants to face challenging research problem and explore new methods that can help the interpretation of single-cell RNAseq datasets. Welcome Dimitri!</description>
@@ -80,7 +80,7 @@ Genomics techniques are currently being adapted to provide spatially resolved om
     <item>
       <title>Welcome Halima!</title>
       <link>/post/halima_joins/</link>
-      <pubDate>Thu, 10 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/halima_joins/</guid>
       <description>Halima Schede joins the lab for a Masters project. She is enrolled in the Bioengineering program and has studied in biology and mathematics at McGill. With her passion for machine learning and neural networks and her knowledge of anatomy and genetics she will turn a bunch of omics data in useful insights of the molecular anatomy of the brain. Welcome Halima!</description>
@@ -89,7 +89,7 @@ Genomics techniques are currently being adapted to provide spatially resolved om
     <item>
       <title>Welcome Anurag!</title>
       <link>/post/anurag_joins/</link>
-      <pubDate>Tue, 08 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/anurag_joins/</guid>
       <description>Anurag Ranjak joins the lab for a Masters project. Anurag is a Chemical Engineer with industry experience in software engineering. He will adventure in spatial transcriptpomics and image reconstruction.He recently &amp;ldquo;converted&amp;rdquo; to biology and enrolled in EPFL Masters in Life Sciences. Welcome Anurag!</description>
@@ -98,7 +98,7 @@ Genomics techniques are currently being adapted to provide spatially resolved om
     <item>
       <title>RNA velocity is out in Nature</title>
       <link>/post/velocitynature/</link>
-      <pubDate>Wed, 08 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/velocitynature/</guid>
       <description>In a previous preprint RNA velocity in single cells we had presented the discovery that standard RNA-seq data contains additional information on the rate and direction of change in gene expression. If you haven&amp;rsquo;t read what this is about you can see my previous post or directly go and read the more eloquent Nature News and Views kindly written by Allon Klein.
@@ -108,7 +108,7 @@ Now our work has gone through the process of peer review.</description>
     <item>
       <title>Visiting EPFL and super-postdocs in Europe</title>
       <link>/post/elifrcandidate/</link>
-      <pubDate>Sun, 27 May 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/elifrcandidate/</guid>
       <description>Over the last few days I have been at the École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. The reason of this little trip is that the School of Life Sciences at EPFL recently opened a special position, the fellowship goes under the long name &amp;ldquo;EPFL Life Sciences Early Independence Research Scholar&amp;rdquo; shortened &amp;ldquo;ELIFR fellow&amp;rdquo;.
@@ -118,7 +118,7 @@ To explain what an ELIFR fellow is I could simply refer to it as a &amp;ldquo;su
     <item>
       <title>osmFISH is really awesome</title>
       <link>/post/osmfish/</link>
-      <pubDate>Sun, 04 Mar 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/osmfish/</guid>
       <description>Simone Codelluppi and Lars Borm have developed and optimized a cyclic smFISH protocol, termed ouroboros smFISH, to quantify the expression of a large number of genes in tissue sections. The goal was building a cell type map of the mouse somatosensory cortex. The results are really impressive. See the fantastic images and interactively explore the data using the Loom viewer here.
@@ -128,7 +128,7 @@ Great news are not only is taht Lars and Simore have put a lot of effort to make
     <item>
       <title>RNA velocity preprint</title>
       <link>/post/velocity/</link>
-      <pubDate>Mon, 08 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/velocity/</guid>
       <description>Single-cell RNA-seq measurements provide a powerful approach for studying complex biological tissues. Some of the more interesting contexts involve dynamic processes, such as development or disease progression. However single-cell measurements only capture a snapshot of a transcriptional state at a single point in time.

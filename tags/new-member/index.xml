@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/new-member/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Welcome Luca and Alessandro!</title>
       <link>/post/lucaale_join/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/post/lucaale_join/</guid>
       <description>Luca Fusar Bassini and Alessandro Valente join the lab for their PhD. Luca is a Biologist with a keen interest in developing computational methods to distill biological insight out of data, Alessandro is Biotechnologist with excellent experience in stem cell engineering and brain organoid models. They are both going to work on the lipidome-transcriptome axis in neurulation. Welcome Luca and Alessandro!.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>Welcome Dimitri!</title>
       <link>/post/dimitri_joins/</link>
-      <pubDate>Fri, 04 Oct 2019 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/dimitri_joins/</guid>
       <description>Dimitri Lallement joins the lab for a Masters thesis project. He is enrolled in the Computer Science Engineering program, ENSIMAG at Grenoble and doing a exchange with EPFL. He has studied his Bachelor at the University of Bordeaux and studied as Data Scientist Junior at CNES. He wants to face challenging research problem and explore new methods that can help the interpretation of single-cell RNAseq datasets. Welcome Dimitri!</description>
@@ -33,7 +33,7 @@
     <item>
       <title>Welcome Halima!</title>
       <link>/post/halima_joins/</link>
-      <pubDate>Thu, 10 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/halima_joins/</guid>
       <description>Halima Schede joins the lab for a Masters project. She is enrolled in the Bioengineering program and has studied in biology and mathematics at McGill. With her passion for machine learning and neural networks and her knowledge of anatomy and genetics she will turn a bunch of omics data in useful insights of the molecular anatomy of the brain. Welcome Halima!</description>
@@ -42,7 +42,7 @@
     <item>
       <title>Welcome Anurag!</title>
       <link>/post/anurag_joins/</link>
-      <pubDate>Tue, 08 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/anurag_joins/</guid>
       <description>Anurag Ranjak joins the lab for a Masters project. Anurag is a Chemical Engineer with industry experience in software engineering. He will adventure in spatial transcriptpomics and image reconstruction.He recently &amp;ldquo;converted&amp;rdquo; to biology and enrolled in EPFL Masters in Life Sciences. Welcome Anurag!</description>
