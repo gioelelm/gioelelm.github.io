@@ -1,0 +1,39 @@
+name: Deploy Hugo Site
+
+on:
+  push:
+    branches:
+      - dev
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout dev branch
+        uses: actions/checkout@v4
+        with:
+          ref: dev
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Download Hugo 0.53
+        run: |
+          wget -q https://github.com/gohugoio/hugo/releases/download/v0.53/hugo_0.53_Linux-64bit.tar.gz
+          tar -xzf hugo_0.53_Linux-64bit.tar.gz
+          chmod +x hugo
+          ./hugo version
+
+      - name: Build Hugo site
+        run: ./hugo
+
+      - name: Deploy to master branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: master
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: 'Deploy from dev branch'
+          force_orphan: false
