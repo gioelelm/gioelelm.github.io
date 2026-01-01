@@ -31,12 +31,11 @@ jobs:
         run: ./hugo
 
       - name: Deploy to master branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          publish_branch: master
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_message: 'Deploy from dev branch'
-          force_orphan: true
+        run: |
+          cd public
+          git init
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Deploy from dev branch'
+          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/gioelelm/gioelelm.github.io.git HEAD:master
