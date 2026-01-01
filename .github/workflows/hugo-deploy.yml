@@ -33,13 +33,25 @@ jobs:
 
       - name: Deploy to master branch
         run: |
+          # Configure git
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git fetch origin master:master || git checkout --orphan master
-          git checkout master
-          ls -la | grep -v '^d.*\.git$' | grep -v '^\.$' | grep -v '^\.\.$' | awk '{print $NF}' | grep -v '^\.git$' | xargs rm -rf
-          cp -r public/* .
-          cp public/CNAME . 2>/dev/null || true
+
+          # Create worktree for master branch (separate directory, no conflicts)
+          git worktree add /tmp/gh-pages master
+
+          # Remove all files except .git
+          cd /tmp/gh-pages
+          find . -maxdepth 1 ! -name '.git' ! -name '.' ! -name '..' -exec rm -rf {} +
+
+          # Copy built site
+          cp -r $GITHUB_WORKSPACE/public/* .
+
+          # Commit and push
           git add -A
-          git commit -m "Deploy from dev branch ($(date '+%Y-%m-%d %H:%M:%S'))" || echo "No changes to commit"
+          git commit -m "Deploy from dev - $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
           git push origin master
+
+          # Cleanup
+          cd $GITHUB_WORKSPACE
+          git worktree remove /tmp/gh-pages
