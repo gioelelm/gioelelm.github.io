@@ -19,6 +19,7 @@ jobs:
           ref: dev
           submodules: recursive
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Download Hugo 0.53
         run: |
@@ -32,10 +33,13 @@ jobs:
 
       - name: Deploy to master branch
         run: |
-          cd public
-          git init
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git fetch origin master:master || git checkout --orphan master
+          git checkout master
+          ls -la | grep -v '^d.*\.git$' | grep -v '^\.$' | grep -v '^\.\.$' | awk '{print $NF}' | grep -v '^\.git$' | xargs rm -rf
+          cp -r public/* .
+          cp public/CNAME . 2>/dev/null || true
           git add -A
-          git commit -m 'Deploy from dev branch'
-          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/gioelelm/gioelelm.github.io.git HEAD:master
+          git commit -m "Deploy from dev branch ($(date '+%Y-%m-%d %H:%M:%S'))" || echo "No changes to commit"
+          git push origin master
