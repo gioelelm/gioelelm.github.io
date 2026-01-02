@@ -41,6 +41,15 @@
     
     <url>
     
+      <loc>/media/erc_moviola/</loc>
+      <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/media/umaiapub/</loc>
       <lastmod>2025-09-03T00:00:00+00:00</lastmod>
     </url>
@@ -124,15 +133,6 @@
     
       <loc>/publication/tissuereassembly/</loc>
       <lastmod>2025-02-13T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/media/erc_moviola/</loc>
-      <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -268,6 +268,15 @@
     
       <loc>/people/xinyihuang/</loc>
       <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/media/snsf_starting/</loc>
+      <lastmod>2023-12-05T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -877,7 +886,7 @@
     <url>
     
       <loc>/tags/erc/</loc>
-      <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+      <lastmod>2025-09-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1127,7 +1136,7 @@
     <url>
     
       <loc>/tags/grants/</loc>
-      <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+      <lastmod>2025-09-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
