@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>Bayesian</title>
+      <link>/tags/bayesian/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CZI</title>
       <link>/tags/czi/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
@@ -72,6 +81,15 @@
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/epfl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ERC</title>
+      <link>/tags/erc/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/erc/</guid>
       <description></description>
     </item>
     
@@ -121,11 +139,11 @@
     </item>
     
     <item>
-      <title>RNA-seq</title>
-      <link>/tags/rna-seq/</link>
-      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      <title>RNA velocity</title>
+      <link>/tags/rna-velocity/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rna-seq/</guid>
+      <guid>/tags/rna-velocity/</guid>
       <description></description>
     </item>
     
@@ -139,11 +157,29 @@
     </item>
     
     <item>
+      <title>SNSF</title>
+      <link>/tags/snsf/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/snsf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Staff</title>
       <link>/tags/staff/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/staff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>atlas</title>
+      <link>/tags/atlas/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/atlas/</guid>
       <description></description>
     </item>
     
@@ -159,7 +195,7 @@
     <item>
       <title>brain</title>
       <link>/tags/brain/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/brain/</guid>
       <description></description>
@@ -175,6 +211,15 @@
     </item>
     
     <item>
+      <title>cell cycle</title>
+      <link>/tags/cell-cycle/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cell-cycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>cell fate</title>
       <link>/tags/cell-fate/</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
@@ -184,11 +229,29 @@
     </item>
     
     <item>
+      <title>deep learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>development</title>
       <link>/tags/development/</link>
       <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>equipment</title>
+      <link>/tags/equipment/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/equipment/</guid>
       <description></description>
     </item>
     
@@ -265,6 +328,15 @@
     </item>
     
     <item>
+      <title>microscopy</title>
+      <link>/tags/microscopy/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/microscopy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>outreach</title>
       <link>/tags/outreach/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
@@ -279,15 +351,6 @@
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/professorship/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>publications</title>
-      <link>/tags/publications/</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/publications/</guid>
       <description></description>
     </item>
     
@@ -310,15 +373,6 @@
     </item>
     
     <item>
-      <title>smFISH</title>
-      <link>/tags/smfish/</link>
-      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/smfish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>software</title>
       <link>/tags/software/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -333,15 +387,6 @@
       <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/spatial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spatial-omics</title>
-      <link>/tags/spatial-omics/</link>
-      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/spatial-omics/</guid>
       <description></description>
     </item>
     

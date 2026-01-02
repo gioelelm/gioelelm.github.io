@@ -34,39 +34,12 @@
     </item>
     
     <item>
-      <title>Highly Cited Researcher 2025</title>
-      <link>/post/highly_cited_2025/</link>
-      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/post/highly_cited_2025/</guid>
-      <description>&lt;p&gt;We are honored to announce that Gioele La Manno has been recognized as a Highly Cited Researcher for 2025 by Clarivate Analytics.&lt;/p&gt;
-
-&lt;p&gt;For the third consecutive year, this recognition acknowledges the significant influence and impact of our research. This distinction is awarded to roughly 1 in 1,000 researchers globally whose publications are among the most frequently cited, reflecting sustained and broad impact in their field.&lt;/p&gt;
-
-&lt;p&gt;Thank you to all our collaborators, lab members, and the broader research community for their support and engagement with our work.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Lipid Brain Atlas preprint released</title>
-      <link>/post/lipid_brain_atlas/</link>
+      <link>/media/lipidbrainatlaspub/</link>
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>/post/lipid_brain_atlas/</guid>
-      <description>&lt;p&gt;We are excited to announce the release of our preprint &amp;ldquo;The Lipidomics Architecture of the Mouse Brain&amp;rdquo; on bioRxiv!&lt;/p&gt;
-
-&lt;p&gt;This work represents a major milestone for our lab, presenting the first comprehensive spatial lipidomic atlas of the adult mouse brain. Using high-resolution MALDI mass spectrometry imaging, we mapped 172 membrane lipids across 109 sections and 11 brains, all registered to the Allen Brain Atlas.&lt;/p&gt;
-
-&lt;p&gt;Key findings:
-- We identified 539 spatially coherent biochemical domains, which we call &amp;ldquo;lipizones&amp;rdquo;
-- Lipizones capture both neuronal cell bodies and their distal terminals
-- White matter shows marked regional heterogeneity driven by oligodendrocyte-specific lipids
-- We discovered that pregnancy induces coordinated lipid remodeling in the cortex and white matter&lt;/p&gt;
-
-&lt;p&gt;This atlas establishes lipids as an important and previously unexplored axis of molecular brain architecture.&lt;/p&gt;
-
-&lt;p&gt;Read the preprint: &lt;a href=&#34;https://doi.org/10.1101/2025.10.13.682018&#34; target=&#34;_blank&#34;&gt;bioRxiv&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>/media/lipidbrainatlaspub/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -140,6 +113,15 @@
     </item>
     
     <item>
+      <title>Spotiflow published in Nature Methods</title>
+      <link>/media/spotiflowpub/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/media/spotiflowpub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Spotiflow: accurate and efficient spot detection for fluorescence microscopy with deep stereographic flow regression</title>
       <link>/publication/spotiflow/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
@@ -158,17 +140,12 @@
     </item>
     
     <item>
-      <title>Zeiss IDEAS Grant awarded</title>
-      <link>/post/zeiss_ideas_2025/</link>
+      <title>Zeiss IDEAS Grant</title>
+      <link>/media/zeiss_ideas/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>/post/zeiss_ideas_2025/</guid>
-      <description>&lt;p&gt;We are excited to announce that we have been awarded a Zeiss IDEAS grant!&lt;/p&gt;
-
-&lt;p&gt;This CHF 100,000 grant (Mar 2025 - Feb 2026) will support our research on &amp;ldquo;Neural Interpolation of 3D Distributions from Sections&amp;rdquo; - developing computational methods to reconstruct volumetric molecular distributions from 2D tissue section data.&lt;/p&gt;
-
-&lt;p&gt;This project builds on our expertise in spatial transcriptomics and will advance our capabilities for building 3D molecular atlases of brain development.&lt;/p&gt;
-</description>
+      <guid>/media/zeiss_ideas/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -181,27 +158,12 @@
     </item>
     
     <item>
-      <title>ERC Starting Grant MOVIOLA awarded</title>
-      <link>/post/erc_moviola/</link>
+      <title>ERC Starting Grant MOVIOLA</title>
+      <link>/media/erc_moviola/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>/post/erc_moviola/</guid>
-      <description>&lt;p&gt;We are thrilled to announce that the La Manno Lab has been awarded a European Research Council (ERC) Starting Grant for the project &amp;ldquo;MOVIOLA: Cell decision capture and control via joint Raman live and omics profiling.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;This 5-year grant (Feb 2026 - Jan 2031, 1.5 million euros) will support our research into understanding the molecular determinants that govern neural cell fate decisions during human brain development.&lt;/p&gt;
-
-&lt;p&gt;The MOVIOLA project introduces a novel experimental paradigm that combines live Raman microscopy with multi-modal molecular profiling to capture cells at the precise moments when fate decisions occur. We will develop the &amp;ldquo;Rewind, Halt &amp;amp; Edit&amp;rdquo; methodology, which enables:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Retrospective identification of decision points through continuous cellular monitoring&lt;/li&gt;
-&lt;li&gt;Targeted profiling at critical moments&lt;/li&gt;
-&lt;li&gt;Temporal manipulation of decision factors&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Using human induced pluripotent stem cell-derived neural systems, we aim to identify the specific molecular factors—including transcription cascades, signaling pathways, metabolic states, and lipid compositions—that drive individual fate choices.&lt;/p&gt;
-
-&lt;p&gt;The ERC Starting Grant is one of the most prestigious and competitive funding schemes for early-career researchers in Europe, and we are grateful for this opportunity to advance our research program.&lt;/p&gt;
-</description>
+      <guid>/media/erc_moviola/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -13,28 +13,6 @@
     
     
     <item>
-      <title>Highly Cited Researcher 2025</title>
-      <link>/post/highly_cited_2025/</link>
-      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/post/highly_cited_2025/</guid>
-      <description>We are honored to announce that Gioele La Manno has been recognized as a Highly Cited Researcher for 2025 by Clarivate Analytics.
-For the third consecutive year, this recognition acknowledges the significant influence and impact of our research. This distinction is awarded to roughly 1 in 1,000 researchers globally whose publications are among the most frequently cited, reflecting sustained and broad impact in their field.
-Thank you to all our collaborators, lab members, and the broader research community for their support and engagement with our work.</description>
-    </item>
-    
-    <item>
-      <title>Lipid Brain Atlas preprint released</title>
-      <link>/post/lipid_brain_atlas/</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/post/lipid_brain_atlas/</guid>
-      <description>We are excited to announce the release of our preprint &amp;ldquo;The Lipidomics Architecture of the Mouse Brain&amp;rdquo; on bioRxiv!
-This work represents a major milestone for our lab, presenting the first comprehensive spatial lipidomic atlas of the adult mouse brain. Using high-resolution MALDI mass spectrometry imaging, we mapped 172 membrane lipids across 109 sections and 11 brains, all registered to the Allen Brain Atlas.
-Key findings: - We identified 539 spatially coherent biochemical domains, which we call &amp;ldquo;lipizones&amp;rdquo; - Lipizones capture both neuronal cell bodies and their distal terminals - White matter shows marked regional heterogeneity driven by oligodendrocyte-specific lipids - We discovered that pregnancy induces coordinated lipid remodeling in the cortex and white matter</description>
-    </item>
-    
-    <item>
       <title>Antonio Herrera appointed Group Leader</title>
       <link>/post/toni_group_leader/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
@@ -57,72 +35,6 @@ During her PhD in the EDNE program (2019-2025), Irina made fundamental contribut
     </item>
     
     <item>
-      <title>Zeiss IDEAS Grant awarded</title>
-      <link>/post/zeiss_ideas_2025/</link>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/post/zeiss_ideas_2025/</guid>
-      <description>We are excited to announce that we have been awarded a Zeiss IDEAS grant!
-This CHF 100,000 grant (Mar 2025 - Feb 2026) will support our research on &amp;ldquo;Neural Interpolation of 3D Distributions from Sections&amp;rdquo; - developing computational methods to reconstruct volumetric molecular distributions from 2D tissue section data.
-This project builds on our expertise in spatial transcriptomics and will advance our capabilities for building 3D molecular atlases of brain development.</description>
-    </item>
-    
-    <item>
-      <title>ERC Starting Grant MOVIOLA awarded</title>
-      <link>/post/erc_moviola/</link>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/post/erc_moviola/</guid>
-      <description>We are thrilled to announce that the La Manno Lab has been awarded a European Research Council (ERC) Starting Grant for the project &amp;ldquo;MOVIOLA: Cell decision capture and control via joint Raman live and omics profiling.&amp;rdquo;
-This 5-year grant (Feb 2026 - Jan 2031, 1.5 million euros) will support our research into understanding the molecular determinants that govern neural cell fate decisions during human brain development.
-The MOVIOLA project introduces a novel experimental paradigm that combines live Raman microscopy with multi-modal molecular profiling to capture cells at the precise moments when fate decisions occur.</description>
-    </item>
-    
-    <item>
-      <title>SNSF Spark Grant 2025</title>
-      <link>/post/snsf_spark_2025/</link>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/post/snsf_spark_2025/</guid>
-      <description>We are pleased to announce that we have been awarded an SNSF Spark grant!
-This CHF 100,000 grant (Jan 2025 - Dec 2026) will support our project &amp;ldquo;Charting the Individuality of Neural Progenitor State Transition Sequences by Hyperspectral Time-lapse Imaging.&amp;rdquo;
-This exploratory project will develop new approaches to track individual neural progenitor cells as they make fate decisions, combining live imaging with computational analysis to understand the temporal dynamics of neural differentiation.</description>
-    </item>
-    
-    <item>
-      <title>SNSF R&#39;Equip Grant for MALDI Imaging System</title>
-      <link>/post/snsf_requip_2025/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/post/snsf_requip_2025/</guid>
-      <description>We are pleased to announce that we have been awarded an SNSF R&amp;rsquo;Equip grant for the acquisition of a next-generation MALDI imaging system!
-This CHF 1,000,000 grant (Jan 2025 - Dec 2026) will fund a state-of-the-art mass spectrometry imaging platform that enables fast and high-sensitivity spatial metabolomics. The new equipment will significantly enhance our capabilities for spatial lipidomics research and support our ongoing projects on brain lipid architecture.
-This shared equipment will benefit multiple research groups at EPFL working on spatial metabolomics applications.</description>
-    </item>
-    
-    <item>
-      <title>uMAIA published in Nature Methods</title>
-      <link>/post/umaia_natmethods/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/post/umaia_natmethods/</guid>
-      <description>We are excited to announce the publication of our work on uMAIA (unified Mass Imaging Analyzer) in Nature Methods.
-uMAIA is an analytical framework for the joint analysis of large mass spectrometry imaging datasets. It enables the construction of multidimensional metabolomic atlases by extracting, aligning, and normalizing data into coherent, accurate maps. We applied this framework to study developmental lipidomics, creating detailed 4D lipid maps across embryonic stages.
-This work represents a significant step forward in our understanding of how lipid diversity contributes to brain development and cellular identity.</description>
-    </item>
-    
-    <item>
-      <title>Spotiflow published in Nature Methods</title>
-      <link>/post/spotiflow_natmethods/</link>
-      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/post/spotiflow_natmethods/</guid>
-      <description>We are pleased to announce the publication of Spotiflow in Nature Methods.
-Spotiflow is a deep learning method for subpixel-accurate spot detection in fluorescence microscopy images. The method formulates spot detection as a multiscale heatmap and stereographic flow regression problem, achieving state-of-the-art performance on diverse datasets while being robust to different noise conditions.
-Key features include: - Subpixel-accurate 2D and 3D spot detection - Optimized for spatial transcriptomics workflows - Robust to low signal-to-noise ratio images - Available as Python library and napari plugin</description>
-    </item>
-    
-    <item>
       <title>Congratulations Dr. Halima Hannah Schede!</title>
       <link>/post/halima_graduation/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -131,28 +43,6 @@ Key features include: - Subpixel-accurate 2D and 3D spot detection - Optimized f
       <description>We are delighted to announce that Halima Hannah Schede has successfully defended her PhD thesis!
 Halima joined as a PhD student in 2020 and completed her thesis jointly supervised with Prof. D&amp;rsquo;Angelo. Her research focused on computational approaches for spatialomics data: construction, integration, and analysis of biomolecular atlases. She developed Tomographer and made key contributions to the Lipid Brain Atlas project.
 Halima has accepted a position as Lead Data Scientist at Implexis Ltd in London.</description>
-    </item>
-    
-    <item>
-      <title>Highly Cited Researcher 2024</title>
-      <link>/post/highly_cited_2024/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/post/highly_cited_2024/</guid>
-      <description>We are honored to announce that Gioele La Manno has been recognized as a Highly Cited Researcher for 2024 by Clarivate Analytics.
-For the second consecutive year, this recognition acknowledges the significant influence and impact of our research in single-cell genomics, RNA velocity methods, and computational biology for understanding developmental processes.
-Thank you to all our collaborators and the broader research community for their support and engagement with our work.</description>
-    </item>
-    
-    <item>
-      <title>VeloCycle published in Nature Methods</title>
-      <link>/post/velocycle_natmethods/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/post/velocycle_natmethods/</guid>
-      <description>We are excited to announce the publication of VeloCycle in Nature Methods.
-VeloCycle is a Bayesian model of RNA velocity that couples velocity field and manifold estimation in a unified framework, enabling formal statistical testing of gene expression dynamics. It fits an inferentially coherent model directly on raw data, eliminating heuristics that dominate current scRNA analyses.
-Key features include: - Formal statistical testing of dynamics - End-to-end Bayesian inference - Cell cycle speed quantification - Manifold-constrained velocity estimation</description>
     </item>
     
     <item>
@@ -167,81 +57,12 @@ Alex has now moved on to become a Senior Data Scientist at CHUV.</description>
     </item>
     
     <item>
-      <title>Highly Cited Researcher 2023</title>
-      <link>/post/highly_cited_researcher/</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/highly_cited_researcher/</guid>
-      <description>We are pleased to announce that Gioele La Manno has been recognized as a Highly Cited Researcher for 2023 by Clarivate Analytics.
-This recognition is awarded to researchers who have demonstrated significant and broad influence in their field, as measured by highly cited papers ranking in the top 1% by citations for their field and publication year in the Web of Science.
-The recognition reflects the impact of our work in single-cell genomics, RNA velocity, and computational methods for understanding brain development.</description>
-    </item>
-    
-    <item>
       <title>Welcome Luca and Alessandro!</title>
       <link>/post/lucaale_join/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/post/lucaale_join/</guid>
       <description>Luca Fusar Bassini and Alessandro Valente join the lab for their PhD. Luca is a Biologist with a keen interest in developing computational methods to distill biological insight out of data, Alessandro is Biotechnologist with excellent experience in stem cell engineering and brain organoid models. They are both going to work on the lipidome-transcriptome axis in neurulation. Welcome Luca and Alessandro!.</description>
-    </item>
-    
-    <item>
-      <title>We formulated the lipotype hypothesis</title>
-      <link>/post/lipotypehipothesis/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/lipotypehipothesis/</guid>
-      <description>The overall lipid composition of cell membranes is defined by variations in the concentration of hundreds of individual species. Although, in principle, the unconstrained variations of lipid levels are able to generate infinite combinations of lipid composition, the action of regulatory circuits restricts the spectrum of possible lipid configurations in a given cell and under given conditions. Lipid configurations can be seen as a finite number of states that represent local energetic minima of the lipid compositional landscape.</description>
-    </item>
-    
-    <item>
-      <title>We released the map of cell states in brain development</title>
-      <link>/post/devatlas/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/devatlas/</guid>
-      <description>Using a combination of sequencing techniques and mathematical methods, our lab has traced the genetic programs that direct the development of each cell in the brain. This molecular map help understanding how the brain develops and provide insights into a range of brain disorders. Nature paper here</description>
-    </item>
-    
-    <item>
-      <title>CZI awards us with a Data Insight grant</title>
-      <link>/post/czitools/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/czitools/</guid>
-      <description>RNA Velocity is an analysis framework that has become fundamental in the toolbox of the single-cell research community. It allows extracting dynamical information from expression data. After its release, the method was adopted rapidly by the community; however, ways to assess statistical confidence and unambiguously interpret its outputs have not been consolidated. Most noticeably, it is not currently possible to test biological hypotheses by statistical inference on the RNA Velocity estimates.</description>
-    </item>
-    
-    <item>
-      <title>From cell fat to cell fate</title>
-      <link>/post/lipotypes/</link>
-      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/lipotypes/</guid>
-      <description>In multicellular organisms, cells are parts of communities in which an individual contributes to the collective phenotype of the community. Appreciating the “social” organization of these cell communities is instrumental to dissecting their physiology and the pathological consequences of their abnormalities. In Capolupo et al. we investigated the lipid metabolism and gene expression of individual human skin cells and found that specific lipid compositions drive cell specialization. Specifically, we found that sphingolipids determine the transcriptional programs of fibroblasts populating in different layers of the human skin.</description>
-    </item>
-    
-    <item>
-      <title>SNSF Starting Grant awarded</title>
-      <link>/post/snsf_starting_grant/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/snsf_starting_grant/</guid>
-      <description>We are pleased to announce that the La Manno Lab has received a Swiss National Science Foundation (SNSF) Starting Grant.
-This grant will support our research into understanding the role of lipid heterogeneity in brain development. The project combines mass spectrometry imaging with computational analysis to explore how different lipid species contribute to cellular identity and developmental processes in the nervous system.
-The SNSF Starting Grant provides essential support for our experimental and computational work at the interface of spatial metabolomics and developmental biology.</description>
-    </item>
-    
-    <item>
-      <title>First preprint of the lab: spatial-omics by tomography!</title>
-      <link>/post/tomographybiorxiv/</link>
-      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/tomographybiorxiv/</guid>
-      <description>We just released the first preprint of the lab, find it here.
-This is the summary of what the paper is about:
-Genomics techniques are currently being adapted to provide spatially resolved omics profiling. However, the adaptation of each new method typically requires the setup of specific detection strategies or specialized instrumentation. A generic approach to spatially resolve different types of high throughput data is missing. Here, we describe an imaging-free framework to localize high throughput readouts within a tissue by combining compressive sampling and image reconstruction.</description>
     </item>
     
     <item>
@@ -272,16 +93,6 @@ Genomics techniques are currently being adapted to provide spatially resolved om
     </item>
     
     <item>
-      <title>RNA velocity is out in Nature</title>
-      <link>/post/velocitynature/</link>
-      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/velocitynature/</guid>
-      <description>In a previous preprint RNA velocity in single cells we had presented the discovery that standard RNA-seq data contains additional information on the rate and direction of change in gene expression. If you haven&amp;rsquo;t read what this is about you can see my previous post or directly go and read the more eloquent Nature News and Views kindly written by Allon Klein.
-Now our work has gone through the process of peer review.</description>
-    </item>
-    
-    <item>
       <title>Visiting EPFL and super-postdocs in Europe</title>
       <link>/post/elifrcandidate/</link>
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
@@ -289,26 +100,6 @@ Now our work has gone through the process of peer review.</description>
       <guid>/post/elifrcandidate/</guid>
       <description>Over the last few days I have been at the École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. The reason of this little trip is that the School of Life Sciences at EPFL recently opened a special position, the fellowship goes under the long name &amp;ldquo;EPFL Life Sciences Early Independence Research Scholar&amp;rdquo; shortened &amp;ldquo;ELIFR fellow&amp;rdquo;.
 To explain what an ELIFR fellow is I could simply refer to it as a &amp;ldquo;super-postdoc&amp;rdquo;, a funny term popularized by this commentary on Cell but maybe, not yet so popular in Europe (so that I noticed that using it in a conversation often produces raised eyebrows and a grin or two).</description>
-    </item>
-    
-    <item>
-      <title>osmFISH is really awesome</title>
-      <link>/post/osmfish/</link>
-      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/osmfish/</guid>
-      <description>Simone Codelluppi and Lars Borm have developed and optimized a cyclic smFISH protocol, termed ouroboros smFISH, to quantify the expression of a large number of genes in tissue sections. The goal was building a cell type map of the mouse somatosensory cortex. The results are really impressive. See the fantastic images and interactively explore the data using the Loom viewer here.
-Great news are not only is taht Lars and Simore have put a lot of effort to make it possible for any lab to set up the method and they provide detailed protocol and a polished software package.</description>
-    </item>
-    
-    <item>
-      <title>RNA velocity preprint</title>
-      <link>/post/velocity/</link>
-      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/velocity/</guid>
-      <description>Single-cell RNA-seq measurements provide a powerful approach for studying complex biological tissues. Some of the more interesting contexts involve dynamic processes, such as development or disease progression. However single-cell measurements only capture a snapshot of a transcriptional state at a single point in time.
-Several approaches have been developed to infer dynamic processes, such as branching lineages from this scRNA-seq. Usually those methods require many strong assumptions that are often violated.</description>
     </item>
     
   </channel>
