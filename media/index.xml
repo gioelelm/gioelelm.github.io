@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/media/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Highly Cited Researcher 2025</title>
+      <link>/media/highlycited2025/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/media/highlycited2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mapping the lipid blueprint of life in 4D</title>
@@ -24,7 +33,7 @@
     <item>
       <title>Highly Cited Researcher 2024</title>
       <link>/media/highlycited2024/</link>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>/media/highlycited2024/</guid>
       <description></description>
