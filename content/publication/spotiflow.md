@@ -35,7 +35,7 @@ abstract = "The identification of spot-like structures in large and noisy micros
 abstract_short = "Spotiflow is a deep learning method for subpixel-accurate spot detection in fluorescence microscopy that achieves state-of-the-art performance while being robust to different noise conditions."
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "headers/spotiflow.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -55,7 +55,7 @@ highlight = false
 
 # Featured image
 [header]
-image = ""
-caption = ""
+image = "headers/spotiflow.jpg"
+caption = "Spotiflow spot detection"
 
 +++

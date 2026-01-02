@@ -33,7 +33,7 @@ abstract = "The lipidome orchestrates membrane properties, signaling, and metabo
 abstract_short = "We present uMAIA, an analytical framework for spatial lipidomics, and use it to map the 4D distribution of over a hundred lipids in the developing zebrafish embryo, revealing metabolic trajectories that unfold in concert with morphogenesis."
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "headers/umaia.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -53,7 +53,7 @@ highlight = false
 
 # Featured image
 [header]
-image = ""
-caption = ""
+image = "headers/umaia.jpg"
+caption = "4D lipidome mapping of zebrafish development"
 
 +++
