@@ -6,6 +6,9 @@
 .vscode/*
 .vscode/
 
+# Claude Code
+.claude/
+
 # Hugo
 public/
 hugo
