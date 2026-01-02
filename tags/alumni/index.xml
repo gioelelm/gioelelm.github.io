@@ -21,5 +21,15 @@
       <description>Master Students  img.minion { border: 1px solid #ddd; /*Gray border*/ border-radius: 4px; /*Rounded border*/ padding: 5px; /*Some padding*/ width: 175px; /*Set a small width*/ } /*Add a hover effect (blue shadow)*/ img.minion:hover { box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5); } * { box-sizing: border-box; } /*Create two equal columns that floats next to each other*/ .column { float: left; width: 50%; padding: 10px; height: 220px; /*Should be removed.</description>
     </item>
     
+    <item>
+      <title>Current Master Students</title>
+      <link>/people/currentmasters/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/currentmasters/</guid>
+      <description> Current Master Students (2025) The following students are currently working on semester projects or master theses in the lab:
+EPFL Students  Giovanni Nostro - Life Sciences Engineering Lena De Sepibus - Life Sciences Engineering Valentine Casalta - Life Sciences Engineering Theo Lo Giudice - Life Sciences Engineering Paul Marchi - Life Sciences Engineering Zeineb Mellouli - Life Sciences Engineering Misia Botschi - Life Sciences Engineering Carla Baud - Life Sciences Engineering Charlotte Alers - Life Sciences Engineering Cyril Achard - Life Sciences Engineering  External Students  Francesco Danese - Visiting Student Mohammadresa Karimi - Visiting Student Francesco Pieracciani - Visiting Student  </description>
+    </item>
+    
   </channel>
 </rss>

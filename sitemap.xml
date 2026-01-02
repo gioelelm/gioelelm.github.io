@@ -122,35 +122,8 @@
     
     <url>
     
-      <loc>/media/zeiss_ideas/</loc>
-      <lastmod>2025-03-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication/tissuereassembly/</loc>
       <lastmod>2025-02-13T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/media/spark2025/</loc>
-      <lastmod>2025-01-20T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/media/snsf_requip/</loc>
-      <lastmod>2025-01-15T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -491,15 +464,6 @@
     
     <url>
     
-      <loc>/media/spark/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/post/dimitri_joins/</loc>
       <lastmod>2019-10-04T00:00:00+00:00</lastmod>
     </url>
@@ -592,6 +556,15 @@
     
       <loc>/people/alumni/</loc>
       <lastmod>2018-03-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/people/currentmasters/</loc>
+      <lastmod>2018-03-02T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -866,7 +839,7 @@
     <url>
     
       <loc>/tags/elisir/</loc>
-      <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-06-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -996,7 +969,7 @@
     <url>
     
       <loc>/tags/snsf/</loc>
-      <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+      <lastmod>2023-12-05T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1107,16 +1080,6 @@
     
       <loc>/tags/development/</loc>
       <lastmod>2025-09-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/equipment/</loc>
-      <lastmod>2025-01-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

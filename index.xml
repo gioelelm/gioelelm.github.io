@@ -149,21 +149,26 @@
     </item>
     
     <item>
-      <title>Zeiss IDEAS Grant</title>
-      <link>/media/zeiss_ideas/</link>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/media/zeiss_ideas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tissue Reassembly with Generative AI</title>
       <link>/publication/tissuereassembly/</link>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>/publication/tissuereassembly/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Congratulations Dr. Halima Hannah Schede!</title>
+      <link>/post/halima_graduation/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/halima_graduation/</guid>
+      <description>&lt;p&gt;We are delighted to announce that Halima Hannah Schede has successfully defended her PhD thesis!&lt;/p&gt;
+
+&lt;p&gt;Halima joined as a PhD student in 2020 and completed her thesis jointly supervised with Prof. D&amp;rsquo;Angelo. Her research focused on computational approaches for spatialomics data: construction, integration, and analysis of biomolecular atlases. She developed Tomographer and made key contributions to the Lipid Brain Atlas project.&lt;/p&gt;
+
+&lt;p&gt;Halima has accepted a position as Lead Data Scientist at Implexis Ltd in London. Congratulations and best wishes for your future career!&lt;/p&gt;
+</description>
     </item>
     
   </channel>
