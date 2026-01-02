@@ -9,7 +9,7 @@ title = "Highly Cited Researcher 2024"
 summary = "Gioele La Manno was included in Clarivate's 2024 Highly Cited Researchers list, recognizing his innovative work in single-cell transcriptomics and brain development. At 34 years old, he is one of the youngest researchers on the list."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "highlycited2024.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
