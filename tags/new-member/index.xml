@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/new-member/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome Laura, Evangelia, and Lada!</title>
+      <link>/post/2025_cohort_joins/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2025_cohort_joins/</guid>
+      <description>We are thrilled to welcome three new members to the La Manno Lab!
+Laura Lapeña Gil joins us as a PhD student in the Neuroscience Program (EDNE) to work on brain development research.
+Evangelia Skoufa joins as our lab technician, supporting the team with experimental work and laboratory operations including spatial transcriptomics.
+Lada Polyakova joins as a PhD student in the Computational and Quantitative Biology Program (EDCB) to work on computational biology and machine learning approaches.</description>
+    </item>
+    
+    <item>
+      <title>Welcome Xinyi, Morgane, and Alireza!</title>
+      <link>/post/2024_cohort_joins/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2024_cohort_joins/</guid>
+      <description>We are excited to welcome three new PhD students to the La Manno Lab!
+Xinyi Huang joins us from the Biotechnology and Bioengineering Program (EDBB) to work on brain development research.
+Morgane Storey joins as a joint PhD student in the Neuroscience Program (EDNE) between our lab and Prof. Petersen&amp;rsquo;s lab, working on neuroscience and brain development.
+Alireza Gargoorimothlag joins from the Neuroscience Program (EDNE) to develop computational approaches for understanding brain development using spatial transcriptomics.</description>
+    </item>
     
     <item>
       <title>Welcome Luca and Alessandro!</title>
