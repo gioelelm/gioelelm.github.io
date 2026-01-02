@@ -71,12 +71,66 @@
     </item>
     
     <item>
+      <title>Spotiflow</title>
+      <link>/software/spotiflow/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/software/spotiflow/</guid>
+      <description>&lt;p&gt;Spotiflow is a deep learning method for subpixel-accurate spot detection in fluorescence microscopy images. It formulates spot detection as a multiscale heatmap and stereographic flow regression problem, achieving state-of-the-art performance on diverse datasets while being robust to different noise conditions.&lt;/p&gt;
+
+&lt;p&gt;Key features:
+- Subpixel-accurate 2D and 3D spot detection
+- Optimized for spatial transcriptomics workflows
+- Robust to low signal-to-noise ratio images
+- Available as Python library and napari plugin&lt;/p&gt;
+
+&lt;p&gt;Find the GitHub repo &lt;a href=&#34;https://github.com/weigertlab/spotiflow&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>uMAIA</title>
+      <link>/software/umaia/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/software/umaia/</guid>
+      <description>&lt;p&gt;uMAIA (unified Mass Imaging Analyzer) is an analytical framework for the joint analysis of large mass spectrometry imaging (MSI) datasets. It enables the construction of multidimensional metabolomic atlases by extracting, aligning, and normalizing data into coherent, accurate maps.&lt;/p&gt;
+
+&lt;p&gt;Key features:
+- Joint analysis of large MSI datasets
+- Spatial lipidomics clustering and imputation
+- Differential analysis tools
+- 4D lipid mapping across developmental stages&lt;/p&gt;
+
+&lt;p&gt;Find the GitHub repo &lt;a href=&#34;https://github.com/lamanno-epfl/uMAIA&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Statistical inference with a manifold-constrained RNA velocity model uncovers cell cycle speed modulations</title>
       <link>/publication/velocycle/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>/publication/velocycle/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>VeloCycle</title>
+      <link>/software/velocycle/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/software/velocycle/</guid>
+      <description>&lt;p&gt;VeloCycle is a Bayesian model of RNA velocity that couples velocity field and manifold estimation in a unified framework, enabling formal statistical testing of gene expression dynamics. It fits an inferentially coherent model directly on raw data, eliminating heuristics that dominate current scRNA analyses.&lt;/p&gt;
+
+&lt;p&gt;Key features:
+- Formal statistical testing of dynamics
+- End-to-end Bayesian inference
+- Cell cycle speed quantification
+- Manifold-constrained velocity estimation&lt;/p&gt;
+
+&lt;p&gt;Find the GitHub repo &lt;a href=&#34;https://github.com/lamanno-epfl/velocycle&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -151,45 +205,6 @@
 &lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
 
 &lt;p&gt;I am an happy PhD student&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Gioele gives the TEDx talk: “Scientists at the mirror”</title>
-      <link>/media/tedx/</link>
-      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/media/tedx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alessandro Valente</title>
-      <link>/people/alessandrovalente/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/people/alessandrovalente/</guid>
-      <description>
-
-&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
-
-&lt;p&gt;I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and &lt;a href=&#34;https://www.epfl.ch/labs/dangelo-lab/&#34; target=&#34;_blank&#34;&gt;D&amp;rsquo;Angelo Labs&lt;/a&gt;. I have a strong interest in the applications of statistical models and data analysis to the health sciences. After completing my Bachelor&amp;rsquo;s degree in McGill University, Canada in Biology and Mathematics and my M. Eng in Bioengineering at EPFL, during which I completed an internship in the La Manno Lab, I returned to the lab full time as a PhD student.&lt;/p&gt;
-
-&lt;p&gt;I have worked towards the development of &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.08.04.235655v1&#34; target=&#34;_blank&#34;&gt;Tomographer&lt;/a&gt;, a technique dedicated to the spatial molecular profiling of tissues, as well as the construction of a Lipid Brain Atlas which is based on mass spectrometry data. I have other interests including tennis, hiking, baking, and jamming!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Rosan Hans</title>
-      <link>/people/rosanhans/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/people/rosanhans/</guid>
-      <description>
-
-&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
-
-&lt;p&gt;I am an Industrial PhD student in the Biotechnology and Bioengineering Program (EDBB) at EPFL, working jointly with the La Manno Lab and Roche IHB, supervised by Dr. Giuliana Rossi.&lt;/p&gt;
 </description>
     </item>
     

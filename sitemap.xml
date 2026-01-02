@@ -50,7 +50,34 @@
     
     <url>
     
+      <loc>/software/spotiflow/</loc>
+      <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/software/umaia/</loc>
+      <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/velocycle/</loc>
+      <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/software/velocycle/</loc>
       <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -169,6 +196,15 @@
     
       <loc>/publication/neuraltube/</loc>
       <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/software/pyrovelocity/</loc>
+      <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -841,7 +877,7 @@
     <url>
     
       <loc>/software/</loc>
-      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+      <lastmod>2025-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1011,7 +1047,7 @@
     <url>
     
       <loc>/tags/software/</loc>
-      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+      <lastmod>2025-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
