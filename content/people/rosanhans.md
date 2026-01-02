@@ -11,8 +11,8 @@ summary_link = ''
 summary2 = "EDBB PhD Program - Roche IHB"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "people/plus_square.jpg"
-image = "people/plus_circled.jpg"
+image_preview = "people/rosan_square.jpg"
+image = "people/rosan_circled.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
