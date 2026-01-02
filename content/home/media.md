@@ -20,6 +20,9 @@ folder = "media"
 # Legend: 0 = list, 1 = cards.
 view = 1
 
+# Number of items to display (0 = all)
+count = 10
+
 # Filter toolbar.
 
 # Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
