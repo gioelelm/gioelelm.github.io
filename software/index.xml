@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>PointillHist</title>
+      <link>/software/pointillhist/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/software/pointillhist/</guid>
+      <description>PointillHist is a probabilistic deep learning framework for cell-state mapping in spatial transcriptomics data. It addresses the challenge of assigning cell identities to sparse, undersampled spatial data by learning the organizational rules encoded in tissue.
+Key Features  Context-aware mapping: Uses Graph Neural Networks (GNNs) with attention mechanisms to learn spatial co-occurrence rules from neighboring cells Probabilistic assignments: Produces per-cell probabilistic labels that are spatially coherent Robust to sparsity: Designed for data types like HybISS with limited gene panels Batch training: Learns generalizable spatial rules across multiple tissue sections and developmental stages  Technical Approach At the single-cell level, PointillHist maximizes the likelihood of each cell&amp;rsquo;s expression given reference profiles, complemented by: 1.</description>
+    </item>
+    
+    <item>
       <title>Spotiflow</title>
       <link>/software/spotiflow/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>

@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/grants/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zeiss IDEAS Grant awarded</title>
+      <link>/post/zeiss_ideas_2025/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/zeiss_ideas_2025/</guid>
+      <description>We are excited to announce that we have been awarded a Zeiss IDEAS grant!
+This CHF 100,000 grant (Mar 2025 - Feb 2026) will support our research on &amp;ldquo;Neural Interpolation of 3D Distributions from Sections&amp;rdquo; - developing computational methods to reconstruct volumetric molecular distributions from 2D tissue section data.
+This project builds on our expertise in spatial transcriptomics and will advance our capabilities for building 3D molecular atlases of brain development.</description>
+    </item>
     
     <item>
       <title>ERC Starting Grant MOVIOLA awarded</title>
@@ -21,6 +32,28 @@
       <description>We are thrilled to announce that the La Manno Lab has been awarded a European Research Council (ERC) Starting Grant for the project &amp;ldquo;MOVIOLA: Cell decision capture and control via joint Raman live and omics profiling.&amp;rdquo;
 This 5-year grant (Feb 2026 - Jan 2031, 1.5 million euros) will support our research into understanding the molecular determinants that govern neural cell fate decisions during human brain development.
 The MOVIOLA project introduces a novel experimental paradigm that combines live Raman microscopy with multi-modal molecular profiling to capture cells at the precise moments when fate decisions occur.</description>
+    </item>
+    
+    <item>
+      <title>SNSF Spark Grant 2025</title>
+      <link>/post/snsf_spark_2025/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/snsf_spark_2025/</guid>
+      <description>We are pleased to announce that we have been awarded an SNSF Spark grant!
+This CHF 100,000 grant (Jan 2025 - Dec 2026) will support our project &amp;ldquo;Charting the Individuality of Neural Progenitor State Transition Sequences by Hyperspectral Time-lapse Imaging.&amp;rdquo;
+This exploratory project will develop new approaches to track individual neural progenitor cells as they make fate decisions, combining live imaging with computational analysis to understand the temporal dynamics of neural differentiation.</description>
+    </item>
+    
+    <item>
+      <title>SNSF R&#39;Equip Grant for MALDI Imaging System</title>
+      <link>/post/snsf_requip_2025/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/snsf_requip_2025/</guid>
+      <description>We are pleased to announce that we have been awarded an SNSF R&amp;rsquo;Equip grant for the acquisition of a next-generation MALDI imaging system!
+This CHF 1,000,000 grant (Jan 2025 - Dec 2026) will fund a state-of-the-art mass spectrometry imaging platform that enables fast and high-sensitivity spatial metabolomics. The new equipment will significantly enhance our capabilities for spatial lipidomics research and support our ongoing projects on brain lipid architecture.
+This shared equipment will benefit multiple research groups at EPFL working on spatial metabolomics applications.</description>
     </item>
     
     <item>
