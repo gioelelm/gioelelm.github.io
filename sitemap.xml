@@ -275,6 +275,15 @@
     
     <url>
     
+      <loc>/post/luca_bif_award/</loc>
+      <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/lucaale_join/</loc>
       <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     </url>
@@ -817,6 +826,16 @@
     
     <url>
     
+      <loc>/tags/award/</loc>
+      <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/bayesian/</loc>
       <lastmod>2024-10-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -878,6 +897,16 @@
     
       <loc>/tags/erc/</loc>
       <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/fellowship/</loc>
+      <lastmod>2023-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
