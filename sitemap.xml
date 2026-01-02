@@ -140,6 +140,15 @@
     
     <url>
     
+      <loc>/publication/lipotypehypothesis/</loc>
+      <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/lipotypehipothesis/</loc>
       <lastmod>2022-11-01T00:00:00+00:00</lastmod>
     </url>
@@ -151,6 +160,15 @@
     
       <loc>/publication/lipotypes/</loc>
       <lastmod>2022-10-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/neuraltube/</loc>
+      <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -230,6 +248,15 @@
     
     <url>
     
+      <loc>/publication/falsediscoveries/</loc>
+      <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/mouseatlas/</loc>
       <lastmod>2021-08-01T00:00:00+00:00</lastmod>
     </url>
@@ -277,6 +304,24 @@
     
       <loc>/post/tomographybiorxiv/</loc>
       <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/celltypeprioritization/</loc>
+      <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/temporalomics/</loc>
+      <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     </url>
     
   

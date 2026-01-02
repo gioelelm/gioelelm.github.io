@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>The Lipotype hypothesis</title>
+      <link>/publication/lipotypehypothesis/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lipotypehypothesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sphingolipids Control Dermal Fibroblast Heterogeneity</title>
       <link>/publication/lipotypes/</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
@@ -49,11 +58,29 @@
     </item>
     
     <item>
+      <title>Self-organizing in vitro mouse neural tube organoids mimic embryonic development</title>
+      <link>/publication/neuraltube/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/neuraltube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Molecular profiling of stem cell-derived retinal pigment epithelial cell differentiation established for clinical translation</title>
       <link>/publication/rpe/</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/publication/rpe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confronting false discoveries in single-cell differential expression</title>
+      <link>/publication/falsediscoveries/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/falsediscoveries/</guid>
       <description></description>
     </item>
     
@@ -72,6 +99,24 @@
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>/publication/tomographypp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell type prioritization in single-cell data</title>
+      <link>/publication/celltypeprioritization/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/celltypeprioritization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The emergence and promise of single-cell temporal-omics approaches</title>
+      <link>/publication/temporalomics/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/temporalomics/</guid>
       <description></description>
     </item>
     
