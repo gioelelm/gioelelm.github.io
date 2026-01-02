@@ -31,7 +31,7 @@ abstract = "RNA velocity provides an estimate of the future transcriptional stat
 abstract_short = "VeloCycle is a Bayesian RNA velocity model enabling formal statistical testing of gene expression dynamics in single-cell data, used to identify developmental modulations of the cell cycle."
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "headers/velocycle.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -51,7 +51,7 @@ highlight = false
 
 # Featured image
 [header]
-image = ""
-caption = ""
+image = "headers/velocycle.jpg"
+caption = "VeloCycle: manifold-constrained RNA velocity for cell cycle"
 
 +++
