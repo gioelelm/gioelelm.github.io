@@ -3,10 +3,10 @@
 date = "2018-03-02"
 
 # Project title.
-title = "Current Master Students"
+title = "Master Students"
 
 # Project summary to display on homepage.
-summary = "Semester and thesis students"
+summary = "Current thesis students"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "people/alumni_square.jpg"
@@ -36,26 +36,8 @@ link = "mailto:gioele.lamanno@epfl.ch"
 
 +++
 
-# Current Master Students (2025)
+# Current Master Students
 
-The following students are currently working on semester projects or master theses in the lab:
-
-## EPFL Students
-
-- **Giovanni Nostro** - Life Sciences Engineering
-- **Lena De Sepibus** - Life Sciences Engineering
-- **Valentine Casalta** - Life Sciences Engineering
-- **Theo Lo Giudice** - Life Sciences Engineering
-- **Paul Marchi** - Life Sciences Engineering
-- **Zeineb Mellouli** - Life Sciences Engineering
-- **Misia Botschi** - Life Sciences Engineering
-- **Carla Baud** - Life Sciences Engineering
-- **Charlotte Alers** - Life Sciences Engineering
-- **Cyril Achard** - Life Sciences Engineering
-
-## External Students
-
-- **Francesco Danese** - Visiting Student
-- **Mohammadresa Karimi** - Visiting Student
-- **Francesco Pieracciani** - Visiting Student
-
+- **Francesco Danese** - Visiting Student (Italy)
+- **Zeineb Mellouli** - EPFL Life Sciences Engineering
+- **Lothar** - Master Student

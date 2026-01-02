@@ -288,6 +288,22 @@ img.minion:hover {
     </div>
 </body>
 
+## Recent Master Students (2024-2025)
+
+The following students completed semester projects or master theses in the lab:
+
+- Giovanni Nostro - EPFL Life Sciences Engineering
+- Lena De Sepibus - EPFL Life Sciences Engineering
+- Valentine Casalta - EPFL Life Sciences Engineering
+- Theo Lo Giudice - EPFL Life Sciences Engineering
+- Paul Marchi - EPFL Life Sciences Engineering
+- Misia Botschi - EPFL Life Sciences Engineering
+- Carla Baud - EPFL Life Sciences Engineering
+- Charlotte Alers - EPFL Life Sciences Engineering
+- Cyril Achard - EPFL Life Sciences Engineering
+- Mohammadresa Karimi - Visiting Student
+- Francesco Pieracciani - Visiting Student
+
 # Bachelor Students
 
 <body>
