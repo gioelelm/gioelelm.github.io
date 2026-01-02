@@ -9,7 +9,7 @@ title = "Mapping the lipid blueprint of life in 4D"
 summary = "By combining imaging mass spectrometry and a new computational framework called uMAIA, we tracked more than 100 types of lipids in space and time in the developing zebrafish embryo, revealing how lipids form highly organized patterns that correspond to anatomical structures. Published in Nature Methods."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "headers/umaia.jpg"
+image_preview = "umaia_news.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
