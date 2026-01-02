@@ -17,6 +17,6 @@ Key findings:
 - White matter shows marked regional heterogeneity driven by oligodendrocyte-specific lipids
 - We discovered that pregnancy induces coordinated lipid remodeling in the cortex and white matter
 
-This atlas establishes lipids as an important and previously unexplored axis of molecular brain architecture. The preprint is currently in revision at Nature.
+This atlas establishes lipids as an important and previously unexplored axis of molecular brain architecture.
 
 Read the preprint: [bioRxiv](https://doi.org/10.1101/2025.10.13.682018)
