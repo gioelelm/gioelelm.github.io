@@ -9,7 +9,7 @@ title = "Highly Cited Researcher 2025"
 summary = "Gioele La Manno was included in Clarivate's 2025 Highly Cited Researchers list for the second consecutive year, recognizing his continued impact in single-cell transcriptomics and brain development research."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+image_preview = "highlycited2025.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

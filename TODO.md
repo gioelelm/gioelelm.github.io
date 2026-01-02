@@ -1,6 +1,5 @@
 # TODOs
 
-- add an image with the Clarivate logo for the Clarivate Highly Cited Researcher announcement 2025
 - I should be changing the gif at background that should be generated somehow with generative AI starting from images of my figures
 - Velocycel published... post has a too long aspect ration image, change it
 - The last Welcome post are for Luca and Alessandrom but many more people joined the lab since then
