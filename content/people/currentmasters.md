@@ -40,4 +40,4 @@ link = "mailto:gioele.lamanno@epfl.ch"
 
 - **Francesco Danese** - Visiting Student (Italy)
 - **Zeineb Mellouli** - EPFL Life Sciences Engineering
-- **Lothar** - Master Student
+- **Lothar Bezzon** - Master Student
