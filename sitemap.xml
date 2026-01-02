@@ -95,6 +95,15 @@
     
     <url>
     
+      <loc>/post/highly_cited_2024/</loc>
+      <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/velocycle/</loc>
       <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     </url>
@@ -151,6 +160,15 @@
     
       <loc>/people/xinyihuang/</loc>
       <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/highly_cited_researcher/</loc>
+      <lastmod>2023-11-15T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -961,6 +979,16 @@
     
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/awards/</loc>
+      <lastmod>2024-11-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
