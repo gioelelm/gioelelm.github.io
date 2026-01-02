@@ -76,6 +76,32 @@ img.minion:hover {
 <body>
     <div class="row">
         <div class="column" style="width: 25%;">
+            <a target="_blank" href="/img/people/alex_square.jpg">
+                <img class="minion" src="/img/people/alex_square.jpg" alt="Alex">
+            </a>
+        </div>
+        <div class="column" style="width: 75%;">
+            <font size="+2"> Alex Lederer </font><br>
+            **Joined as a PhD Student (EDCB 2019-2024)**<br>
+            **Senior Data Scientist at CHUV**<br>
+            **Short info**: Alex completed his PhD in the Computational and Quantitative Biology program, working on deciphering the nature of cell state transitions in single cells using quantitative modeling of temporal dynamics. His work contributed to major advances in RNA velocity methods.
+        </div>
+    </div>
+    <div class="row">
+        <div class="column" style="width: 25%;">
+            <a target="_blank" href="/img/people/halima_square.jpg">
+                <img class="minion" src="/img/people/halima_square.jpg" alt="Halima">
+            </a>
+        </div>
+        <div class="column" style="width: 75%;">
+            <font size="+2"> Halima Hannah Schede </font><br>
+            **Joined as a PhD Student (EDCB 2020-2025)**<br>
+            **Lead Data Scientist at Implexis Ltd, London**<br>
+            **Short info**: Halima completed her PhD jointly supervised with Prof. D'Angelo, focusing on computational approaches for spatialomics data: construction, integration, and analysis of biomolecular atlases. She developed Tomographer and contributed to the Lipid Brain Atlas.
+        </div>
+    </div>
+    <div class="row">
+        <div class="column" style="width: 25%;">
             <a target="_blank" href="/img/people/colas_square.jpg">
                 <img class="minion" src="/img/people/colas_square.jpg" alt="Colas">
             </a>
@@ -144,6 +170,32 @@ img.minion:hover {
 # Masters Students
 
 <body>
+    <div class="row">
+        <div class="column" style="width: 25%;">
+            <a target="_blank" href="/img/people/alexandre_square.jpg">
+                <img class="minion" src="/img/people/alexandre_square.jpg" alt="Alexandre">
+            </a>
+        </div>
+        <div class="column" style="width: 75%;">
+            <font size="+2"> Alexandre Bouillon </font><br>
+            **Joined as a Masters Thesis Student (2023)** <br>
+            **EPFL Life Science Engineering** <br>
+            **Short info**: Alexandre completed his Master's thesis in the lab, working on computational biology projects involving spatial transcriptomics analysis.
+        </div>
+    </div>
+    <div class="row">
+        <div class="column" style="width: 25%;">
+            <a target="_blank" href="/img/people/daniil_square.jpg">
+                <img class="minion" src="/img/people/daniil_square.jpg" alt="Daniil">
+            </a>
+        </div>
+        <div class="column" style="width: 75%;">
+            <font size="+2"> Daniil Bobrovskiy </font><br>
+            **Joined as a Masters Student (2023-2024)** <br>
+            **EPFL Life Sciences Engineering** <br>
+            **Short info**: Daniil developed a Bayesian model for the dynamical analysis of single-cell transcriptomics data in collaboration with the Pinello lab, focusing on transfer learning methods to utilize large single-cell atlases.
+        </div>
+    </div>
     <div class="row">
         <div class="column" style="width: 25%;">
             <a target="_blank" href="/img/people/ece_square.jpg">
@@ -239,15 +291,8 @@ img.minion:hover {
 
 <body>
 <div class="row">
-    <div class="column" style="width: 25%;">
-        <a target="_blank" href="/img/people/luca_square.jpg">
-            <img class="minion" src="/img/people/luca_square.jpg" alt="Luca">
-        </a>
-    </div>
     <div class="column" style="width: 75%;">
-        <font size="+2"> Luca Fusar Bassini </font><br>
-        **Currently @ Scuola Normale Superiore di Pisa** <br>
-        **Short info**: Luca joined us for a short project where he developed models of the population dynamics of the retina.
+        <font size="+2"> Luca Fusar Bassini </font> - Now a PhD student in the lab!
     </div>
 </div>
 </body>

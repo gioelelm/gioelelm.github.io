@@ -1,22 +1,22 @@
 +++
 # Date this page was created.
-date = "2023-04-10"
+date = "2024-01-01"
 
 # Project title.
-title = "Alexandre Bouillon"
+title = "Xinyi Huang"
 
 # Project summary to display on homepage.
-summary = "Master Student"
+summary = "Doctoral Student"
 summary_link = ''
-summary2 = "EPFL Student"
+summary2 = "EDBB PhD Program"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "people/alexandre_square.jpg"
-image = "people/alexandre_circled.jpg"
+image_preview = "people/plus_square.jpg"
+image = "people/plus_circled.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Masters"]
+tags = ["PhD Student"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "#about"
@@ -26,23 +26,10 @@ math = false
 
 # List your qualifications (such as academic degrees).
 
-[[education.courses]]
-  course = "M.Eng. in Life Science Engineering"
-  institution = "EPFL"
-  year = 2023 
-
-[[education.courses]]
-  course = "BSc in Life Science Engineering"
-  institution = "EPFL"
-  year = 2021
-
 [interests]
-  interests = ["Bioinformatics",
-    "Genetics",
-    "Cell biology",
-    "Python and R programming",
-    "PyTorch and TensorFlow",
-    "Deep learning",
+  interests = ["Brain Development",
+    "Computational Biology",
+    "Biotechnology",
   ]
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -54,11 +41,11 @@ caption = ""
 [[social]]
 icon = "envelope"
 icon_pack = "fa"
-link = "mailto:alexandre.bouillon@epfl.ch"
+link = "mailto:xinyi.huang@epfl.ch"
 
- 
+
 +++
- 
+
 # Blurb
 
- I am an happy Master student
+I am a PhD student in the Biotechnology and Bioengineering Program (EDBB) at EPFL, working in the La Manno Lab.
