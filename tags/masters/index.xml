@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/masters/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Alexandre Bouillon</title>
-      <link>/people/alexandrebouillon/</link>
-      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/people/alexandrebouillon/</guid>
-      <description>Blurb I am an happy Master student</description>
-    </item>
     
     <item>
       <title>Luca Fusar Bassini</title>
@@ -46,15 +37,6 @@
       
       <guid>/people/albertmantes/</guid>
       <description>Blurb I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and the Weigert Lab. I have a strong interest in the applications of statistical models and data analysis to the health sciences.</description>
-    </item>
-    
-    <item>
-      <title>Halima Hannah Schede</title>
-      <link>/people/halimaschede/</link>
-      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/people/halimaschede/</guid>
-      <description>Blurb I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and D&amp;rsquo;Angelo Labs. I have a strong interest in the applications of statistical models and data analysis to the health sciences. After completing my Bachelor&amp;rsquo;s degree in McGill University, Canada in Biology and Mathematics and my M. Eng in Bioengineering at EPFL, during which I completed an internship in the La Manno Lab, I returned to the lab full time as a PhD student.</description>
     </item>
     
     <item>

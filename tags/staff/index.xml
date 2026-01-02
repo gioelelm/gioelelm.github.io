@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Staff on Gioele La Manno</title>
+    <link>/tags/staff/</link>
+    <description>Recent content in Staff on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/staff/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evangelia Skoufa</title>
+      <link>/people/evangeliaskoufa/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/people/evangeliaskoufa/</guid>
+      <description>Blurb I am the lab technician for the La Manno Lab at EPFL, supporting the team with experimental work and laboratory operations.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,19 +7,63 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 07 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/phd-student/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Alex Lederer</title>
-      <link>/people/alexlederer/</link>
-      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Lada Polyakova</title>
+      <link>/people/ladapolyakova/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>/people/alexlederer/</guid>
-      <description>Short Bio I am a PhD student in the Computational and Quantitative Biology (EDCB) program at EPFL. Originally from the United States, I completed my BSc in Molecular Biology and Computer Science at the University of Pittsburgh before working as a research fellow at EMBL Heidelberg.
-During my studies, I have been captivated by the concept of temporal omics and bioinformatics in light of the big data boom and advances in next-generation sequencing technologies.</description>
+      <guid>/people/ladapolyakova/</guid>
+      <description>Blurb I am a PhD student in the Computational and Quantitative Biology Program (EDCB) at EPFL, working in the La Manno Lab.</description>
+    </item>
+    
+    <item>
+      <title>Laura Lapeña Gil</title>
+      <link>/people/lauralapena/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/people/lauralapena/</guid>
+      <description>Blurb I am a PhD student in the Neuroscience Program (EDNE) at EPFL, working in the La Manno Lab.</description>
+    </item>
+    
+    <item>
+      <title>Alireza Gargoorimothlag</title>
+      <link>/people/alirezagargoorimothlag/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/people/alirezagargoorimothlag/</guid>
+      <description>Blurb I am a PhD student in the Neuroscience Program (EDNE) at EPFL, working in the La Manno Lab on computational approaches for understanding brain development.</description>
+    </item>
+    
+    <item>
+      <title>Morgane Storey</title>
+      <link>/people/morganestorey/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/people/morganestorey/</guid>
+      <description>Blurb I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno Lab and Prof. Petersen&amp;rsquo;s lab at EPFL.</description>
+    </item>
+    
+    <item>
+      <title>Xinyi Huang</title>
+      <link>/people/xinyihuang/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/people/xinyihuang/</guid>
+      <description>Blurb I am a PhD student in the Biotechnology and Bioengineering Program (EDBB) at EPFL, working in the La Manno Lab.</description>
+    </item>
+    
+    <item>
+      <title>Rosan Hans</title>
+      <link>/people/rosanhans/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/people/rosanhans/</guid>
+      <description>Blurb I am an Industrial PhD student in the Biotechnology and Bioengineering Program (EDBB) at EPFL, working jointly with the La Manno Lab and Roche IHB, supervised by Dr. Giuliana Rossi.</description>
     </item>
     
   </channel>
