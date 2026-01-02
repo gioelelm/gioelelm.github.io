@@ -121,9 +121,9 @@ img.minion:hover {
         </div>
         <div class="column" style="width: 75%;">
             <font size="+2"> Zahra Moslehi </font><br>
-            **Joined as a Postdoc**<br>
-            **Postdoc at DKFZ**<br>
-            **Short info**:  ith my background on metric learning and representation learning and a Phd in ML, I joined the La Manno lab as a postdoctoral researcher to develop pipelines for the integration of snRNA-seq and snATAC-seq datasets for clustering purposes and to build robust prediction models of transitions between cellular states.
+            **Joined as a Postdoc (2020-2022)**<br>
+            **Computational Immunologist at University Hospital Erlangen**<br>
+            **Short info**: With a background in metric learning and representation learning and a PhD in ML, Zahra joined the La Manno lab as a postdoctoral researcher to develop pipelines for the integration of snRNA-seq and snATAC-seq datasets for clustering purposes and to build robust prediction models of transitions between cellular states.
         </div>
     </div>
     <div class="row">
@@ -147,9 +147,9 @@ img.minion:hover {
         </div>
         <div class="column" style="width: 75%;">
             <font size="+2"> Irina Khven </font><br>
-            **Joined as a PhD Student**<br>
-            **EDNE PhD Program**<br>
-            **Short info**:  Irina joined the La Manno Lab for her PhD in Neuroscience. Her project was dedicated to the study of mammalian brain development and spatial omic techniques. Using state-of-art experimental tools like scRNA-seq and cyclic smFISH, she contributed significantly to our knowledge in developmental neuroscience.
+            **Joined as a PhD Student (EDNE 2019-2025)**<br>
+            **Postdoc at IOB Basel**<br>
+            **Short info**: Irina completed her PhD in the Neuroscience program, with her thesis "Fine-grained mapping of neural progenitors subtypes in the embryonic brain unveils context-dependent roles of signalling on cell fate decisions." Her work established key spatial transcriptomics capabilities in the lab and generated comprehensive datasets on embryonic brain development.
         </div>
     </div>
     <div class="row">
@@ -160,8 +160,9 @@ img.minion:hover {
         </div>
         <div class="column" style="width: 75%;">
             <font size="+2"> Leila Alieh </font><br>
-            **Joined as a Postdoctoral researcher**<br>
-            **Short info**:  Leila joined the La Manno Lab as a postdoctoral researcher working on bioinformatics, genetics, and cell biology projects. With expertise in Python, R programming, and deep learning frameworks, she contributed to computational biology research in the lab.
+            **Joined as a Postdoctoral researcher (2021-2024)**<br>
+            **Clinical Project and Data Science Manager at Lermed**<br>
+            **Short info**: Leila joined the La Manno Lab as a postdoctoral researcher (co-advised with Prof. D'Angelo) working on bioinformatics, genetics, and cell biology projects. With expertise in Python, R programming, and deep learning frameworks, she contributed to computational biology research in the lab, including work on spatial lipidomics.
         </div>
     </div>
 
