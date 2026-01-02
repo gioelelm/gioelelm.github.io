@@ -41,6 +41,15 @@
     
     <url>
     
+      <loc>/media/umaiapub/</loc>
+      <lastmod>2025-09-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/toni_group_leader/</loc>
       <lastmod>2025-09-01T00:00:00+00:00</lastmod>
     </url>
@@ -196,6 +205,15 @@
     
       <loc>/software/umaia/</loc>
       <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/media/highlycited2024/</loc>
+      <lastmod>2024-11-25T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -997,7 +1015,7 @@
     <url>
     
       <loc>/media/</loc>
-      <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+      <lastmod>2025-09-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1127,7 +1145,7 @@
     <url>
     
       <loc>/tags/development/</loc>
-      <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+      <lastmod>2025-09-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1287,7 +1305,7 @@
     <url>
     
       <loc>/tags/spatial/</loc>
-      <lastmod>2022-04-10T00:00:00+00:00</lastmod>
+      <lastmod>2025-09-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
