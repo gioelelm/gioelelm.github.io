@@ -25,6 +25,24 @@
     </item>
     
     <item>
+      <title>Unified Mass Imaging Maps the Lipidome of Vertebrate Development</title>
+      <link>/publication/umaia/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/umaia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spotiflow: accurate and efficient spot detection for fluorescence microscopy with deep stereographic flow regression</title>
+      <link>/publication/spotiflow/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/spotiflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evangelia Skoufa</title>
       <link>/people/evangeliaskoufa/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -50,6 +68,15 @@
 
 &lt;p&gt;I am a PhD student in the Neuroscience Program (EDNE) at EPFL, working in the La Manno Lab.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Statistical inference with a manifold-constrained RNA velocity model uncovers cell cycle speed modulations</title>
+      <link>/publication/velocycle/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/velocycle/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -164,34 +191,6 @@
 
 &lt;p&gt;I am an Industrial PhD student in the Biotechnology and Bioengineering Program (EDBB) at EPFL, working jointly with the La Manno Lab and Roche IHB, supervised by Dr. Giuliana Rossi.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>We formulated the lipotype hypothesis</title>
-      <link>/post/lipotypehipothesis/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/lipotypehipothesis/</guid>
-      <description>&lt;p&gt;The overall lipid composition of cell membranes is defined by variations in the concentration of hundreds of individual species. Although, in principle, the unconstrained variations of lipid levels are able to generate infinite combinations of lipid composition, the action of regulatory circuits restricts the spectrum of possible lipid configurations in a given cell and under given conditions. Lipid configurations can be seen as a finite number of states that represent local energetic minima of the lipid compositional landscape. Thanks to their interplay with cell signalling, these configurations then promote the establishment of specific transcriptional programmes and of cell phenotypic states. In addition, the stability of lipid configurations allows them to be maintained over time and thus to propagate phenotypic states across cell generations. To reflect their properties of singularity and heritability, we have referred to these lipid configurations as lipotypes.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sphingolipids Control Dermal Fibroblast Heterogeneity</title>
-      <link>/publication/lipotypes/</link>
-      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/lipotypes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Molecular atlas reveals how brain cells develop</title>
-      <link>/media/mousedevpub/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/media/mousedevpub/</guid>
-      <description></description>
     </item>
     
   </channel>
