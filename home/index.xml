@@ -29,8 +29,8 @@ We formulated the lipotype hypothesis
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>About We are a computational and developmental biology lab focused on understanding the complexities and dynamics of brain development. Our approach combines single-cell and spatial omics technologies with machine learning and Bayesian statistical methods. We develop computational tools like RNA velocity (velocyto, VeloCycle, Pyro-Velocity) that trace the future states of individual cells, predicting developmental trajectories and cellular fate decisions.
-A major focus of our research is spatial lipidomics, exploring lipid heterogeneity at cellular resolution.</description>
+      <description>About How does cellular diversity emerge in the brain? This question drives our research. Our methodological pursuits are directed toward answering it by building a comprehensive model of brain development.
+The name of our lab, the Laboratory of Brain Development and Biological Data Science, captures our belief that confronting the complexity of brain development requires making optimal use of large datasets: developing ways to generate, analyze, and extract meaning from them.</description>
     </item>
     
     <item>

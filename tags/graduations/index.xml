@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>graduations on Gioele La Manno</title>
+    <link>/tags/graduations/</link>
+    <description>Recent content in graduations on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/graduations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Congratulations Dr. Irina Khven!</title>
+      <link>/post/irina_graduation/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/irina_graduation/</guid>
+      <description>We are delighted to announce that Irina Khven has successfully defended her PhD thesis!
+Irina&amp;rsquo;s thesis, &amp;ldquo;Fine-grained mapping of neural progenitors subtypes in the embryonic brain unveils context-dependent roles of signalling on cell fate decisions,&amp;rdquo; represents a major contribution to our understanding of brain development.
+During her PhD in the EDNE program (2019-2025), Irina made fundamental contributions to mapping neural progenitor diversity using spatial transcriptomics and single-cell approaches. Her work has been instrumental in establishing the lab&amp;rsquo;s spatial transcriptomics capabilities and generating some of the most comprehensive datasets on embryonic brain development.</description>
+    </item>
+    
+  </channel>
+</rss>

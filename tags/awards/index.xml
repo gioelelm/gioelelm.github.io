@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/awards/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Highly Cited Researcher 2025</title>
+      <link>/post/highly_cited_2025/</link>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/highly_cited_2025/</guid>
+      <description>We are honored to announce that Gioele La Manno has been recognized as a Highly Cited Researcher for 2025 by Clarivate Analytics.
+For the third consecutive year, this recognition acknowledges the significant influence and impact of our research. This distinction is awarded to roughly 1 in 1,000 researchers globally whose publications are among the most frequently cited, reflecting sustained and broad impact in their field.
+Thank you to all our collaborators, lab members, and the broader research community for their support and engagement with our work.</description>
+    </item>
     
     <item>
       <title>Highly Cited Researcher 2024</title>

@@ -45,16 +45,6 @@ Find the GitHub repo here</description>
     </item>
     
     <item>
-      <title>Pyro-Velocity</title>
-      <link>/software/pyrovelocity/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/software/pyrovelocity/</guid>
-      <description>Pyro-Velocity is a Bayesian, generative, and multivariate RNA Velocity model that estimates uncertainty of cell future states. It models raw sequencing counts with synchronized cell time across all expressed genes to provide quantifiable and improved information on cell fate choices and developmental trajectory dynamics.
-Key features: - Fully Bayesian inference using Pyro - Uncertainty quantification for velocity estimates - End-to-end modeling from raw counts - Statistical confidence for trajectory inference</description>
-    </item>
-    
-    <item>
       <title>velocyto</title>
       <link>/software/velocyto/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>

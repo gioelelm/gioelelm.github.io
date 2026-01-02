@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/grants/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ERC Starting Grant MOVIOLA awarded</title>
+      <link>/post/erc_moviola/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/erc_moviola/</guid>
+      <description>We are thrilled to announce that the La Manno Lab has been awarded a European Research Council (ERC) Starting Grant for the project &amp;ldquo;MOVIOLA: Cell decision capture and control via joint Raman live and omics profiling.&amp;rdquo;
+This 5-year grant (Feb 2026 - Jan 2031, 1.5 million euros) will support our research into understanding the molecular determinants that govern neural cell fate decisions during human brain development.
+The MOVIOLA project introduces a novel experimental paradigm that combines live Raman microscopy with multi-modal molecular profiling to capture cells at the precise moments when fate decisions occur.</description>
+    </item>
     
     <item>
       <title>CZI awards us with a Data Insight grant</title>

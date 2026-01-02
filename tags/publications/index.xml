@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/publications/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lipid Brain Atlas preprint released</title>
+      <link>/post/lipid_brain_atlas/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lipid_brain_atlas/</guid>
+      <description>We are excited to announce the release of our preprint &amp;ldquo;The Lipidomics Architecture of the Mouse Brain&amp;rdquo; on bioRxiv!
+This work represents a major milestone for our lab, presenting the first comprehensive spatial lipidomic atlas of the adult mouse brain. Using high-resolution MALDI mass spectrometry imaging, we mapped 172 membrane lipids across 109 sections and 11 brains, all registered to the Allen Brain Atlas.
+Key findings: - We identified 539 spatially coherent biochemical domains, which we call &amp;ldquo;lipizones&amp;rdquo; - Lipizones capture both neuronal cell bodies and their distal terminals - White matter shows marked regional heterogeneity driven by oligodendrocyte-specific lipids - We discovered that pregnancy induces coordinated lipid remodeling in the cortex and white matter</description>
+    </item>
     
     <item>
       <title>uMAIA published in Nature Methods</title>

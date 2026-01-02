@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lab news on Gioele La Manno</title>
+    <link>/tags/lab-news/</link>
+    <description>Recent content in lab news on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/lab-news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Antonio Herrera appointed Group Leader</title>
+      <link>/post/toni_group_leader/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/toni_group_leader/</guid>
+      <description>We are proud to announce that Dr. Antonio Herrera, a postdoctoral researcher in our lab since 2021, has been awarded a prestigious Ramón y Cajal fellowship!
+Toni will start his own research group at the University of Granada, Spain, in the second half of 2026.
+During his time in the La Manno Lab, Toni has made fundamental contributions to our research program, including developing computational methods for spatial transcriptomics analysis and contributing to multiple high-impact publications.</description>
+    </item>
+    
+  </channel>
+</rss>

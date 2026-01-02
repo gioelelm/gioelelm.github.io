@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>The Lipidomics Architecture of the Mouse Brain</title>
+      <link>/publication/lipidbrainatlas/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lipidbrainatlas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specialized signaling centers direct cell fate and spatial organization in a limb organoid model</title>
+      <link>/publication/limborganoid/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/limborganoid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Unified Mass Imaging Maps the Lipidome of Vertebrate Development</title>
       <link>/publication/umaia/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
@@ -27,6 +45,24 @@
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>/publication/spotiflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Midbrain Dopaminergic Neuron Development is Regulated by Two Molecularly Distinct Subtypes of Radial Glia Cells</title>
+      <link>/publication/midbraindopaminergic/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/midbraindopaminergic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tissue Reassembly with Generative AI</title>
+      <link>/publication/tissuereassembly/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tissuereassembly/</guid>
       <description></description>
     </item>
     
@@ -72,6 +108,15 @@
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>/publication/rpe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clonal relations in the mouse brain revealed by single-cell and spatial transcriptomics</title>
+      <link>/publication/clonalrelations/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/clonalrelations/</guid>
       <description></description>
     </item>
     

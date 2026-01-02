@@ -25,6 +25,76 @@
     </item>
     
     <item>
+      <title>Highly Cited Researcher 2025</title>
+      <link>/post/highly_cited_2025/</link>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/highly_cited_2025/</guid>
+      <description>&lt;p&gt;We are honored to announce that Gioele La Manno has been recognized as a Highly Cited Researcher for 2025 by Clarivate Analytics.&lt;/p&gt;
+
+&lt;p&gt;For the third consecutive year, this recognition acknowledges the significant influence and impact of our research. This distinction is awarded to roughly 1 in 1,000 researchers globally whose publications are among the most frequently cited, reflecting sustained and broad impact in their field.&lt;/p&gt;
+
+&lt;p&gt;Thank you to all our collaborators, lab members, and the broader research community for their support and engagement with our work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lipid Brain Atlas preprint released</title>
+      <link>/post/lipid_brain_atlas/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lipid_brain_atlas/</guid>
+      <description>&lt;p&gt;We are excited to announce the release of our preprint &amp;ldquo;The Lipidomics Architecture of the Mouse Brain&amp;rdquo; on bioRxiv!&lt;/p&gt;
+
+&lt;p&gt;This work represents a major milestone for our lab, presenting the first comprehensive spatial lipidomic atlas of the adult mouse brain. Using high-resolution MALDI mass spectrometry imaging, we mapped 172 membrane lipids across 109 sections and 11 brains, all registered to the Allen Brain Atlas.&lt;/p&gt;
+
+&lt;p&gt;Key findings:
+- We identified 539 spatially coherent biochemical domains, which we call &amp;ldquo;lipizones&amp;rdquo;
+- Lipizones capture both neuronal cell bodies and their distal terminals
+- White matter shows marked regional heterogeneity driven by oligodendrocyte-specific lipids
+- We discovered that pregnancy induces coordinated lipid remodeling in the cortex and white matter&lt;/p&gt;
+
+&lt;p&gt;This atlas establishes lipids as an important and previously unexplored axis of molecular brain architecture. The preprint is currently in revision at Nature.&lt;/p&gt;
+
+&lt;p&gt;Read the preprint: &lt;a href=&#34;https://doi.org/10.1101/2025.10.13.682018&#34; target=&#34;_blank&#34;&gt;bioRxiv&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Lipidomics Architecture of the Mouse Brain</title>
+      <link>/publication/lipidbrainatlas/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lipidbrainatlas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antonio Herrera appointed Group Leader</title>
+      <link>/post/toni_group_leader/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/toni_group_leader/</guid>
+      <description>&lt;p&gt;We are proud to announce that Dr. Antonio Herrera, a postdoctoral researcher in our lab since 2021, has been awarded a prestigious Ramón y Cajal fellowship!&lt;/p&gt;
+
+&lt;p&gt;Toni will start his own research group at the University of Granada, Spain, in the second half of 2026.&lt;/p&gt;
+
+&lt;p&gt;During his time in the La Manno Lab, Toni has made fundamental contributions to our research program, including developing computational methods for spatial transcriptomics analysis and contributing to multiple high-impact publications. His work on deep learning methods for imaging and spatial biology has been particularly impactful.&lt;/p&gt;
+
+&lt;p&gt;We are excited to see Toni establish his own independent research program and look forward to future collaborations. Congratulations Toni!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Specialized signaling centers direct cell fate and spatial organization in a limb organoid model</title>
+      <link>/publication/limborganoid/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/limborganoid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Unified Mass Imaging Maps the Lipidome of Vertebrate Development</title>
       <link>/publication/umaia/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
@@ -34,12 +104,72 @@
     </item>
     
     <item>
+      <title>Congratulations Dr. Irina Khven!</title>
+      <link>/post/irina_graduation/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/irina_graduation/</guid>
+      <description>&lt;p&gt;We are delighted to announce that Irina Khven has successfully defended her PhD thesis!&lt;/p&gt;
+
+&lt;p&gt;Irina&amp;rsquo;s thesis, &amp;ldquo;Fine-grained mapping of neural progenitors subtypes in the embryonic brain unveils context-dependent roles of signalling on cell fate decisions,&amp;rdquo; represents a major contribution to our understanding of brain development.&lt;/p&gt;
+
+&lt;p&gt;During her PhD in the EDNE program (2019-2025), Irina made fundamental contributions to mapping neural progenitor diversity using spatial transcriptomics and single-cell approaches. Her work has been instrumental in establishing the lab&amp;rsquo;s spatial transcriptomics capabilities and generating some of the most comprehensive datasets on embryonic brain development.&lt;/p&gt;
+
+&lt;p&gt;Irina will continue her scientific career as a Postdoctoral researcher at the Institute of Molecular and Clinical Ophthalmology Basel (IOB).&lt;/p&gt;
+
+&lt;p&gt;Congratulations Dr. Khven, and best wishes for your future research!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Spotiflow: accurate and efficient spot detection for fluorescence microscopy with deep stereographic flow regression</title>
       <link>/publication/spotiflow/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>/publication/spotiflow/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Midbrain Dopaminergic Neuron Development is Regulated by Two Molecularly Distinct Subtypes of Radial Glia Cells</title>
+      <link>/publication/midbraindopaminergic/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/midbraindopaminergic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tissue Reassembly with Generative AI</title>
+      <link>/publication/tissuereassembly/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tissuereassembly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ERC Starting Grant MOVIOLA awarded</title>
+      <link>/post/erc_moviola/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/erc_moviola/</guid>
+      <description>&lt;p&gt;We are thrilled to announce that the La Manno Lab has been awarded a European Research Council (ERC) Starting Grant for the project &amp;ldquo;MOVIOLA: Cell decision capture and control via joint Raman live and omics profiling.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;This 5-year grant (Feb 2026 - Jan 2031, 1.5 million euros) will support our research into understanding the molecular determinants that govern neural cell fate decisions during human brain development.&lt;/p&gt;
+
+&lt;p&gt;The MOVIOLA project introduces a novel experimental paradigm that combines live Raman microscopy with multi-modal molecular profiling to capture cells at the precise moments when fate decisions occur. We will develop the &amp;ldquo;Rewind, Halt &amp;amp; Edit&amp;rdquo; methodology, which enables:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Retrospective identification of decision points through continuous cellular monitoring&lt;/li&gt;
+&lt;li&gt;Targeted profiling at critical moments&lt;/li&gt;
+&lt;li&gt;Temporal manipulation of decision factors&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Using human induced pluripotent stem cell-derived neural systems, we aim to identify the specific molecular factors—including transcription cascades, signaling pathways, metabolic states, and lipid compositions—that drive individual fate choices.&lt;/p&gt;
+
+&lt;p&gt;The ERC Starting Grant is one of the most prestigious and competitive funding schemes for early-career researchers in Europe, and we are grateful for this opportunity to advance our research program.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -89,145 +219,6 @@
 &lt;p&gt;Halima joined as a PhD student in 2020 and completed her thesis jointly supervised with Prof. D&amp;rsquo;Angelo. Her research focused on computational approaches for spatialomics data: construction, integration, and analysis of biomolecular atlases. She developed Tomographer and made key contributions to the Lipid Brain Atlas project.&lt;/p&gt;
 
 &lt;p&gt;Halima has accepted a position as Lead Data Scientist at Implexis Ltd in London. Congratulations and best wishes for your future career!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Evangelia Skoufa</title>
-      <link>/people/evangeliaskoufa/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/people/evangeliaskoufa/</guid>
-      <description>
-
-&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
-
-&lt;p&gt;I am the lab technician for the La Manno Lab at EPFL, supporting the team with experimental work and laboratory operations.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Laura Lapeña Gil</title>
-      <link>/people/lauralapena/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/people/lauralapena/</guid>
-      <description>
-
-&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
-
-&lt;p&gt;I am a PhD student in the Neuroscience Program (EDNE) at EPFL, working in the La Manno Lab.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Spotiflow</title>
-      <link>/software/spotiflow/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/software/spotiflow/</guid>
-      <description>&lt;p&gt;Spotiflow is a deep learning method for subpixel-accurate spot detection in fluorescence microscopy images. It formulates spot detection as a multiscale heatmap and stereographic flow regression problem, achieving state-of-the-art performance on diverse datasets while being robust to different noise conditions.&lt;/p&gt;
-
-&lt;p&gt;Key features:
-- Subpixel-accurate 2D and 3D spot detection
-- Optimized for spatial transcriptomics workflows
-- Robust to low signal-to-noise ratio images
-- Available as Python library and napari plugin&lt;/p&gt;
-
-&lt;p&gt;Find the GitHub repo &lt;a href=&#34;https://github.com/weigertlab/spotiflow&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>uMAIA</title>
-      <link>/software/umaia/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/software/umaia/</guid>
-      <description>&lt;p&gt;uMAIA (unified Mass Imaging Analyzer) is an analytical framework for the joint analysis of large mass spectrometry imaging (MSI) datasets. It enables the construction of multidimensional metabolomic atlases by extracting, aligning, and normalizing data into coherent, accurate maps.&lt;/p&gt;
-
-&lt;p&gt;Key features:
-- Joint analysis of large MSI datasets
-- Spatial lipidomics clustering and imputation
-- Differential analysis tools
-- 4D lipid mapping across developmental stages&lt;/p&gt;
-
-&lt;p&gt;Find the GitHub repo &lt;a href=&#34;https://github.com/lamanno-epfl/uMAIA&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Highly Cited Researcher 2024</title>
-      <link>/post/highly_cited_2024/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/post/highly_cited_2024/</guid>
-      <description>&lt;p&gt;We are honored to announce that Gioele La Manno has been recognized as a Highly Cited Researcher for 2024 by Clarivate Analytics.&lt;/p&gt;
-
-&lt;p&gt;For the second consecutive year, this recognition acknowledges the significant influence and impact of our research in single-cell genomics, RNA velocity methods, and computational biology for understanding developmental processes.&lt;/p&gt;
-
-&lt;p&gt;Thank you to all our collaborators and the broader research community for their support and engagement with our work.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Statistical inference with a manifold-constrained RNA velocity model uncovers cell cycle speed modulations</title>
-      <link>/publication/velocycle/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/velocycle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VeloCycle</title>
-      <link>/software/velocycle/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/software/velocycle/</guid>
-      <description>&lt;p&gt;VeloCycle is a Bayesian model of RNA velocity that couples velocity field and manifold estimation in a unified framework, enabling formal statistical testing of gene expression dynamics. It fits an inferentially coherent model directly on raw data, eliminating heuristics that dominate current scRNA analyses.&lt;/p&gt;
-
-&lt;p&gt;Key features:
-- Formal statistical testing of dynamics
-- End-to-end Bayesian inference
-- Cell cycle speed quantification
-- Manifold-constrained velocity estimation&lt;/p&gt;
-
-&lt;p&gt;Find the GitHub repo &lt;a href=&#34;https://github.com/lamanno-epfl/velocycle&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>VeloCycle published in Nature Methods</title>
-      <link>/post/velocycle_natmethods/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/post/velocycle_natmethods/</guid>
-      <description>&lt;p&gt;We are excited to announce the publication of VeloCycle in Nature Methods.&lt;/p&gt;
-
-&lt;p&gt;VeloCycle is a Bayesian model of RNA velocity that couples velocity field and manifold estimation in a unified framework, enabling formal statistical testing of gene expression dynamics. It fits an inferentially coherent model directly on raw data, eliminating heuristics that dominate current scRNA analyses.&lt;/p&gt;
-
-&lt;p&gt;Key features include:
-- Formal statistical testing of dynamics
-- End-to-end Bayesian inference
-- Cell cycle speed quantification
-- Manifold-constrained velocity estimation&lt;/p&gt;
-
-&lt;p&gt;This work represents a major advance in making RNA velocity analysis statistically rigorous and interpretable. Find the code at &lt;a href=&#34;https://github.com/lamanno-epfl/velocycle&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Congratulations Dr. Alex Lederer!</title>
-      <link>/post/alex_graduation/</link>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/post/alex_graduation/</guid>
-      <description>&lt;p&gt;We are thrilled to celebrate Alex Lederer&amp;rsquo;s successful PhD defense!&lt;/p&gt;
-
-&lt;p&gt;Alex joined the lab as a PhD student in the Computational and Quantitative Biology program (EDCB) in 2019. His research focused on deciphering the nature of cell state transitions in single cells using quantitative modeling of temporal dynamics. His work contributed to major advances in RNA velocity methods, including developments in VeloCycle.&lt;/p&gt;
-
-&lt;p&gt;Alex has now moved on to become a Senior Data Scientist at CHUV. We wish him all the best in his new role!&lt;/p&gt;
 </description>
     </item>
     
