@@ -43,6 +43,42 @@
     </item>
     
     <item>
+      <title>uMAIA published in Nature Methods</title>
+      <link>/post/umaia_natmethods/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/umaia_natmethods/</guid>
+      <description>&lt;p&gt;We are excited to announce the publication of our work on uMAIA (unified Mass Imaging Analyzer) in Nature Methods.&lt;/p&gt;
+
+&lt;p&gt;uMAIA is an analytical framework for the joint analysis of large mass spectrometry imaging datasets. It enables the construction of multidimensional metabolomic atlases by extracting, aligning, and normalizing data into coherent, accurate maps. We applied this framework to study developmental lipidomics, creating detailed 4D lipid maps across embryonic stages.&lt;/p&gt;
+
+&lt;p&gt;This work represents a significant step forward in our understanding of how lipid diversity contributes to brain development and cellular identity.&lt;/p&gt;
+
+&lt;p&gt;Find the code at &lt;a href=&#34;https://github.com/lamanno-epfl/uMAIA&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spotiflow published in Nature Methods</title>
+      <link>/post/spotiflow_natmethods/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/spotiflow_natmethods/</guid>
+      <description>&lt;p&gt;We are pleased to announce the publication of Spotiflow in Nature Methods.&lt;/p&gt;
+
+&lt;p&gt;Spotiflow is a deep learning method for subpixel-accurate spot detection in fluorescence microscopy images. The method formulates spot detection as a multiscale heatmap and stereographic flow regression problem, achieving state-of-the-art performance on diverse datasets while being robust to different noise conditions.&lt;/p&gt;
+
+&lt;p&gt;Key features include:
+- Subpixel-accurate 2D and 3D spot detection
+- Optimized for spatial transcriptomics workflows
+- Robust to low signal-to-noise ratio images
+- Available as Python library and napari plugin&lt;/p&gt;
+
+&lt;p&gt;This is a collaborative work with the Weigert Lab. Find the code at &lt;a href=&#34;https://github.com/weigertlab/spotiflow&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Evangelia Skoufa</title>
       <link>/people/evangeliaskoufa/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -134,6 +170,26 @@
     </item>
     
     <item>
+      <title>VeloCycle published in Nature Methods</title>
+      <link>/post/velocycle_natmethods/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/velocycle_natmethods/</guid>
+      <description>&lt;p&gt;We are excited to announce the publication of VeloCycle in Nature Methods.&lt;/p&gt;
+
+&lt;p&gt;VeloCycle is a Bayesian model of RNA velocity that couples velocity field and manifold estimation in a unified framework, enabling formal statistical testing of gene expression dynamics. It fits an inferentially coherent model directly on raw data, eliminating heuristics that dominate current scRNA analyses.&lt;/p&gt;
+
+&lt;p&gt;Key features include:
+- Formal statistical testing of dynamics
+- End-to-end Bayesian inference
+- Cell cycle speed quantification
+- Manifold-constrained velocity estimation&lt;/p&gt;
+
+&lt;p&gt;This work represents a major advance in making RNA velocity analysis statistically rigorous and interpretable. Find the code at &lt;a href=&#34;https://github.com/lamanno-epfl/velocycle&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Alireza Gargoorimothlag</title>
       <link>/people/alirezagargoorimothlag/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
@@ -172,39 +228,6 @@
 &lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
 
 &lt;p&gt;I am a PhD student in the Biotechnology and Bioengineering Program (EDBB) at EPFL, working in the La Manno Lab.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome Luca and Alessandro!</title>
-      <link>/post/lucaale_join/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/lucaale_join/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;/people/lucafusar/&#34; target=&#34;_self&#34; &gt;Luca Fusar Bassini&lt;/a&gt; and &lt;a href=&#34;/people/alessandrovalente/&#34; target=&#34;_self&#34;&gt;Alessandro Valente&lt;/a&gt; join the lab for their PhD. Luca is a Biologist with a keen interest in developing computational methods to distill biological insight out of data, Alessandro is Biotechnologist with excellent experience in stem cell engineering and brain organoid models. They are both going to work on the lipidome-transcriptome axis in neurulation. Welcome Luca and Alessandro!.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Gioele is appointed Tenure Track Assistant Professor</title>
-      <link>/media/appointment/</link>
-      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/media/appointment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Luca Fusar Bassini</title>
-      <link>/people/lucafusar/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/people/lucafusar/</guid>
-      <description>
-
-&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
-
-&lt;p&gt;I am an happy PhD student&lt;/p&gt;
 </description>
     </item>
     

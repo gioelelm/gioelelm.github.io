@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>publications on Gioele La Manno</title>
+    <link>/tags/publications/</link>
+    <description>Recent content in publications on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>uMAIA published in Nature Methods</title>
+      <link>/post/umaia_natmethods/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/umaia_natmethods/</guid>
+      <description>We are excited to announce the publication of our work on uMAIA (unified Mass Imaging Analyzer) in Nature Methods.
+uMAIA is an analytical framework for the joint analysis of large mass spectrometry imaging datasets. It enables the construction of multidimensional metabolomic atlases by extracting, aligning, and normalizing data into coherent, accurate maps. We applied this framework to study developmental lipidomics, creating detailed 4D lipid maps across embryonic stages.
+This work represents a significant step forward in our understanding of how lipid diversity contributes to brain development and cellular identity.</description>
+    </item>
+    
+    <item>
+      <title>Spotiflow published in Nature Methods</title>
+      <link>/post/spotiflow_natmethods/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/spotiflow_natmethods/</guid>
+      <description>We are pleased to announce the publication of Spotiflow in Nature Methods.
+Spotiflow is a deep learning method for subpixel-accurate spot detection in fluorescence microscopy images. The method formulates spot detection as a multiscale heatmap and stereographic flow regression problem, achieving state-of-the-art performance on diverse datasets while being robust to different noise conditions.
+Key features include: - Subpixel-accurate 2D and 3D spot detection - Optimized for spatial transcriptomics workflows - Robust to low signal-to-noise ratio images - Available as Python library and napari plugin</description>
+    </item>
+    
+    <item>
+      <title>VeloCycle published in Nature Methods</title>
+      <link>/post/velocycle_natmethods/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/velocycle_natmethods/</guid>
+      <description>We are excited to announce the publication of VeloCycle in Nature Methods.
+VeloCycle is a Bayesian model of RNA velocity that couples velocity field and manifold estimation in a unified framework, enabling formal statistical testing of gene expression dynamics. It fits an inferentially coherent model directly on raw data, eliminating heuristics that dominate current scRNA analyses.
+Key features include: - Formal statistical testing of dynamics - End-to-end Bayesian inference - Cell cycle speed quantification - Manifold-constrained velocity estimation</description>
+    </item>
+    
+  </channel>
+</rss>
