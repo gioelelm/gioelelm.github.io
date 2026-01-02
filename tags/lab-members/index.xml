@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lab members on Gioele La Manno</title>
+    <link>/tags/lab-members/</link>
+    <description>Recent content in lab members on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/lab-members/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Congratulations Dr. Halima Hannah Schede!</title>
+      <link>/post/halima_graduation/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/halima_graduation/</guid>
+      <description>We are delighted to announce that Halima Hannah Schede has successfully defended her PhD thesis!
+Halima joined as a PhD student in 2020 and completed her thesis jointly supervised with Prof. D&amp;rsquo;Angelo. Her research focused on computational approaches for spatialomics data: construction, integration, and analysis of biomolecular atlases. She developed Tomographer and made key contributions to the Lipid Brain Atlas project.
+Halima has accepted a position as Lead Data Scientist at Implexis Ltd in London.</description>
+    </item>
+    
+    <item>
+      <title>Congratulations Dr. Alex Lederer!</title>
+      <link>/post/alex_graduation/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/alex_graduation/</guid>
+      <description>We are thrilled to celebrate Alex Lederer&amp;rsquo;s successful PhD defense!
+Alex joined the lab as a PhD student in the Computational and Quantitative Biology program (EDCB) in 2019. His research focused on deciphering the nature of cell state transitions in single cells using quantitative modeling of temporal dynamics. His work contributed to major advances in RNA velocity methods, including developments in VeloCycle.
+Alex has now moved on to become a Senior Data Scientist at CHUV.</description>
+    </item>
+    
+  </channel>
+</rss>
