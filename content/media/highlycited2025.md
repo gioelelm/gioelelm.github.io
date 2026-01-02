@@ -16,7 +16,7 @@ image_preview = ""
 tags = ["awards"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://actu.epfl.ch/news/four-epfl-professors-among-clarivate-s-highly-ci-3/"
+external_link = "https://clarivate.com/highly-cited-researchers/"
 
 # Does the project detail page use math formatting?
 math = false
