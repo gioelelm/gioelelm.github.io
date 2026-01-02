@@ -1,12 +1,12 @@
 +++
 # Date this page was created.
-date = "2024-11-19"
+date = "2025-11-18"
 
 # Project title.
-title = "Highly Cited Researcher 2024"
+title = "Highly Cited Researcher 2025"
 
 # Project summary to display on homepage.
-summary = "Gioele La Manno was included in Clarivate's 2024 Highly Cited Researchers list, recognizing his innovative work in single-cell transcriptomics and brain development. At 34 years old, he is one of the youngest researchers on the list."
+summary = "Gioele La Manno was included in Clarivate's 2025 Highly Cited Researchers list for the second consecutive year, recognizing his continued impact in single-cell transcriptomics and brain development research."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
