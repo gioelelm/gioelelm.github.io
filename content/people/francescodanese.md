@@ -1,20 +1,22 @@
 +++
 # Date this page was created.
-date = "2018-03-02"
+date = "2025-01-01"
 
 # Project title.
-title = "Master Students"
+title = "Francesco Danese"
 
 # Project summary to display on homepage.
-summary = "Current thesis students"
+summary = "Master Student"
+summary_link = ''
+summary2 = "Visiting from Italy"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "people/alumni_square.jpg"
-image = "people/alumni_square.jpg"
+image_preview = "people/francesco_square.jpg"
+image = "people/francesco_circled.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Alumni"]
+tags = ["Masters"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "#about"
@@ -23,20 +25,27 @@ tags = ["Alumni"]
 math = false
 
 # List your qualifications (such as academic degrees).
+
+[interests]
+  interests = ["Machine Learning",
+    "Computational Biology",
+    "Data Science",
+  ]
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = ""
 caption = ""
 
+
 [[social]]
 icon = "envelope"
 icon_pack = "fa"
-link = "mailto:gioele.lamanno@epfl.ch"
+link = "mailto:francesco.danese@epfl.ch"
+
 
 +++
 
-# Current Master Students
+# Blurb
 
-- **Zeineb Mellouli** - EPFL Life Sciences Engineering
-- **Lothar Bezzon** - Master Student
+I am a visiting master student from Italy working in the La Manno Lab at EPFL.
