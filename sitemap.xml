@@ -32,6 +32,15 @@
     
     <url>
     
+      <loc>/post/lipid_brain_atlas/</loc>
+      <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/lipidbrainatlas/</loc>
       <lastmod>2025-10-13T00:00:00+00:00</lastmod>
     </url>
@@ -864,6 +873,16 @@
     
     <url>
     
+      <loc>/tags/brain-atlas/</loc>
+      <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/czi/</loc>
       <lastmod>2019-06-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -963,6 +982,16 @@
     
     <url>
     
+      <loc>/tags/lipidomics/</loc>
+      <lastmod>2025-10-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/masters/</loc>
       <lastmod>2025-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -995,6 +1024,16 @@
     
       <loc>/tags/phd-student/</loc>
       <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/publication/</loc>
+      <lastmod>2025-10-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

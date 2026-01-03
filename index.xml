@@ -43,6 +43,55 @@
     </item>
     
     <item>
+      <title>Lipid Brain Atlas Released</title>
+      <link>/post/lipid_brain_atlas/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lipid_brain_atlas/</guid>
+      <description>
+
+&lt;p&gt;We are excited to announce the release of the &lt;strong&gt;Lipid Brain Atlas&lt;/strong&gt; - a high-resolution mapping of membrane lipids in the mouse brain!&lt;/p&gt;
+
+&lt;p&gt;This work, led by &lt;a href=&#34;/people/lucafusar/&#34;&gt;Luca Fusar Bassini&lt;/a&gt; in collaboration with Giovanni D&amp;rsquo;Angelo&amp;rsquo;s lab, reveals that &lt;strong&gt;lipids act as zip codes for fine-grained brain anatomy&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;key-discoveries&#34;&gt;Key Discoveries&lt;/h2&gt;
+
+&lt;h3 id=&#34;lipizones-a-new-way-to-map-the-brain&#34;&gt;Lipizones: A New Way to Map the Brain&lt;/h3&gt;
+
+&lt;p&gt;We discovered &lt;strong&gt;lipizones&lt;/strong&gt; - brain territories defined purely by lipid composition, without any anatomical assumptions. Remarkably, lipid profiles alone can predict 3D brain tissue coordinates with high accuracy.&lt;/p&gt;
+
+&lt;h3 id=&#34;oligodendrocyte-heterogeneity&#34;&gt;Oligodendrocyte Heterogeneity&lt;/h3&gt;
+
+&lt;p&gt;We found striking lipid heterogeneity among oligodendrocytes in the corpus callosum, suggesting that these cells are far more diverse than previously appreciated.&lt;/p&gt;
+
+&lt;h3 id=&#34;connecting-cell-bodies-to-axon-terminals&#34;&gt;Connecting Cell Bodies to Axon Terminals&lt;/h3&gt;
+
+&lt;p&gt;Lipid signatures can connect cell bodies to their distant axon terminals, opening new ways to study brain connectivity through biochemistry.&lt;/p&gt;
+
+&lt;h3 id=&#34;ventricular-system-zonation&#34;&gt;Ventricular System Zonation&lt;/h3&gt;
+
+&lt;p&gt;We uncovered biochemical zonation patterns in the choroid plexus and ventricular linings, regions critical for cerebrospinal fluid production.&lt;/p&gt;
+
+&lt;h3 id=&#34;pregnancy-and-sex-differences&#34;&gt;Pregnancy and Sex Differences&lt;/h3&gt;
+
+&lt;p&gt;Perhaps most surprisingly, pregnancy triggers coordinated membrane adaptations across brain regions. We also found sex differences in white matter sphingolipids that amplify during pregnancy.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-this-matters&#34;&gt;Why This Matters&lt;/h2&gt;
+
+&lt;p&gt;The atlas enables tracking how disease, aging, diet, and medications reshape brain lipid composition at the cellular level. This opens new avenues for understanding:
+- Cell-type specific metabolism
+- Developmental history encoded in membranes
+- Connectivity patterns revealed through lipid fingerprints&lt;/p&gt;
+
+&lt;h2 id=&#34;explore-the-atlas&#34;&gt;Explore the Atlas&lt;/h2&gt;
+
+&lt;p&gt;The interactive atlas is available at: &lt;strong&gt;&lt;a href=&#34;https://lbae-v2.epfl.ch/&#34; target=&#34;_blank&#34;&gt;lbae-v2.epfl.ch&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Read the full preprint on &lt;a href=&#34;https://doi.org/10.1101/2025.10.13.682018&#34; target=&#34;_blank&#34;&gt;bioRxiv&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Lipidomics Architecture of the Mouse Brain</title>
       <link>/publication/lipidbrainatlas/</link>
       <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
@@ -155,24 +204,6 @@
       
       <guid>/publication/tissuereassembly/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Welcome Laura, Evangelia, and Lada!</title>
-      <link>/post/2025_cohort_joins/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2025_cohort_joins/</guid>
-      <description>&lt;p&gt;We are thrilled to welcome three new members to the La Manno Lab!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/people/lauralapena/&#34; target=&#34;_self&#34;&gt;Laura Lapeña Gil&lt;/a&gt; joins us as a PhD student in the Neuroscience Program (EDNE) to work on brain development research.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/people/evangeliaskoufa/&#34; target=&#34;_self&#34;&gt;Evangelia Skoufa&lt;/a&gt; joins as our lab technician, supporting the team with experimental work and laboratory operations including spatial transcriptomics.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/people/ladapolyakova/&#34; target=&#34;_self&#34;&gt;Lada Polyakova&lt;/a&gt; joins as a PhD student in the Computational and Quantitative Biology Program (EDCB) to work on computational biology and machine learning approaches.&lt;/p&gt;
-
-&lt;p&gt;Welcome Laura, Evangelia, and Lada!&lt;/p&gt;
-</description>
     </item>
     
   </channel>
