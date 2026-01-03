@@ -7,7 +7,7 @@ math = false
 summary = """We released the first comprehensive lipidomic atlas of the adult mouse brain, mapping 172 membrane lipids and identifying 539 spatially coherent biochemical domains we call "lipizones"."""
 
 [header]
-image = "headers/lipidbrainatlas.webp"
+image = "headers/lipidbrainatlas.jpg"
 caption = "Mouse brain lipid segmentation using MALDI-MSI"
 +++
 

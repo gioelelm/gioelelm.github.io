@@ -33,7 +33,7 @@ abstract = "We present the first comprehensive lipidomic atlas of the adult mous
 abstract_short = "The first comprehensive lipidomic atlas of the adult mouse brain, mapping 172 membrane lipids and identifying 539 spatially coherent biochemical domains (lipizones)."
 
 # Featured image thumbnail (optional)
-image_preview = "headers/lipidbrainatlas.webp"
+image_preview = "headers/lipidbrainatlas.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -59,7 +59,7 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/lipidbrainatlas.webp"
+image = "headers/lipidbrainatlas.jpg"
 caption = "Mouse brain lipid segmentation using MALDI-MSI"
 
 +++
