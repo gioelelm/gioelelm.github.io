@@ -8,7 +8,7 @@ title = "Antonio Herrera Camacho"
 # Project summary to display on homepage.
 summary = "Postdoctoral Researcher"
 summary_link = ''
-summary2 = "EDCB PhD Program"
+summary2 = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "people/toni_square.jpg"
@@ -16,7 +16,7 @@ image = "people/toni_circled.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Masters"]
+tags = ["Postdoc"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "#about"
