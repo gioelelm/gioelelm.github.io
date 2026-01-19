@@ -63,4 +63,4 @@ link = "mailto:luca.fusarbassini@epfl.ch"
  
 # Blurb
  
- I am an happy PhD student
+ I am a happy PhD student

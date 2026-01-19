@@ -33,7 +33,7 @@ math = false
 
 [interests]
   interests = ["Bioinformatics",
-    "Machine Lerning",
+    "Machine Learning",
     "Computer Vision",
     "PyTorch and TensorFlow",
     "Deep learning",
