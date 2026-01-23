@@ -58,12 +58,39 @@
     </item>
     
     <item>
+      <title>Luca Fusar Bassini</title>
+      <link>/people/lucafusar/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/people/lucafusar/</guid>
+      <description>Blurb I am a PhD student in Computational Biology at EPFL under Prof. Gioele La Manno, focusing on multiomics and dynamic modeling in neurodevelopment to advance our understanding of neurodevelopmental disorders. My background includes quantitative training at Scuola Normale di Pisa and rare disease research at Boston Children&amp;rsquo;s Hospital. Passionate about the intersection of bio and AI, I also host podcasts, write for Wired Italia, and engage in science dissemination through LauzHack and Lead The Future.</description>
+    </item>
+    
+    <item>
+      <title>Alessandro Valente</title>
+      <link>/people/alessandrovalente/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/people/alessandrovalente/</guid>
+      <description>Blurb I am a PhD student in the Neuroscience Program (EDNE) in the La Manno Lab. I have a strong interest in the applications of statistical models and data analysis to the health sciences. After completing my M.Sc. in Biotechnology and Bioengineering at the University of Milan, during which I completed an internship in the La Manno Lab, I returned to the lab full time as a PhD student.</description>
+    </item>
+    
+    <item>
       <title>Rosan Hans</title>
       <link>/people/rosanhans/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>/people/rosanhans/</guid>
       <description>Blurb I am an Industrial PhD student in the Biotechnology and Bioengineering Program (EDBB) at EPFL, working jointly with the La Manno Lab and Roche IHB, supervised by Dr. Giuliana Rossi.</description>
+    </item>
+    
+    <item>
+      <title>Albert Dominguez Mantes</title>
+      <link>/people/albertmantes/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/people/albertmantes/</guid>
+      <description>Blurb I am a joint PhD student in the Computational and Quantitative Biology Program (EDCB) between the La Manno and the Weigert Lab. I have a strong interest in the applications of statistical models and data analysis to the health sciences.</description>
     </item>
     
   </channel>

@@ -21,41 +21,5 @@
       <description>Blurb I am a visiting master student from Italy working in the La Manno Lab at EPFL.</description>
     </item>
     
-    <item>
-      <title>Luca Fusar Bassini</title>
-      <link>/people/lucafusar/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/people/lucafusar/</guid>
-      <description>Blurb I am a PhD student in Computational Biology at EPFL under Prof. Gioele La Manno, focusing on multiomics and dynamic modeling in neurodevelopment to advance our understanding of neurodevelopmental disorders. My background includes quantitative training at Scuola Normale di Pisa and rare disease research at Boston Children&amp;rsquo;s Hospital. Passionate about the intersection of bio and AI, I also host podcasts, write for Wired Italia, and engage in science dissemination through LauzHack and Lead The Future.</description>
-    </item>
-    
-    <item>
-      <title>Alessandro Valente</title>
-      <link>/people/alessandrovalente/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/people/alessandrovalente/</guid>
-      <description>Blurb I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and D&amp;rsquo;Angelo Labs. I have a strong interest in the applications of statistical models and data analysis to the health sciences. After completing my Bachelor&amp;rsquo;s degree in McGill University, Canada in Biology and Mathematics and my M. Eng in Bioengineering at EPFL, during which I completed an internship in the La Manno Lab, I returned to the lab full time as a PhD student.</description>
-    </item>
-    
-    <item>
-      <title>Albert Dominguez Mantes</title>
-      <link>/people/albertmantes/</link>
-      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/people/albertmantes/</guid>
-      <description>Blurb I am a joint PhD student in the Computational and Quantitative Biology Program (EDCB) between the La Manno and the Weigert Lab. I have a strong interest in the applications of statistical models and data analysis to the health sciences.</description>
-    </item>
-    
-    <item>
-      <title>Antonio Herrera Camacho</title>
-      <link>/people/antonioherrera/</link>
-      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/people/antonioherrera/</guid>
-      <description>Blurb I am a developmental biologist with over 15 years of experience studying the molecular mechanisms that govern brain development. I earned my degree in Pharmacy from the University of Granada in 2008 and completed my PhD at the University of Barcelona in 2015, where I investigated how oncogenic mutations disrupt neural tube development using the chick embryo model. Following my first postdoctoral training at IBMB-CSIC in Barcelona, where I studied the role of β-catenin in spinal cord development, I joined EPFL in Prof.</description>
-    </item>
-    
   </channel>
 </rss>

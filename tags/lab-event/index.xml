@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lab-event on Gioele La Manno</title>
+    <link>/tags/lab-event/</link>
+    <description>Recent content in lab-event on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/lab-event/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example Lab Event</title>
+      <link>/lablife/example/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/lablife/example/</guid>
+      <description>This is an example lab life entry. You can add more details here about the event, activity, or moment captured in the photo.
+To add more lab life entries:
+ Copy this file and rename it (e.g., lablife/team-retreat-2025.md) Update the date, title, and summary Add your image to static/img/lablife/ Update image_preview and header.image to point to your image Write a description in the content area below the +++ markers  Each entry will appear as a card in the Lab Life section with the image and short description.</description>
+    </item>
+    
+  </channel>
+</rss>

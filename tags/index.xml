@@ -175,6 +175,15 @@
     </item>
     
     <item>
+      <title>Postdoc</title>
+      <link>/tags/postdoc/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/postdoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Publication</title>
       <link>/tags/publication/</link>
       <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
@@ -333,6 +342,15 @@
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/lab-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lab-event</title>
+      <link>/tags/lab-event/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lab-event/</guid>
       <description></description>
     </item>
     

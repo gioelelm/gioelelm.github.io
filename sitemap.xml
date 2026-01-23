@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/lablife/example/</loc>
+      <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/people/ladapolyakova/</loc>
       <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -973,6 +982,16 @@
     
     <url>
     
+      <loc>/lablife/</loc>
+      <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/lipidomics/</loc>
       <lastmod>2025-10-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -1015,6 +1034,16 @@
     
       <loc>/tags/phd-student/</loc>
       <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/postdoc/</loc>
+      <lastmod>2021-06-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1215,6 +1244,16 @@
     
       <loc>/tags/lab-news/</loc>
       <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/lab-event/</loc>
+      <lastmod>2026-01-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
