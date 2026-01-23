@@ -10,6 +10,13 @@
   <div class="col-xs-12 col-md-8">
     {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
 
+    <!-- Team Group Picture -->
+    <div class="row">
+      <div class="col-xs-12 text-center" style="margin-bottom: 30px;">
+        <img src="{{ "/img/group_picture.jpg" | relURL }}" alt="Team Group Picture" class="img-responsive" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      </div>
+    </div>
+
     {{ $filter_default := default (int $page.Params.filter_default) 0 }}
     {{ with $page.Params.filter }}
     <span class="hidden default-project-filter">{{ (index $page.Params.filter ($filter_default)).tag }}</span>
