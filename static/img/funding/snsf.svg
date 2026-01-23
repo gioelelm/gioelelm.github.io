@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150">
+  <rect width="400" height="150" fill="#E30613"/>
+  <rect x="185" y="30" width="30" height="90" fill="#FFFFFF"/>
+  <rect x="170" y="65" width="60" height="20" fill="#FFFFFF"/>
+  <text x="200" y="135" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">SNSF</text>
+</svg>

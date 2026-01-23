@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150">
+  <rect width="400" height="150" fill="#FFFFFF"/>
+  <path d="M 150 40 L 250 40 L 260 50 L 260 100 L 250 110 L 150 110 L 140 100 L 140 50 Z" fill="#0066B3" opacity="0.2"/>
+  <text x="200" y="90" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#0066B3" text-anchor="middle">Roche</text>
+</svg>

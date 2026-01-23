@@ -17,37 +17,37 @@ weight = 8
 
     <div style="flex: 0 1 200px;">
       <a href="https://erc.europa.eu/" target="_blank">
-        <img src="/img/funding/erc.png" alt="European Research Council" style="max-width: 100%; height: auto;">
+        <img src="/img/funding/erc.svg" alt="European Research Council" style="max-width: 100%; height: auto;">
       </a>
     </div>
 
     <div style="flex: 0 1 200px;">
       <a href="http://www.snf.ch/" target="_blank">
-        <img src="/img/funding/snsf.png" alt="Swiss National Science Foundation" style="max-width: 100%; height: auto;">
+        <img src="/img/funding/snsf.svg" alt="Swiss National Science Foundation" style="max-width: 100%; height: auto;">
       </a>
     </div>
 
     <div style="flex: 0 1 200px;">
       <a href="https://www.zeiss.com/" target="_blank">
-        <img src="/img/funding/zeiss.png" alt="Zeiss" style="max-width: 100%; height: auto;">
+        <img src="/img/funding/zeiss.svg" alt="Zeiss" style="max-width: 100%; height: auto;">
       </a>
     </div>
 
     <div style="flex: 0 1 200px;">
       <a href="https://www.roche.com/" target="_blank">
-        <img src="/img/funding/roche.png" alt="Roche IHB" style="max-width: 100%; height: auto;">
+        <img src="/img/funding/roche.svg" alt="Roche IHB" style="max-width: 100%; height: auto;">
       </a>
     </div>
 
     <div style="flex: 0 1 200px;">
       <a href="https://www.novartis.com/" target="_blank">
-        <img src="/img/funding/novartis.png" alt="Novartis" style="max-width: 100%; height: auto;">
+        <img src="/img/funding/novartis.svg" alt="Novartis" style="max-width: 100%; height: auto;">
       </a>
     </div>
 
     <div style="flex: 0 1 200px;">
       <a href="https://www.boehringer-ingelheim.com/" target="_blank">
-        <img src="/img/funding/boehringer.png" alt="Boehringer Ingelheim" style="max-width: 100%; height: auto;">
+        <img src="/img/funding/boehringer.svg" alt="Boehringer Ingelheim" style="max-width: 100%; height: auto;">
       </a>
     </div>
 
