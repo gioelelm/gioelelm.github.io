@@ -298,9 +298,19 @@ defaultContentLanguageInSubdir = false
   weight = 6
 
 [[menu.main]]
+  name = "Funding"
+  url = "#funding"
+  weight = 7
+
+[[menu.main]]
+  name = "Lab Life"
+  url = "#lablife"
+  weight = 8
+
+[[menu.main]]
   name = "Join us/Projects"
   url = "people/openposition1/"
-  weight = 7
+  weight = 9
 
 #[[menu.main]]
 #  name = "CV"
