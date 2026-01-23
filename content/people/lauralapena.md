@@ -25,6 +25,16 @@ tags = ["PhD Student"]
 math = false
 
 # List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "M.Sc. Medical Biology"
+  institution = "University of Lausanne"
+  year = 2025
+
+[[education.courses]]
+  course = "BSc in Biotechnology"
+  institution = "Polytechnic University of Madrid"
+  year = 2023
+
 
 [interests]
   interests = ["Neuroscience",
