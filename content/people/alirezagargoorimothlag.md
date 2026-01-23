@@ -8,7 +8,7 @@ title = "Alireza Gargoorimothlag"
 # Project summary to display on homepage.
 summary = "Doctoral Student"
 summary_link = ''
-summary2 = "EDNE PhD Program"
+summary2 = "EDCB PhD Program"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "people/alireza_square.jpg"
@@ -27,10 +27,11 @@ math = false
 # List your qualifications (such as academic degrees).
 
 [interests]
-  interests = ["Brain Development",
+  interests = ["Machine Learning",
+    "Representation Learning",
     "Computational Biology",
-    "Machine Learning",
-    "Spatial Transcriptomics",
+    "Single-cell and Spatial Omics",
+    "Brain Development",
   ]
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -42,11 +43,11 @@ caption = ""
 [[social]]
 icon = "envelope"
 icon_pack = "fa"
-link = "mailto:alireza.gargoorimothlag@epfl.ch"
+link = "mailto:alireza.gargoorimotlagh@epfl.ch"
 
 
 +++
 
 # Blurb
 
-I am a PhD student in the Neuroscience Program (EDNE) at EPFL, working in the La Manno Lab on computational approaches for understanding brain development.
+I am a PhD student in the Computational Biology Program (EDCB) at EPFL, working in the La Manno Lab on the intersection of machine learning methods and single-cell/spatial omics for understanding brain development.

@@ -41,11 +41,11 @@ caption = ""
 [[social]]
 icon = "envelope"
 icon_pack = "fa"
-link = "mailto:evangelina.skoufa@epfl.ch"
+link = "mailto:evangelia.skoufa@epfl.ch"
 
 
 +++
 
 # Blurb
 
-I am the lab technician for the La Manno Lab at EPFL, supporting the team with experimental work and laboratory operations.
+I am the laboratory technician for the La Manno Lab at EPFL, supporting the team with experimental work and laboratory operations.

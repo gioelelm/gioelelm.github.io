@@ -40,11 +40,10 @@ math = false
   interests = ["Bioinformatics",
     "Genetics",
     "Cell biology",
-    "Python and R programming",
-    "PyTorch and TensorFlow",
     "Deep learning",
-    "Lipid biology",
-    "ASO"
+    "Omics & metabolomics",
+    "Personalized medicine",
+    "ASOs"
   ]
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -63,4 +62,4 @@ link = "mailto:luca.fusarbassini@epfl.ch"
  
 # Blurb
  
- I am a happy PhD student
+I am a PhD student in Computational Biology at EPFL under Prof. Gioele La Manno, focusing on multiomics and dynamic modeling in neurodevelopment to advance our understanding of neurodevelopmental disorders. My background includes quantitative training at Scuola Normale di Pisa and rare disease research at Boston Children's Hospital. Passionate about the intersection of bio and AI, I also host podcasts, write for Wired Italia, and engage in science dissemination through LauzHack and Lead The Future.
