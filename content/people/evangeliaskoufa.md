@@ -6,7 +6,7 @@ date = "2025-01-01"
 title = "Evangelia Skoufa"
 
 # Project summary to display on homepage.
-summary = "Laboratory Technician"
+summary = "Lab Technician"
 summary_link = ''
 summary2 = ""
 
