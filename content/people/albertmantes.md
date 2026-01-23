@@ -27,17 +27,16 @@ math = false
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "BSc in Data Science"
-  institution = "University of Barcelona"
-  year = 2022
+  course = "BSc in Data Science and Engineering"
+  institution = "Universitat Politècnica de Catalunya"
+  year = 2021
 
 [interests]
-  interests = ["Bioinformatics",
-    "Machine Learning",
+  interests = ["Machine Learning",
+    "Microscopy",
     "Computer Vision",
-    "PyTorch and TensorFlow",
     "Deep learning",
-    "Microscopy"
+    "Bioimage analysis",
   ]
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
