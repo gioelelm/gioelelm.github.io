@@ -41,7 +41,7 @@ caption = ""
 [[social]]
 icon = "envelope"
 icon_pack = "fa"
-link = "mailto:evangelina.skoufa@epfl.ch"
+link = "mailto:evangelia.skoufa@epfl.ch"
 
 
 +++
