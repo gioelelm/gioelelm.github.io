@@ -45,7 +45,7 @@ math = false
   interests = ["Brain Development",
     "Ex utero cultures",
     "Teratogenesis",
-    "Folate",
+    "Folate deficiency",
     "Spatial Omics",
   ]
 # Featured image
