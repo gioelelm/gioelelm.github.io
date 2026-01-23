@@ -37,6 +37,7 @@ math = false
     "Computer Vision",
     "PyTorch and TensorFlow",
     "Deep learning",
+    "Microscopy"
   ]
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
