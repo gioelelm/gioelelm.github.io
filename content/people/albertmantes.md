@@ -55,4 +55,4 @@ link = "mailto:albert.dominguezmantes@epfl.ch"
  
 # Blurb
 
- I am a joint PhD student in the Neuroscience Program (EDNE) between the La Manno and the Weigert Lab. I have a strong interest in the applications of statistical models and data analysis to the health sciences.
+I am a joint PhD student in the Computational and Quantitative Biology Program (EDCB) between the La Manno and the Weigert Lab. I have a strong interest in the applications of statistical models and data analysis to the health sciences.
