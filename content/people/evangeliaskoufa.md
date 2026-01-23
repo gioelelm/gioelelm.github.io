@@ -6,7 +6,7 @@ date = "2025-01-01"
 title = "Evangelia Skoufa"
 
 # Project summary to display on homepage.
-summary = "Lab Technician"
+summary = "Laboratory Technician"
 summary_link = ''
 summary2 = ""
 
@@ -48,4 +48,4 @@ link = "mailto:evangelia.skoufa@epfl.ch"
 
 # Blurb
 
-I am the lab technician for the La Manno Lab at EPFL, supporting the team with experimental work and laboratory operations.
+I am the laboratory technician for the La Manno Lab at EPFL, supporting the team with experimental work and laboratory operations.
