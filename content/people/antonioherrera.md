@@ -6,7 +6,7 @@ date = "2021-06-06"
 title = "Antonio Herrera Camacho"
 
 # Project summary to display on homepage.
-summary = "Postdoctoral Researcher"
+summary = "Scientist"
 summary_link = ''
 summary2 = ""
 
@@ -66,4 +66,4 @@ link = "mailto:antonio.herrera@epfl.ch"
 # Blurb
 
 
-I am a developmental biologist with over 15 years of experience studying the molecular mechanisms that govern brain development. I earned my degree in Pharmacy from the University of Granada in 2008 and completed my PhD at the University of Barcelona in 2015, where I investigated how oncogenic mutations disrupt neural tube development using the chick embryo model. Following my first postdoctoral training at IBMB-CSIC in Barcelona, where I studied the role of β-catenin in spinal cord development, I joined EPFL in Prof. Gioele La Manno’s lab in 2021. My research combines developmental biology with spatial transcriptomics, single-cell analysis, and embryo culture to understand brain organization in both physiological and pathological contexts. In September 2026, I will join the University of Granada as a Ramón y Cajal researcher in the Department of Cell Biology.
+I am a developmental biologist with over 15 years of experience studying the molecular mechanisms that govern brain development. I earned my degree in Pharmacy from the University of Granada in 2008 and completed my PhD at the University of Barcelona in 2015, where I investigated how oncogenic mutations disrupt neural tube development using the chick embryo model. Following my first postdoctoral training at IBMB-CSIC in Barcelona, where I studied the role of β-catenin in spinal cord development, I joined EPFL in Prof. Gioele La Manno’s lab in 2021. My research combines developmental biology with spatial transcriptomics, single-cell analysis, and embryo culture to understand brain organization in both physiological and pathological contexts. I have recently been awarded a Ramón y Cajal grant and will join the University of Granada to establish my own research group.
