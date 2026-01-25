@@ -518,6 +518,60 @@
     
     <url>
     
+      <loc>/funding/boehringer/</loc>
+      <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/funding/novartis/</loc>
+      <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/funding/roche/</loc>
+      <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/funding/zeiss/</loc>
+      <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/funding/snsf/</loc>
+      <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/funding/erc/</loc>
+      <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/dimitri_joins/</loc>
       <lastmod>2019-10-04T00:00:00+00:00</lastmod>
     </url>
@@ -972,6 +1026,16 @@
     
     <url>
     
+      <loc>/funding/</loc>
+      <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/</loc>
       <lastmod>2017-10-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -1194,6 +1258,16 @@
     
       <loc>/tags/development/</loc>
       <lastmod>2025-09-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/funding/</loc>
+      <lastmod>2020-01-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
