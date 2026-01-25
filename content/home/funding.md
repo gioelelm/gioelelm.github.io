@@ -1,6 +1,6 @@
 +++
-# Projects widget.
-widget = "projects"
+# Funding widget (custom 4-column layout).
+widget = "funding"
 active = true
 date = "2026-01-23T00:00:00"
 
