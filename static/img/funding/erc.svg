@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150">
-  <rect width="400" height="150" fill="#003399"/>
-  <text x="200" y="60" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#FFD700" text-anchor="middle">ERC</text>
-  <text x="200" y="95" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle">European Research Council</text>
-  <circle cx="30" cy="30" r="15" fill="#FFD700"/>
-  <rect x="25" y="25" width="10" height="10" fill="#003399"/>
-</svg>
