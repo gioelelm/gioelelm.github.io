@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/lablife/lab-retreat-2026/</loc>
+      <lastmod>2026-01-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/lablife/example/</loc>
       <lastmod>2026-01-23T00:00:00+00:00</lastmod>
     </url>
@@ -1057,7 +1066,7 @@
     <url>
     
       <loc>/lablife/</loc>
-      <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+      <lastmod>2026-01-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1327,7 +1336,7 @@
     <url>
     
       <loc>/tags/lab-event/</loc>
-      <lastmod>2026-01-23T00:00:00+00:00</lastmod>
+      <lastmod>2026-01-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

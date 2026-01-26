@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/lab-event/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lab Retreat 2026</title>
+      <link>/lablife/lab-retreat-2026/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/lablife/lab-retreat-2026/</guid>
+      <description>In January 2026, we did the first La Manno retreat! We spent a night in Le Locle, in the canton on Neuchâtel, and visited the famous Moulins souterrains. We had a lot of science and fun brainstorming sessions, but a highlight was definitely the noodle-cooking session led by our own PhD student Xinyi Huang!</description>
+    </item>
     
     <item>
       <title>Example Lab Event</title>
