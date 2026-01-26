@@ -21,28 +21,6 @@
     </item>
     
     <item>
-      <title>Example Lab Event</title>
-      <link>/lablife/example/</link>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>/lablife/example/</guid>
-      <description>&lt;p&gt;This is an example lab life entry. You can add more details here about the event, activity, or moment captured in the photo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;To add more lab life entries:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Copy this file and rename it (e.g., &lt;code&gt;lablife/team-retreat-2025.md&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;Update the date, title, and summary&lt;/li&gt;
-&lt;li&gt;Add your image to &lt;code&gt;static/img/lablife/&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Update &lt;code&gt;image_preview&lt;/code&gt; and &lt;code&gt;header.image&lt;/code&gt; to point to your image&lt;/li&gt;
-&lt;li&gt;Write a description in the content area below the &lt;code&gt;+++&lt;/code&gt; markers&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Each entry will appear as a card in the Lab Life section with the image and short description.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Lada Polyakova</title>
       <link>/people/ladapolyakova/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
@@ -217,6 +195,15 @@
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>/publication/spotiflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Midbrain Dopaminergic Neuron Development is Regulated by Two Molecularly Distinct Subtypes of Radial Glia Cells</title>
+      <link>/publication/midbraindopaminergic/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/midbraindopaminergic/</guid>
       <description></description>
     </item>
     
