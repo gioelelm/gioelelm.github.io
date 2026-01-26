@@ -50,7 +50,22 @@ icon = "envelope"
 icon_pack = "fa"
 link = "mailto:albert.dominguezmantes@epfl.ch"
 
- 
+[[social]]
+icon = "google-scholar"
+icon_pack = "ai"
+link = "https://scholar.google.com/citations?user=VZ4GrOkAAAAJ"
+
+[[social]]
+icon = "github"
+icon_pack = "fa"
+link = "https://github.com/AlbertDominguez"
+
+[[social]]
+icon = "bluesky"
+icon_pack = "fa"
+link = "https://bsky.app/profile/albertdm.bsky.social"
+
+
 +++
  
 # Blurb
