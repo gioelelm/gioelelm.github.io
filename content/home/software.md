@@ -32,4 +32,4 @@ filter_default = 0
 
 +++
 
-Below the scientific software I have been working on:
+Below the scientific software we have been working on:

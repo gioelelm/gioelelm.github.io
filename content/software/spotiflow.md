@@ -6,7 +6,7 @@ date = "2025-01-01"
 title = "Spotiflow"
 
 # Project summary to display on homepage.
-summary = "Deep learning-based spot detection for fluorescence microscopy with subpixel accuracy. For more information visit the [Spotiflow GitHub](https://github.com/weigertlab/spotiflow)"
+summary = "Deep learning-based spot detection for fluorescence microscopy with subpixel accuracy. For more information visit the [Spotiflow GitHub](https://github.com/weigertlab/spotiflow)."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 # image_preview = "bubbles.jpg"
@@ -36,4 +36,4 @@ Key features:
 - Robust to low signal-to-noise ratio images
 - Available as Python library and napari plugin
 
-Find the GitHub repo [here](https://github.com/weigertlab/spotiflow)
+Find the GitHub repo [here](https://github.com/weigertlab/spotiflow).

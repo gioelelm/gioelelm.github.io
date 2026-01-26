@@ -55,4 +55,8 @@ link = "mailto:albert.dominguezmantes@epfl.ch"
  
 # Blurb
 
-I am a joint PhD student in the Computational and Quantitative Biology Program (EDCB) between the La Manno and the Weigert Lab. I have a strong interest in the applications of statistical models and data analysis to the health sciences.
+I am a joint PhD student in the Computational and Quantitative Biology Program (EDCB) between the La Manno lab and the Weigert lab (TU Dresden, Germany). My main focus is on developing computer vision methods for the analysis of microscopy images. One of my main goals is on developing methods that are easily adoptable for other researchers. As such, I’m big on open source and best software engineering practices.
+
+Previously, I worked on ML-based methods for population genetics in the Bustamante lab at Stanford University, in collaboration with the Image Processing group at Universitat Politècnica de Catalunya (UPC). Outside of academia, I spent two years working as a Data Scientist at a startup, Abi Global Health, where I developed and deployed NLP models for usage in a conversational setting.
+
+Please reach out if you’re interested in my work or just want to chat about any of these topics!
