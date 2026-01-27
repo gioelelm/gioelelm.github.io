@@ -27,8 +27,8 @@ math = false
 # List your qualifications (such as academic degrees).
 
 [interests]
-  interests = ["Brain Development",
-    "Computational Biology",
+  interests = ["Live cell Imaging",
+    "Raman Microsocpy",
     "Biotechnology",
   ]
 # Featured image
@@ -48,4 +48,4 @@ link = "mailto:xinyi.huang@epfl.ch"
 
 # Blurb
 
-I am a PhD student in the Biotechnology and Bioengineering Program (EDBB) at EPFL, working in the La Manno Lab.
+I am a PhD student in the Biotechnology and Bioengineering Program (EDBB) at EPFL, working jointly with the Prof. Gioele La Manno and Prof. Hatice Altug.
