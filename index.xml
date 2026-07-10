@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Gioele selected as a FENS-Kavli Scholar 2026</title>
+      <link>/media/fkne2026/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/media/fkne2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Boehringer Ingelheim FENS Research Award 2026</title>
       <link>/media/fens_bi_award2026/</link>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
@@ -195,15 +204,6 @@
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>/media/spotiflowpub/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spotiflow: accurate and efficient spot detection for fluorescence microscopy with deep stereographic flow regression</title>
-      <link>/publication/spotiflow/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/spotiflow/</guid>
       <description></description>
     </item>
     
