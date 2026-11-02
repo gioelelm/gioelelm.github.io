@@ -8,3 +8,22 @@
 
 /* Long names should fit naturally in the team cards. */
 #team .card-text h3 { overflow-wrap: break-word; }
+
+/* Fit the expanded navigation beside the logos on desktop. The theme's
+   existing collapsed menu takes over at 1200px and below. */
+@media (min-width: 1201px) {
+  #navbar-main > .container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 1440px;
+  }
+  #navbar-main > .container::before,
+  #navbar-main > .container::after { display: none; }
+  #navbar-main .navbar-header { flex: 0 0 auto; }
+  #navbar-main .navbar-brand { padding-left: 8px; padding-right: 8px; }
+  #navbar-main .navbar-brand img { max-height: 32px; }
+  #navbar-main .navbar-collapse { flex: 1 1 auto; padding-right: 0; }
+  #navbar-main .navbar-nav { display: flex; flex-wrap: nowrap; }
+  #navbar-main .navbar-nav > li > a { padding-left: 9px; padding-right: 9px; }
+}
