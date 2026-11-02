@@ -1,4 +1,5 @@
 +++
+alumni = true
 # Date this page was created.
 date = "2021-06-06"
 
@@ -6,7 +7,7 @@ date = "2021-06-06"
 title = "Antonio Herrera Camacho"
 
 # Project summary to display on homepage.
-summary = "Scientist"
+summary = "Alumnus · Principal Investigator, University of Granada"
 summary_link = ''
 summary2 = ""
 

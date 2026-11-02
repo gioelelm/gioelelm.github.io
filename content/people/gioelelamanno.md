@@ -1,6 +1,7 @@
 +++
 # Date this page was created.
 date = "2017-11-01"
+weight = 1
 
 # Project title.
 title = "Gioele La Manno" # note I am using UNICODE 00A0 non breaking spaces
@@ -98,3 +99,8 @@ My research focuses on understanding [brain](https://en.wikipedia.org/wiki/Brain
 I have been tackling this question using machine learning tools on the wealth of data provided by [single cell RNA sequencing](https://www.nature.com/articles/nmeth.2801), a technique I have been working with and developing since its early times.
 
 My long-term goal is to contribute in making biology from a descriptive to a predictive science.
+
+
+## Awards and honours
+
+[View the awards history](/awards/), including the Eppendorf & Science Prize, FENS Research Award, and annual Clarivate Highly Cited Researcher recognition.

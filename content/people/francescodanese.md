@@ -1,4 +1,5 @@
 +++
+alumni = true
 # Date this page was created.
 date = "2025-01-01"
 
@@ -6,7 +7,7 @@ date = "2025-01-01"
 title = "Francesco Danese"
 
 # Project summary to display on homepage.
-summary = "Master Student"
+summary = "Alumnus · Visiting researcher"
 summary_link = ''
 summary2 = "Visiting from Italy"
 

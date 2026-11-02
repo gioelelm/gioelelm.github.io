@@ -5,7 +5,7 @@ widget = "posts"
 active = true
 date = "2018-01-07T00:00:00"
 
-title = "Latest Posts"
+title = "Lab News"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -18,6 +18,6 @@ tags_include = []
 tags_exclude = []
 
 # Number of posts to list.
-count = 5
+count = 8
 
 +++

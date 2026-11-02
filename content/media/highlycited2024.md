@@ -6,7 +6,7 @@ date = "2024-11-19"
 title = "Highly Cited Researcher 2024"
 
 # Project summary to display on homepage.
-summary = "Gioele La Manno was included in Clarivate's 2024 Highly Cited Researchers list, recognizing his innovative work in single-cell transcriptomics and brain development. At 34 years old, he is one of the youngest researchers on the list."
+summary = "Gioele La Manno is included in Clarivate's 2024 Highly Cited Researchers list."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "highlycited2024.jpg"
@@ -16,9 +16,13 @@ image_preview = "highlycited2024.jpg"
 tags = ["awards"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://actu.epfl.ch/news/four-epfl-professors-among-clarivate-s-highly-ci-3/"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
 
 +++
+
+Gioele La Manno was named a **Clarivate Highly Cited Researcher in 2024**.
+
+[Read the announcement](https://actu.epfl.ch/news/four-epfl-professors-among-clarivate-s-highly-ci-3/) · [Awards and honours](/awards/).

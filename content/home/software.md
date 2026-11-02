@@ -32,4 +32,4 @@ filter_default = 0
 
 +++
 
-Below the scientific software we have been working on:
+Explore our open-source software and interactive research resources:

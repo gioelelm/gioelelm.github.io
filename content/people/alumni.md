@@ -36,7 +36,7 @@ link = "mailto:gioelelamanno@gmail.com"
  
 +++
  
-# Master Students
+Former members of the La Manno Lab have gone on to independent research, academic positions, and careers in industry. We also recognise the students whose thesis projects and research visits contributed to the lab.
 
 <style>
 
@@ -60,7 +60,8 @@ img.minion:hover {
   float: left;
   width: 50%;
   padding: 10px;
-  height: 220px; /*Should be removed. Only for demonstration*/
+  min-height: 220px;
+  height: auto;
 }
 
 /*Clear floats after the columns*/
@@ -74,6 +75,19 @@ img.minion:hover {
 # PhDs, MD/PhDs and Postdocs
 
 <body>
+    <div class="row">
+        <div class="column" style="width: 25%;">
+            <a target="_blank" href="/img/people/toni_square.jpg">
+                <img class="minion" src="/img/people/toni_square.jpg" alt="Antonio Herrera Camacho">
+            </a>
+        </div>
+        <div class="column" style="width: 75%;">
+            <font size="+2"> Antonio Herrera Camacho </font><br>
+            <strong>Postdoctoral researcher and scientist (2021–2026)</strong><br>
+            <strong>Principal Investigator, University of Granada — Ramón y Cajal awardee</strong><br>
+            Toni's work combined developmental biology, embryo culture, and spatial omics to study brain development. After five years in the lab, he became an independent group leader in Granada.
+        </div>
+    </div>
     <div class="row">
         <div class="column" style="width: 25%;">
             <a target="_blank" href="/img/people/alex_square.jpg">
@@ -168,7 +182,20 @@ img.minion:hover {
 
 </body>
 
-# Masters Students
+## Graduated co-supervised PhD students
+
+- **Dr. Alexandre Coudray** — EDCB, 2019–2023; co-supervised with Prof. Didier Trono. His thesis investigated how deconvolution of drug-screening and gene-expression data can predict cancer cell subpopulations. Subsequent position: Senior Data Scientist at Alithea Genomics.
+- **Dr. Cristina Loureiro** — EDCB; co-supervised with Prof. Andrew Oates.
+- **Dr. Hao Han** — EDBB; co-supervised with Prof. Matthias Lutolf.
+
+# Master's Students and Research Interns
+
+## Recent departures
+
+- **Lothar Bezzon** — Visiting master's thesis student, joined in November 2025. Worked with Gioele La Manno and Luca Fusar Bassini on computational approaches to spatial lipidomics.
+- **Francesco Danese** — Joined as a visiting student in 2025. Contributed to the neuroscience knowledge graph project with Luca Fusar Bassini, working on computational analysis of the scientific literature.
+
+## Earlier members
 
 <body>
     <div class="row">
@@ -288,16 +315,27 @@ img.minion:hover {
     </div>
 </body>
 
-## Recent Master Students (2024-2025)
+## Further semester projects and research internships
 
-The following students completed semester projects or master theses in the lab:
+We also thank the following students for their contributions during semester projects and research visits:
 
-- Giovanni Nostro - EPFL Life Sciences Engineering
+- **2020:** Heloise Monnet.
+- **2021:** Leonard Karsunky.
+- **2022:** Emmanual Thibaut, Anas Macharoui, Charles Lescure.
+- **2023:** Ian Ienderli, Pauline Vercinine, Clemence Jegard.
+- **2024:** Damaso Dubail Fernandez, Elise Boyer, Clara Tavernier, Zhiyan Liao, Joana Malvar, Gabriele Bellavia, Davide Serra, Francesca Venturi.
+
+## Recent Student Projects (2025)
+
+The following students completed bachelor's projects, semester projects, research visits, or master's theses in the lab:
+
+- Giovanni Nostro - EPFL bachelor's project
 - Lena De Sepibus - EPFL Life Sciences Engineering
 - Valentine Casalta - EPFL Life Sciences Engineering
 - Theo Lo Giudice - EPFL Life Sciences Engineering
 - Paul Marchi - EPFL Life Sciences Engineering
-- Misia Botschi - EPFL Life Sciences Engineering
+- Zeineb Mellouli - EPFL student project
+- Misia Botschi - EPFL bachelor's project
 - Carla Baud - EPFL Life Sciences Engineering
 - Charlotte Alers - EPFL Life Sciences Engineering
 - Cyril Achard - EPFL Life Sciences Engineering

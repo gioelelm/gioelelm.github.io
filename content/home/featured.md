@@ -6,7 +6,7 @@ date = 2017-10-15
 
 title = """
 <font size="5" style="bold"><i>What's new</i></font> <br>
-Lipid Brain Atlas released
+Lipid Brain Atlas in Nature
 """
 
 # Order that this section will appear in.
@@ -27,5 +27,6 @@ weight = 1
   label = '<i class="fa fa-arrow-circle-right"></i> Read more'
 +++
 
-We released the first comprehensive lipidomic atlas of the adult mouse brain! Using high-resolution MALDI mass spectrometry imaging, we mapped 172 membrane lipids across 109 sections and 11 brains, identifying 539 spatially coherent biochemical domains we call "lipizones". <br>
-Read the preprint on [bioRxiv](https://doi.org/10.1101/2025.10.13.682018).
+Explore the molecular geography of brain lipids in our [Nature paper](https://doi.org/10.1038/s41586-026-11050-0) and [interactive atlas](https://lbae-v2.epfl.ch/).
+
+**Also celebrating:** [Gioele wins the Eppendorf & Science Prize](/post/eppendorf2026/) · [Toni becomes a PI in Granada](/post/toni_farewell/).

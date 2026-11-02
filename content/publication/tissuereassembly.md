@@ -1,6 +1,7 @@
 +++
 title = "Tissue Reassembly with Generative AI"
-date = "2025-02-13"
+# Record updated when the in-press status was added; not a publication date.
+date = "2026-11-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [
@@ -19,11 +20,11 @@ authors = [
 ]
 
 # Publication type.
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*bioRxiv* (in revision at Nature Methods)"
-publication_short = "**bioRxiv** (in revision at Nature Methods)"
+publication = "*Nature Methods* (In press)"
+publication_short = "**Nature Methods** (In press)"
 
 # Abstract and optional shortened version.
 abstract = "We present a generative AI approach for tissue reassembly, enabling computational reconstruction of tissue architecture from spatial transcriptomics data."

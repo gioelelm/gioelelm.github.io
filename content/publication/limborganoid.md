@@ -1,6 +1,7 @@
 +++
-title = "Specialized signaling centers direct cell fate and spatial organization in a limb organoid model"
-date = "2025-07-02"
+url_pdf = "https://doi.org/10.1126/sciadv.ady7682"
+title = "Specialized signaling centers direct cell fate and spatial organization in a mesodermal organoid model"
+date = "2025-11-28"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = [
@@ -25,12 +26,12 @@ authors = [
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Science Advances* (In Press)"
-publication_short = "**Science Advances** (In Press)"
+publication = "*Science Advances* (2025)"
+publication_short = "**Science Advances**"
 
 # Abstract and optional shortened version.
-abstract = "This study demonstrates how specialized signaling centers direct cell fate and spatial organization in a limb organoid model, providing insights into limb development and regeneration mechanisms."
-abstract_short = "Specialized signaling centers direct cell fate and spatial organization in a limb organoid model."
+abstract = "This study demonstrates how specialized signaling centers direct cell fate and spatial organization in a mesodermal organoid model, providing insights into limb development and regeneration mechanisms."
+abstract_short = "Specialized signaling centers direct cell fate and spatial organization in a mesodermal organoid model."
 
 # Featured image thumbnail (optional)
 image_preview = ""
