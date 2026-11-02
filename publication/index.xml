@@ -13,18 +13,54 @@
     
     
     <item>
-      <title>The Lipidomics Architecture of the Mouse Brain</title>
+      <title>Tissue Reassembly with Generative AI</title>
+      <link>/publication/tissuereassembly/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tissuereassembly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fats that think?</title>
+      <link>/publication/fatsthatthink/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fatsthatthink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The lipidomic architecture of the mouse brain</title>
       <link>/publication/lipidbrainatlas/</link>
-      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       
       <guid>/publication/lipidbrainatlas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Specialized signaling centers direct cell fate and spatial organization in a limb organoid model</title>
+      <title>MuViT: Multi-Resolution Vision Transformers for Learning Across Scales in Microscopy</title>
+      <link>/publication/muvit/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/muvit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinct radial glia subtypes regulate midbrain dopaminergic neuron development</title>
+      <link>/publication/midbraindopaminergic/</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/midbraindopaminergic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specialized signaling centers direct cell fate and spatial organization in a mesodermal organoid model</title>
       <link>/publication/limborganoid/</link>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>/publication/limborganoid/</guid>
       <description></description>
@@ -45,24 +81,6 @@
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>/publication/spotiflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Midbrain Dopaminergic Neuron Development is Regulated by Two Molecularly Distinct Subtypes of Radial Glia Cells</title>
-      <link>/publication/midbraindopaminergic/</link>
-      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/midbraindopaminergic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tissue Reassembly with Generative AI</title>
-      <link>/publication/tissuereassembly/</link>
-      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/tissuereassembly/</guid>
       <description></description>
     </item>
     

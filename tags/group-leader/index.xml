@@ -7,20 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/group-leader/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Open Positions</title>
-      <link>/people/openposition1/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/people/openposition1/</guid>
-      <description>Openings and available projects Postdoctoral and PhD student positions There are no open positions at the moment. Outstanding candidates might still be considered, to enquires please contact me at gioele.lamanno@epfl.ch.
-For Ph.D. students, while direct enquiries are appreciated, to become a Ph.D. student in the lab an official application needs to go through official channels of EPFL-SV doctoral schools: EDNE, EDCB or EDMS. PhD recruitment happens only twice per year, so if interested please keep an eye on the application deadlines.</description>
-    </item>
     
     <item>
       <title>Gioele La Manno</title>
@@ -30,6 +20,26 @@ For Ph.D. students, while direct enquiries are appreciated, to become a Ph.D. st
       <guid>/people/gioelelamanno/</guid>
       <description>Bio I earned my PhD at Karolinska Instituet and I am proud alumnus of the Linnarsson Lab. My original training is in Biotechnology (BSc @UNIPA) and Biomedicine (MSc @KI) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.
 My research focuses on understanding brain development. I am particularly interested in describing the sequence of states that embryonic stem cells go through during their differentiation towards mature neurons.</description>
+    </item>
+    
+    <item>
+      <title>Congratulations, PI Toni! A new lab in Granada</title>
+      <link>/post/toni_farewell/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/post/toni_farewell/</guid>
+      <description>Congratulations to Antonio Herrera Camacho on becoming a Principal Investigator at the University of Granada! Supported by a Ramón y Cajal fellowship, Toni is starting his own independent research group. We are proud to celebrate this milestone with him.
+Since joining the La Manno Lab in 2021, Toni has brought his experience in developmental biology to our efforts to understand how the brain forms. His work combined embryo culture, spatial transcriptomics, and single-cell analysis, with a particular interest in how folate deficiency affects brain development.</description>
+    </item>
+    
+    <item>
+      <title>Open Positions</title>
+      <link>/people/openposition1/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/people/openposition1/</guid>
+      <description>Openings and available projects Postdoctoral and PhD student positions There are no open positions at the moment. Outstanding candidates might still be considered, to enquires please contact me at gioele.lamanno@epfl.ch.
+For Ph.D. students, while direct enquiries are appreciated, to become a Ph.D. student in the lab an official application needs to go through official channels of EPFL-SV doctoral schools: EDNE, EDCB or EDMS. PhD recruitment happens only twice per year, so if interested please keep an eye on the application deadlines.</description>
     </item>
     
   </channel>

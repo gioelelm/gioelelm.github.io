@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Student on Gioele La Manno</title>
+    <link>/tags/project-student/</link>
+    <description>Recent content in Project Student on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/project-student/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Laurine Yue Song</title>
+      <link>/people/laurinesong/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/laurinesong/</guid>
+      <description>Laurine is completing a master&amp;rsquo;s project in the La Manno Lab.
+Official EPFL team listing.</description>
+    </item>
+    
+    <item>
+      <title>Mariami Melishvili</title>
+      <link>/people/mariamimelishvili/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/mariamimelishvili/</guid>
+      <description>Mariami is a visiting project student from the University of Groningen.
+Official EPFL team listing.</description>
+    </item>
+    
+    <item>
+      <title>Shabnam Zareshahraki</title>
+      <link>/people/shabnamzareshahraki/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/shabnamzareshahraki/</guid>
+      <description>Shabnam contributes to computational research in the La Manno Lab.
+Official EPFL team listing.</description>
+    </item>
+    
+    <item>
+      <title>Tecla Duran Fort</title>
+      <link>/people/tecladuranfort/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/tecladuranfort/</guid>
+      <description>Tecla is a project student in the La Manno Lab.
+Official EPFL team listing.</description>
+    </item>
+    
+    <item>
+      <title>Thomas van Spaendonk</title>
+      <link>/people/thomasvanspaendonk/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/thomasvanspaendonk/</guid>
+      <description>Thomas is a project student in the La Manno Lab.
+Official EPFL team listing.</description>
+    </item>
+    
+  </channel>
+</rss>

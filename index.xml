@@ -7,202 +7,247 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Gioele selected as a FENS-Kavli Scholar 2026</title>
-      <link>/media/fkne2026/</link>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Gioele La Manno</title>
+      <link>/people/gioelelamanno/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/media/fkne2026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Boehringer Ingelheim FENS Research Award 2026</title>
-      <link>/media/fens_bi_award2026/</link>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-      
-      <guid>/media/fens_bi_award2026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lab Retreat 2026</title>
-      <link>/lablife/lab-retreat-2026/</link>
-      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>/lablife/lab-retreat-2026/</guid>
-      <description>&lt;p&gt;In January 2026, we did the first La Manno retreat! We spent a night in Le Locle, in the canton on Neuchâtel, and visited the famous Moulins souterrains. We had a lot of science and fun brainstorming sessions, but a highlight was definitely the noodle-cooking session led by our own PhD student Xinyi Huang!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lada Polyakova</title>
-      <link>/people/ladapolyakova/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>/people/ladapolyakova/</guid>
+      <guid>/people/gioelelamanno/</guid>
       <description>
 
-&lt;h1 id=&#34;blurb&#34;&gt;Blurb&lt;/h1&gt;
+&lt;h1 id=&#34;bio&#34;&gt;Bio&lt;/h1&gt;
 
-&lt;p&gt;I am a PhD student in the Computational and Quantitative Biology Program (EDCB) at EPFL, working in the La Manno Lab.&lt;/p&gt;
+&lt;p&gt;I earned my PhD at &lt;a href=&#34;http://ki.se/en/startpage&#34; target=&#34;_blank&#34;&gt;Karolinska Instituet&lt;/a&gt; and I am proud alumnus of the &lt;a href=&#34;http://linnarssonlab.org/&#34; target=&#34;_blank&#34;&gt;Linnarsson Lab&lt;/a&gt;. My original training is in Biotechnology (&lt;a href=&#34;http://www.unipa.it/target/international-students/en/about/the-university/&#34; target=&#34;_blank&#34;&gt;BSc @UNIPA&lt;/a&gt;) and Biomedicine (&lt;a href=&#34;http://ki.se/en/startpage&#34; target=&#34;_blank&#34;&gt;MSc @KI&lt;/a&gt;) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.&lt;/p&gt;
+
+&lt;p&gt;My research focuses on understanding &lt;a href=&#34;https://en.wikipedia.org/wiki/Brain&#34; target=&#34;_blank&#34;&gt;brain&lt;/a&gt; development.
+ I am particularly interested in describing the sequence of states that embryonic stem cells go through during their differentiation towards mature neurons.&lt;/p&gt;
+
+&lt;p&gt;I have been tackling this question using machine learning tools on the wealth of data provided by &lt;a href=&#34;https://www.nature.com/articles/nmeth.2801&#34; target=&#34;_blank&#34;&gt;single cell RNA sequencing&lt;/a&gt;, a technique I have been working with and developing since its early times.&lt;/p&gt;
+
+&lt;p&gt;My long-term goal is to contribute in making biology from a descriptive to a predictive science.&lt;/p&gt;
+
+&lt;h2 id=&#34;awards-and-honours&#34;&gt;Awards and honours&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;/awards/&#34;&gt;View the awards history&lt;/a&gt;, including the Eppendorf &amp;amp; Science Prize, FENS Research Award, and annual Clarivate Highly Cited Researcher recognition.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Highly Cited Researcher 2025</title>
-      <link>/media/highlycited2025/</link>
-      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <title>Awards and Honours</title>
+      <link>/awards/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>/media/highlycited2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lipid Brain Atlas preprint released</title>
-      <link>/media/lipidbrainatlaspub/</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/media/lipidbrainatlaspub/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lipid Brain Atlas Released</title>
-      <link>/post/lipid_brain_atlas/</link>
-      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/post/lipid_brain_atlas/</guid>
+      <guid>/awards/</guid>
       <description>
 
-&lt;p&gt;We are excited to announce the release of the &lt;strong&gt;Lipid Brain Atlas&lt;/strong&gt; - a high-resolution mapping of membrane lipids in the mouse brain!&lt;/p&gt;
+&lt;p&gt;Gioele La Manno&amp;rsquo;s awards recognise contributions to computational biology, neuroscience, and the study of brain development.&lt;/p&gt;
 
-&lt;p&gt;This work, led by &lt;a href=&#34;/people/lucafusar/&#34;&gt;Luca Fusar Bassini&lt;/a&gt; in collaboration with Giovanni D&amp;rsquo;Angelo&amp;rsquo;s lab, reveals that &lt;strong&gt;lipids act as zip codes for fine-grained brain anatomy&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;recent-recognition&#34;&gt;Recent recognition&lt;/h2&gt;
 
-&lt;h2 id=&#34;key-discoveries&#34;&gt;Key Discoveries&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2026 — Eppendorf &amp;amp; Science Prize for Neurobiology.&lt;/strong&gt; &lt;a href=&#34;https://www.eppendorf.com/nz-en/company-careers/scientific-awards/eppendorf-science-prize-for-neurobiology/all-prize-winners-finalists/2026-prize-winner-dr-gioele-la-manno/&#34; target=&#34;_blank&#34;&gt;Official announcement&lt;/a&gt;; &lt;a href=&#34;/post/eppendorf2026/&#34;&gt;our news&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026 — Boehringer Ingelheim FENS Research Award.&lt;/strong&gt; &lt;a href=&#34;https://www.fens.org/news-activities/news/winner-of-the-boehringer-ingelheim-fens-research-award-2026-announced&#34; target=&#34;_blank&#34;&gt;FENS announcement&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2026 — FENS-Kavli Scholar&lt;/strong&gt;, 2026–2030 cohort. &lt;a href=&#34;https://fenskavlinetwork.org/who-we-are/2026_fens-kavli-scholars/&#34; target=&#34;_blank&#34;&gt;Network announcement&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h3 id=&#34;lipizones-a-new-way-to-map-the-brain&#34;&gt;Lipizones: A New Way to Map the Brain&lt;/h3&gt;
+&lt;h2 id=&#34;clarivate-highly-cited-researchers&#34;&gt;Clarivate Highly Cited Researchers&lt;/h2&gt;
 
-&lt;p&gt;We discovered &lt;strong&gt;lipizones&lt;/strong&gt; - brain territories defined purely by lipid composition, without any anatomical assumptions. Remarkably, lipid profiles alone can predict 3D brain tissue coordinates with high accuracy.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025 — Highly Cited Researcher.&lt;/strong&gt; &lt;a href=&#34;/media/highlycited2025/&#34;&gt;2025 announcement&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2024 — Highly Cited Researcher.&lt;/strong&gt; &lt;a href=&#34;/media/highlycited2024/&#34;&gt;2024 announcement&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h3 id=&#34;oligodendrocyte-heterogeneity&#34;&gt;Oligodendrocyte Heterogeneity&lt;/h3&gt;
+&lt;h2 id=&#34;stanford-elsevier-top-cited-scientists&#34;&gt;Stanford/Elsevier top-cited scientists&lt;/h2&gt;
 
-&lt;p&gt;We found striking lipid heterogeneity among oligodendrocytes in the corpus callosum, suggesting that these cells are far more diverse than previously appreciated.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2026 edition — Single-year citation impact&lt;/strong&gt;, based on citations received in 2025. Gioele La Manno is included in the Stanford/Elsevier database commonly known as the world&amp;rsquo;s top 2% scientists list. &lt;a href=&#34;/post/topcited2026/&#34;&gt;Read the announcement&lt;/a&gt; · &lt;a href=&#34;https://doi.org/10.17632/btchxktzyw.9&#34; target=&#34;_blank&#34;&gt;Official dataset&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h3 id=&#34;connecting-cell-bodies-to-axon-terminals&#34;&gt;Connecting Cell Bodies to Axon Terminals&lt;/h3&gt;
+&lt;h2 id=&#34;earlier-awards&#34;&gt;Earlier awards&lt;/h2&gt;
 
-&lt;p&gt;Lipid signatures can connect cell bodies to their distant axon terminals, opening new ways to study brain connectivity through biochemistry.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2021 — Vasco Sanz Award.&lt;/strong&gt; &lt;a href=&#34;https://vascosanz-fund.com/laureats/&#34; target=&#34;_blank&#34;&gt;Foundation&amp;rsquo;s laureates&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2019 — SIB Bioinformatics Resource Innovation Award&lt;/strong&gt;, for velocyto. &lt;a href=&#34;https://people.epfl.ch/gioele.lamanno?lang=en&#34; target=&#34;_blank&#34;&gt;EPFL profile&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2019 — Dimitris N. Chorafas Prize.&lt;/strong&gt; &lt;a href=&#34;https://news.ki.se/the-dimitris-n-chorafas-prize-2019-to-gioele-la-manno&#34; target=&#34;_blank&#34;&gt;Karolinska Institutet announcement&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2019 — International Birnstiel Award: Honourable Mention.&lt;/strong&gt; &lt;a href=&#34;https://www.imp.ac.at/fileadmin/content/Communications/News_Items/2019/2019-09-16/BirnstielAward-press-release-EN.pdf&#34; target=&#34;_blank&#34;&gt;Official announcement&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2018 — EMPIRIS Award.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2018 — SciLifeLab Scientific Medley Selected Publication Award.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h3 id=&#34;ventricular-system-zonation&#34;&gt;Ventricular System Zonation&lt;/h3&gt;
-
-&lt;p&gt;We uncovered biochemical zonation patterns in the choroid plexus and ventricular linings, regions critical for cerebrospinal fluid production.&lt;/p&gt;
-
-&lt;h3 id=&#34;pregnancy-and-sex-differences&#34;&gt;Pregnancy and Sex Differences&lt;/h3&gt;
-
-&lt;p&gt;Perhaps most surprisingly, pregnancy triggers coordinated membrane adaptations across brain regions. We also found sex differences in white matter sphingolipids that amplify during pregnancy.&lt;/p&gt;
-
-&lt;h2 id=&#34;why-this-matters&#34;&gt;Why This Matters&lt;/h2&gt;
-
-&lt;p&gt;The atlas enables tracking how disease, aging, diet, and medications reshape brain lipid composition at the cellular level. This opens new avenues for understanding:
-- Cell-type specific metabolism
-- Developmental history encoded in membranes
-- Connectivity patterns revealed through lipid fingerprints&lt;/p&gt;
-
-&lt;h2 id=&#34;explore-the-atlas&#34;&gt;Explore the Atlas&lt;/h2&gt;
-
-&lt;p&gt;The interactive atlas is available at: &lt;strong&gt;&lt;a href=&#34;https://lbae-v2.epfl.ch/&#34; target=&#34;_blank&#34;&gt;lbae-v2.epfl.ch&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Read the full preprint on &lt;a href=&#34;https://doi.org/10.1101/2025.10.13.682018&#34; target=&#34;_blank&#34;&gt;bioRxiv&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://memento.epfl.ch/event/inaugural-lectures-gioele-la-manno-and-martin-schr/&#34; target=&#34;_blank&#34;&gt;EPFL inaugural lecture biography&lt;/a&gt; also describes the earlier Vasco Sanz, EMPIRIS, SIB, and Chorafas awards.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>The Lipidomics Architecture of the Mouse Brain</title>
-      <link>/publication/lipidbrainatlas/</link>
-      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <title>Congratulations, PI Toni! A new lab in Granada</title>
+      <link>/post/toni_farewell/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>/publication/lipidbrainatlas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ERC Starting Grant MOVIOLA</title>
-      <link>/media/erc_moviola/</link>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/media/erc_moviola/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mapping the lipid blueprint of life in 4D</title>
-      <link>/media/umaiapub/</link>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/media/umaiapub/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Antonio Herrera appointed Group Leader</title>
-      <link>/post/toni_group_leader/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/post/toni_group_leader/</guid>
-      <description>&lt;p&gt;We are proud to announce that Dr. Antonio Herrera, a postdoctoral researcher in our lab since 2021, has been awarded a prestigious Ramón y Cajal fellowship!&lt;/p&gt;
+      <guid>/post/toni_farewell/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;/people/antonioherrera/&#34; target=&#34;_blank&#34;&gt;Antonio Herrera Camacho&lt;/a&gt; on becoming a &lt;strong&gt;Principal Investigator at the University of Granada&lt;/strong&gt;! Supported by a &lt;strong&gt;Ramón y Cajal fellowship&lt;/strong&gt;, Toni is starting his own independent research group. We are proud to celebrate this milestone with him.&lt;/p&gt;
 
-&lt;p&gt;During his time in the La Manno Lab, Toni has made fundamental contributions to our research program, including developing computational methods for spatial transcriptomics analysis and contributing to multiple high-impact publications. His work on deep learning methods for imaging and spatial biology has been particularly impactful.&lt;/p&gt;
+&lt;p&gt;Since joining the La Manno Lab in 2021, Toni has brought his experience in developmental biology to our efforts to understand how the brain forms. His work combined embryo culture, spatial transcriptomics, and single-cell analysis, with a particular interest in how folate deficiency affects brain development. Alongside his research, he helped students learn experimental approaches and develop their own projects.&lt;/p&gt;
 
-&lt;p&gt;We are excited to see Toni establish his own independent research program and look forward to future collaborations. Congratulations Toni!&lt;/p&gt;
+&lt;p&gt;His contributions also span several of the lab&amp;rsquo;s collaborative publications, including &lt;a href=&#34;/publication/umaia/&#34; target=&#34;_blank&#34;&gt;uMAIA&lt;/a&gt;, &lt;a href=&#34;/publication/spotiflow/&#34; target=&#34;_blank&#34;&gt;Spotiflow&lt;/a&gt;, and &lt;a href=&#34;/publication/velocycle/&#34; target=&#34;_blank&#34;&gt;VeloCycle&lt;/a&gt;, all published in &lt;em&gt;Nature Methods&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Seeing a colleague take the step to leading an independent lab is a special moment for our team. We look forward to the questions Toni and his new group will explore, and to continuing our scientific collaborations.&lt;/p&gt;
+
+&lt;p&gt;Thank you, Toni, for five years of science, mentorship, and friendship. We will miss having you in the lab, but there is much to celebrate. &lt;strong&gt;All the best for your new lab in Granada, PI Toni!&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Specialized signaling centers direct cell fate and spatial organization in a limb organoid model</title>
-      <link>/publication/limborganoid/</link>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <title>Eppendorf &amp; Science Prize for Neurobiology 2026</title>
+      <link>/media/eppendorf2026/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>/publication/limborganoid/</guid>
+      <guid>/media/eppendorf2026/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Unified Mass Imaging Maps the Lipidome of Vertebrate Development</title>
-      <link>/publication/umaia/</link>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <title>Federica Schiavetti</title>
+      <link>/people/federicaschiavetti/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>/publication/umaia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Congratulations Dr. Irina Khven!</title>
-      <link>/post/irina_graduation/</link>
-      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/post/irina_graduation/</guid>
-      <description>&lt;p&gt;We are delighted to announce that Irina Khven has successfully defended her PhD thesis!&lt;/p&gt;
+      <guid>/people/federicaschiavetti/</guid>
+      <description>&lt;p&gt;Federica joined the lab in March 2026 for a master&amp;rsquo;s valorization project and now works as a member of the technical staff.&lt;/p&gt;
 
-&lt;p&gt;Irina&amp;rsquo;s thesis, &amp;ldquo;Fine-grained mapping of neural progenitors subtypes in the embryonic brain unveils context-dependent roles of signalling on cell fate decisions,&amp;rdquo; represents a major contribution to our understanding of brain development.&lt;/p&gt;
-
-&lt;p&gt;During her PhD in the EDNE program (2019-2025), Irina made fundamental contributions to mapping neural progenitor diversity using spatial transcriptomics and single-cell approaches. Her work has been instrumental in establishing the lab&amp;rsquo;s spatial transcriptomics capabilities and generating some of the most comprehensive datasets on embryonic brain development.&lt;/p&gt;
-
-&lt;p&gt;Irina will continue her scientific career as a Postdoctoral researcher at the Institute of Molecular and Clinical Ophthalmology Basel (IOB).&lt;/p&gt;
-
-&lt;p&gt;Congratulations Dr. Khven, and best wishes for your future research!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.epfl.ch/labs/nsbl/neurodevelopmental-systems-biology-lab/team/&#34; target=&#34;_blank&#34;&gt;Official EPFL team listing&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Spotiflow published in Nature Methods</title>
-      <link>/media/spotiflowpub/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <title>Gioele wins the Eppendorf &amp; Science Prize for Neurobiology</title>
+      <link>/post/eppendorf2026/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
       
-      <guid>/media/spotiflowpub/</guid>
-      <description></description>
+      <guid>/post/eppendorf2026/</guid>
+      <description>&lt;p&gt;We are delighted to celebrate &lt;strong&gt;Gioele La Manno&amp;rsquo;s 2026 Eppendorf &amp;amp; Science Prize for Neurobiology&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The prize recognises research on brain lipid diversity, including the &lt;a href=&#34;/post/lipid_brain_atlas/&#34;&gt;Lipid Brain Atlas&lt;/a&gt;. This milestone reflects a sustained collaboration across the lab and with Giovanni D&amp;rsquo;Angelo&amp;rsquo;s group.&lt;/p&gt;
+
+&lt;p&gt;Read Gioele&amp;rsquo;s accompanying essay, &lt;a href=&#34;https://doi.org/10.1126/science.ael6217&#34; target=&#34;_blank&#34;&gt;“Fats that think?”&lt;/a&gt;, in &lt;em&gt;Science&lt;/em&gt;, and the &lt;a href=&#34;https://www.eppendorf.com/nz-en/company-careers/scientific-awards/eppendorf-science-prize-for-neurobiology/all-prize-winners-finalists/2026-prize-winner-dr-gioele-la-manno/&#34; target=&#34;_blank&#34;&gt;official Eppendorf announcement&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thank you to the students, researchers, and collaborators whose work made this possible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Laurine Yue Song</title>
+      <link>/people/laurinesong/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/laurinesong/</guid>
+      <description>&lt;p&gt;Laurine is completing a master&amp;rsquo;s project in the La Manno Lab.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.epfl.ch/labs/nsbl/neurodevelopmental-systems-biology-lab/team/&#34; target=&#34;_blank&#34;&gt;Official EPFL team listing&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marco Fogli</title>
+      <link>/people/marcofogli/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/marcofogli/</guid>
+      <description>&lt;p&gt;Marco is a postdoctoral researcher in the La Manno Lab.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.epfl.ch/labs/nsbl/neurodevelopmental-systems-biology-lab/team/&#34; target=&#34;_blank&#34;&gt;Official EPFL team listing&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mariami Melishvili</title>
+      <link>/people/mariamimelishvili/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/mariamimelishvili/</guid>
+      <description>&lt;p&gt;Mariami is a visiting project student from the University of Groningen.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.epfl.ch/labs/nsbl/neurodevelopmental-systems-biology-lab/team/&#34; target=&#34;_blank&#34;&gt;Official EPFL team listing&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shabnam Zareshahraki</title>
+      <link>/people/shabnamzareshahraki/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/shabnamzareshahraki/</guid>
+      <description>&lt;p&gt;Shabnam contributes to computational research in the La Manno Lab.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.epfl.ch/labs/nsbl/neurodevelopmental-systems-biology-lab/team/&#34; target=&#34;_blank&#34;&gt;Official EPFL team listing&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Silvia Avanzi</title>
+      <link>/people/silviaavanzi/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/silviaavanzi/</guid>
+      <description>&lt;p&gt;Silvia supports the administration and organisation of the La Manno Lab.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.epfl.ch/labs/nsbl/neurodevelopmental-systems-biology-lab/team/&#34; target=&#34;_blank&#34;&gt;Official EPFL team listing&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tecla Duran Fort</title>
+      <link>/people/tecladuranfort/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/tecladuranfort/</guid>
+      <description>&lt;p&gt;Tecla is a project student in the La Manno Lab.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.epfl.ch/labs/nsbl/neurodevelopmental-systems-biology-lab/team/&#34; target=&#34;_blank&#34;&gt;Official EPFL team listing&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thank you and farewell, Francesco!</title>
+      <link>/post/francesco_farewell/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/post/francesco_farewell/</guid>
+      <description>&lt;p&gt;We say goodbye to &lt;a href=&#34;/people/francescodanese/&#34; target=&#34;_blank&#34;&gt;Francesco Danese&lt;/a&gt; and thank him for his time in the La Manno Lab.&lt;/p&gt;
+
+&lt;p&gt;Francesco &lt;a href=&#34;/post/francesco_joins/&#34; target=&#34;_blank&#34;&gt;joined us in August 2025&lt;/a&gt; from Sapienza University of Rome for his master&amp;rsquo;s thesis.&lt;/p&gt;
+
+&lt;p&gt;Working with Luca Fusar Bassini, Francesco contributed to our neuroscience knowledge graph project, helping turn information from the scientific literature into structured knowledge that can support biological research. His work brought together machine learning, data science, and the practical challenges of processing a large collection of scientific papers.&lt;/p&gt;
+
+&lt;p&gt;Thank you, Francesco, for your contribution and collaboration. We wish you all the best for what comes next and look forward to staying in touch!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thank you and farewell, Lothar!</title>
+      <link>/post/lothar_farewell/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lothar_farewell/</guid>
+      <description>&lt;p&gt;We say goodbye to Lothar Bezzon, who &lt;a href=&#34;/post/lothar_joins/&#34; target=&#34;_blank&#34;&gt;joined the lab in November 2025&lt;/a&gt; for his master&amp;rsquo;s thesis research.&lt;/p&gt;
+
+&lt;p&gt;Working with Gioele La Manno and Luca Fusar Bassini, Lothar explored computational approaches to spatial lipidomics, including the use of independent datasets to benchmark models and test their predictions.&lt;/p&gt;
+
+&lt;p&gt;Thank you, Lothar, for your contribution to the lab. It was a pleasure to share this stage of your research with you, and we wish you all the best for your next steps!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thomas van Spaendonk</title>
+      <link>/people/thomasvanspaendonk/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/thomasvanspaendonk/</guid>
+      <description>&lt;p&gt;Thomas is a project student in the La Manno Lab.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.epfl.ch/labs/nsbl/neurodevelopmental-systems-biology-lab/team/&#34; target=&#34;_blank&#34;&gt;Official EPFL team listing&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

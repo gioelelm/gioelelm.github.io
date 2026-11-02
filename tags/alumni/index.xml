@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 03 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/alumni/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Congratulations, PI Toni! A new lab in Granada</title>
+      <link>/post/toni_farewell/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/post/toni_farewell/</guid>
+      <description>Congratulations to Antonio Herrera Camacho on becoming a Principal Investigator at the University of Granada! Supported by a Ramón y Cajal fellowship, Toni is starting his own independent research group. We are proud to celebrate this milestone with him.
+Since joining the La Manno Lab in 2021, Toni has brought his experience in developmental biology to our efforts to understand how the brain forms. His work combined embryo culture, spatial transcriptomics, and single-cell analysis, with a particular interest in how folate deficiency affects brain development.</description>
+    </item>
     
     <item>
       <title>Alumni</title>
@@ -18,7 +28,8 @@
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/people/alumni/</guid>
-      <description>Master Students  img.minion { border: 1px solid #ddd; /*Gray border*/ border-radius: 4px; /*Rounded border*/ padding: 5px; /*Some padding*/ width: 175px; /*Set a small width*/ } /*Add a hover effect (blue shadow)*/ img.minion:hover { box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5); } * { box-sizing: border-box; } /*Create two equal columns that floats next to each other*/ .column { float: left; width: 50%; padding: 10px; height: 220px; /*Should be removed.</description>
+      <description>Former members of the La Manno Lab have gone on to independent research, academic positions, and careers in industry. We also recognise the students whose thesis projects and research visits contributed to the lab.
+ img.minion { border: 1px solid #ddd; /*Gray border*/ border-radius: 4px; /*Rounded border*/ padding: 5px; /*Some padding*/ width: 175px; /*Set a small width*/ } /*Add a hover effect (blue shadow)*/ img.minion:hover { box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.</description>
     </item>
     
   </channel>

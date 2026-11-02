@@ -14,13 +14,14 @@
     
     <item>
       <title>&lt;font size=&#34;5&#34; style=&#34;bold&#34;&gt;&lt;i&gt;What&#39;s new&lt;/i&gt;&lt;/font&gt; &lt;br&gt;
-Lipid Brain Atlas released
+Lipid Brain Atlas in Nature
 </title>
       <link>/home/featured/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/home/featured/</guid>
-      <description>We released the first comprehensive lipidomic atlas of the adult mouse brain! Using high-resolution MALDI mass spectrometry imaging, we mapped 172 membrane lipids across 109 sections and 11 brains, identifying 539 spatially coherent biochemical domains we call &amp;ldquo;lipizones&amp;rdquo;. Read the preprint on bioRxiv.</description>
+      <description>Explore the molecular geography of brain lipids in our Nature paper and interactive atlas.
+Also celebrating: Gioele wins the Eppendorf &amp;amp; Science Prize · Toni becomes a PI in Granada.</description>
     </item>
     
     <item>
@@ -52,7 +53,7 @@ The name of our lab, the Laboratory of Brain Development and Biological Data Sci
     </item>
     
     <item>
-      <title>Latest Posts</title>
+      <title>Lab News</title>
       <link>/home/posts/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
       
@@ -102,7 +103,7 @@ The name of our lab, the Laboratory of Brain Development and Biological Data Sci
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/software/</guid>
-      <description>Below the scientific software we have been working on:</description>
+      <description>Explore our open-source software and interactive research resources:</description>
     </item>
     
   </channel>

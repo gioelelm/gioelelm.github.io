@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/software/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EUCLID</title>
+      <link>/software/euclid/</link>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/software/euclid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lipid Brain Atlas Explorer</title>
+      <link>/software/lbaexplorer/</link>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/software/lbaexplorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MuViT</title>
+      <link>/software/muvit/</link>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/software/muvit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lipiMap</title>
+      <link>/software/lipimap/</link>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/software/lipimap/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spotiflow</title>

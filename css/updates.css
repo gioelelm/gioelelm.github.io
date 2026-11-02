@@ -1,0 +1,10 @@
+/* Keep homepage announcements readable over the atlas animation. */
+#featured, #featured p, #featured strong, #featured .hero-title {
+  color: #fff;
+}
+#featured p { max-width: 780px; line-height: 1.65; }
+#featured a:not(.btn) { color: #fff; text-decoration: underline; }
+#featured .hero-title { margin-top: 12px; }
+
+/* Long names should fit naturally in the team cards. */
+#team .card-text h3 { overflow-wrap: break-word; }

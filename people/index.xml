@@ -7,10 +7,100 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gioele La Manno</title>
+      <link>/people/gioelelamanno/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/people/gioelelamanno/</guid>
+      <description>Bio I earned my PhD at Karolinska Instituet and I am proud alumnus of the Linnarsson Lab. My original training is in Biotechnology (BSc @UNIPA) and Biomedicine (MSc @KI) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.
+My research focuses on understanding brain development. I am particularly interested in describing the sequence of states that embryonic stem cells go through during their differentiation towards mature neurons.</description>
+    </item>
+    
+    <item>
+      <title>Federica Schiavetti</title>
+      <link>/people/federicaschiavetti/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/federicaschiavetti/</guid>
+      <description>Federica joined the lab in March 2026 for a master&amp;rsquo;s valorization project and now works as a member of the technical staff.
+Official EPFL team listing.</description>
+    </item>
+    
+    <item>
+      <title>Laurine Yue Song</title>
+      <link>/people/laurinesong/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/laurinesong/</guid>
+      <description>Laurine is completing a master&amp;rsquo;s project in the La Manno Lab.
+Official EPFL team listing.</description>
+    </item>
+    
+    <item>
+      <title>Marco Fogli</title>
+      <link>/people/marcofogli/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/marcofogli/</guid>
+      <description>Marco is a postdoctoral researcher in the La Manno Lab.
+Official EPFL team listing.</description>
+    </item>
+    
+    <item>
+      <title>Mariami Melishvili</title>
+      <link>/people/mariamimelishvili/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/mariamimelishvili/</guid>
+      <description>Mariami is a visiting project student from the University of Groningen.
+Official EPFL team listing.</description>
+    </item>
+    
+    <item>
+      <title>Shabnam Zareshahraki</title>
+      <link>/people/shabnamzareshahraki/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/shabnamzareshahraki/</guid>
+      <description>Shabnam contributes to computational research in the La Manno Lab.
+Official EPFL team listing.</description>
+    </item>
+    
+    <item>
+      <title>Silvia Avanzi</title>
+      <link>/people/silviaavanzi/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/silviaavanzi/</guid>
+      <description>Silvia supports the administration and organisation of the La Manno Lab.
+Official EPFL team listing.</description>
+    </item>
+    
+    <item>
+      <title>Tecla Duran Fort</title>
+      <link>/people/tecladuranfort/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/tecladuranfort/</guid>
+      <description>Tecla is a project student in the La Manno Lab.
+Official EPFL team listing.</description>
+    </item>
+    
+    <item>
+      <title>Thomas van Spaendonk</title>
+      <link>/people/thomasvanspaendonk/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/thomasvanspaendonk/</guid>
+      <description>Thomas is a project student in the La Manno Lab.
+Official EPFL team listing.</description>
+    </item>
     
     <item>
       <title>Lada Polyakova</title>
@@ -126,7 +216,8 @@
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/people/alumni/</guid>
-      <description>Master Students  img.minion { border: 1px solid #ddd; /*Gray border*/ border-radius: 4px; /*Rounded border*/ padding: 5px; /*Some padding*/ width: 175px; /*Set a small width*/ } /*Add a hover effect (blue shadow)*/ img.minion:hover { box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5); } * { box-sizing: border-box; } /*Create two equal columns that floats next to each other*/ .column { float: left; width: 50%; padding: 10px; height: 220px; /*Should be removed.</description>
+      <description>Former members of the La Manno Lab have gone on to independent research, academic positions, and careers in industry. We also recognise the students whose thesis projects and research visits contributed to the lab.
+ img.minion { border: 1px solid #ddd; /*Gray border*/ border-radius: 4px; /*Rounded border*/ padding: 5px; /*Some padding*/ width: 175px; /*Set a small width*/ } /*Add a hover effect (blue shadow)*/ img.minion:hover { box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.</description>
     </item>
     
     <item>
@@ -137,16 +228,6 @@
       <guid>/people/openposition1/</guid>
       <description>Openings and available projects Postdoctoral and PhD student positions There are no open positions at the moment. Outstanding candidates might still be considered, to enquires please contact me at gioele.lamanno@epfl.ch.
 For Ph.D. students, while direct enquiries are appreciated, to become a Ph.D. student in the lab an official application needs to go through official channels of EPFL-SV doctoral schools: EDNE, EDCB or EDMS. PhD recruitment happens only twice per year, so if interested please keep an eye on the application deadlines.</description>
-    </item>
-    
-    <item>
-      <title>Gioele La Manno</title>
-      <link>/people/gioelelamanno/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/people/gioelelamanno/</guid>
-      <description>Bio I earned my PhD at Karolinska Instituet and I am proud alumnus of the Linnarsson Lab. My original training is in Biotechnology (BSc @UNIPA) and Biomedicine (MSc @KI) but nowadays I will probably turn around if somebody is calling out for a Molecular Biologist, Computational Biologist or Bioinformatician.
-My research focuses on understanding brain development. I am particularly interested in describing the sequence of states that embryonic stem cells go through during their differentiation towards mature neurons.</description>
     </item>
     
   </channel>

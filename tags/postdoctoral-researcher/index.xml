@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Postdoctoral Researcher on Gioele La Manno</title>
+    <link>/tags/postdoctoral-researcher/</link>
+    <description>Recent content in Postdoctoral Researcher on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/postdoctoral-researcher/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Marco Fogli</title>
+      <link>/people/marcofogli/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/people/marcofogli/</guid>
+      <description>Marco is a postdoctoral researcher in the La Manno Lab.
+Official EPFL team listing.</description>
+    </item>
+    
+  </channel>
+</rss>

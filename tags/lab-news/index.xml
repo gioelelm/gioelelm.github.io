@@ -7,10 +7,119 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/lab-news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Congratulations, PI Toni! A new lab in Granada</title>
+      <link>/post/toni_farewell/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/post/toni_farewell/</guid>
+      <description>Congratulations to Antonio Herrera Camacho on becoming a Principal Investigator at the University of Granada! Supported by a Ramón y Cajal fellowship, Toni is starting his own independent research group. We are proud to celebrate this milestone with him.
+Since joining the La Manno Lab in 2021, Toni has brought his experience in developmental biology to our efforts to understand how the brain forms. His work combined embryo culture, spatial transcriptomics, and single-cell analysis, with a particular interest in how folate deficiency affects brain development.</description>
+    </item>
+    
+    <item>
+      <title>Gioele wins the Eppendorf &amp; Science Prize for Neurobiology</title>
+      <link>/post/eppendorf2026/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/post/eppendorf2026/</guid>
+      <description>We are delighted to celebrate Gioele La Manno&amp;rsquo;s 2026 Eppendorf &amp;amp; Science Prize for Neurobiology.
+The prize recognises research on brain lipid diversity, including the Lipid Brain Atlas. This milestone reflects a sustained collaboration across the lab and with Giovanni D&amp;rsquo;Angelo&amp;rsquo;s group.
+Read Gioele&amp;rsquo;s accompanying essay, “Fats that think?”, in Science, and the official Eppendorf announcement.
+Thank you to the students, researchers, and collaborators whose work made this possible.</description>
+    </item>
+    
+    <item>
+      <title>Thank you and farewell, Francesco!</title>
+      <link>/post/francesco_farewell/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/post/francesco_farewell/</guid>
+      <description>We say goodbye to Francesco Danese and thank him for his time in the La Manno Lab.
+Francesco joined us in August 2025 from Sapienza University of Rome for his master&amp;rsquo;s thesis.
+Working with Luca Fusar Bassini, Francesco contributed to our neuroscience knowledge graph project, helping turn information from the scientific literature into structured knowledge that can support biological research. His work brought together machine learning, data science, and the practical challenges of processing a large collection of scientific papers.</description>
+    </item>
+    
+    <item>
+      <title>Thank you and farewell, Lothar!</title>
+      <link>/post/lothar_farewell/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lothar_farewell/</guid>
+      <description>We say goodbye to Lothar Bezzon, who joined the lab in November 2025 for his master&amp;rsquo;s thesis research.
+Working with Gioele La Manno and Luca Fusar Bassini, Lothar explored computational approaches to spatial lipidomics, including the use of independent datasets to benchmark models and test their predictions.
+Thank you, Lothar, for your contribution to the lab. It was a pleasure to share this stage of your research with you, and we wish you all the best for your next steps!</description>
+    </item>
+    
+    <item>
+      <title>Welcome Marco!</title>
+      <link>/post/marco_joins/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/post/marco_joins/</guid>
+      <description>We are happy to welcome Marco Fogli as a postdoctoral researcher in the La Manno Lab.
+Marco joined the team in 2026, bringing a new colleague to our research community at EPFL. We look forward to working together on the questions that drive our lab: how the brain develops and how its molecular diversity is organised.
+Welcome, Marco!</description>
+    </item>
+    
+    <item>
+      <title>Welcome to our 2026 project students!</title>
+      <link>/post/2026_project_students/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2026_project_students/</guid>
+      <description>Research visits and student projects are an important part of life in the La Manno Lab. We welcome our 2026 project students:
+ Tecla Duran Fort Mariami Melishvili Laurine Yue Song Shabnam Zareshahraki Thomas van Spaendonk  We are glad to have you with us and look forward to the ideas and perspectives you bring to the team.</description>
+    </item>
+    
+    <item>
+      <title>Gioele included in the 2026 Stanford/Elsevier top-cited scientists list</title>
+      <link>/post/topcited2026/</link>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/post/topcited2026/</guid>
+      <description>Gioele La Manno is included in the 2026 edition of the Stanford/Elsevier top-cited scientists database, commonly known as the world&amp;rsquo;s top 2% scientists list.
+The entry appears in the single-year citation-impact list, based on citations received during 2025, with EPFL as the affiliation and Developmental Biology as the primary subfield. This recognition reflects the continuing use of the lab&amp;rsquo;s research by the wider scientific community.
+The database was released on 7 October 2026 using an August 2026 Scopus snapshot.</description>
+    </item>
+    
+    <item>
+      <title>MuViT: learning across scales in microscopy</title>
+      <link>/post/muvit_cvpr/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/post/muvit_cvpr/</guid>
+      <description>Congratulations to Albert Dominguez Mantes on MuViT, a CVPR 2026 Highlight paper with Gioele La Manno and Martin Weigert.
+Microscopy images contain information at many scales. MuViT combines observations at different resolutions, helping a model relate fine structures to their wider tissue setting.
+Read the conference paper or explore the open-source code.</description>
+    </item>
+    
+    <item>
+      <title>Welcome Federica!</title>
+      <link>/post/federica_joins/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/post/federica_joins/</guid>
+      <description>We welcome Federica Schiavetti, who joins us for a master&amp;rsquo;s valorization project, working with Toni and Evangelia.
+We look forward to sharing our experimental approaches and working together. Welcome, Federica!
+Update, November 2026: Federica continues in the lab as a member of our technical staff.</description>
+    </item>
+    
+    <item>
+      <title>Lada joins the PhD programme!</title>
+      <link>/post/lada_phd/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lada_phd/</guid>
+      <description>We welcome Lada Polyakova as a PhD student in EPFL&amp;rsquo;s Computational and Quantitative Biology programme (EDCB).
+Lada previously visited the lab in 2024 and now returns for her doctoral research. We are happy to continue working together at the interface of computational biology and brain development.
+Congratulations on this next step, Lada!</description>
+    </item>
     
     <item>
       <title>Antonio Herrera appointed Group Leader</title>

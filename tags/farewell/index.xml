@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Farewell on Gioele La Manno</title>
+    <link>/tags/farewell/</link>
+    <description>Recent content in Farewell on Gioele La Manno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/farewell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thank you and farewell, Francesco!</title>
+      <link>/post/francesco_farewell/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/post/francesco_farewell/</guid>
+      <description>We say goodbye to Francesco Danese and thank him for his time in the La Manno Lab.
+Francesco joined us in August 2025 from Sapienza University of Rome for his master&amp;rsquo;s thesis.
+Working with Luca Fusar Bassini, Francesco contributed to our neuroscience knowledge graph project, helping turn information from the scientific literature into structured knowledge that can support biological research. His work brought together machine learning, data science, and the practical challenges of processing a large collection of scientific papers.</description>
+    </item>
+    
+    <item>
+      <title>Thank you and farewell, Lothar!</title>
+      <link>/post/lothar_farewell/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lothar_farewell/</guid>
+      <description>We say goodbye to Lothar Bezzon, who joined the lab in November 2025 for his master&amp;rsquo;s thesis research.
+Working with Gioele La Manno and Luca Fusar Bassini, Lothar explored computational approaches to spatial lipidomics, including the use of independent datasets to benchmark models and test their predictions.
+Thank you, Lothar, for your contribution to the lab. It was a pleasure to share this stage of your research with you, and we wish you all the best for your next steps!</description>
+    </item>
+    
+  </channel>
+</rss>

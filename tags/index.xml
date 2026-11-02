@@ -22,9 +22,18 @@
     </item>
     
     <item>
+      <title>Administrative Assistant</title>
+      <link>/tags/administrative-assistant/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/administrative-assistant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Alumni</title>
       <link>/tags/alumni/</link>
-      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
       
       <guid>/tags/alumni/</guid>
       <description></description>
@@ -60,7 +69,7 @@
     <item>
       <title>Brain Atlas</title>
       <link>/tags/brain-atlas/</link>
-      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       
       <guid>/tags/brain-atlas/</guid>
       <description></description>
@@ -121,6 +130,15 @@
     </item>
     
     <item>
+      <title>Farewell</title>
+      <link>/tags/farewell/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/farewell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fellowship</title>
       <link>/tags/fellowship/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
@@ -141,7 +159,7 @@
     <item>
       <title>Group Leader</title>
       <link>/tags/group-leader/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/group-leader/</guid>
       <description></description>
@@ -150,7 +168,7 @@
     <item>
       <title>Lipidomics</title>
       <link>/tags/lipidomics/</link>
-      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       
       <guid>/tags/lipidomics/</guid>
       <description></description>
@@ -168,7 +186,7 @@
     <item>
       <title>New member</title>
       <link>/tags/new-member/</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/new-member/</guid>
       <description></description>
@@ -184,9 +202,27 @@
     </item>
     
     <item>
+      <title>Postdoctoral Researcher</title>
+      <link>/tags/postdoctoral-researcher/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/postdoctoral-researcher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Student</title>
+      <link>/tags/project-student/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/project-student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Publication</title>
       <link>/tags/publication/</link>
-      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       
       <guid>/tags/publication/</guid>
       <description></description>
@@ -229,9 +265,18 @@
     </item>
     
     <item>
+      <title>Technical Employee</title>
+      <link>/tags/technical-employee/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/technical-employee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>atlas</title>
       <link>/tags/atlas/</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       
       <guid>/tags/atlas/</guid>
       <description></description>
@@ -240,7 +285,7 @@
     <item>
       <title>awards</title>
       <link>/tags/awards/</link>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
       
       <guid>/tags/awards/</guid>
       <description></description>
@@ -249,7 +294,7 @@
     <item>
       <title>brain</title>
       <link>/tags/brain/</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       
       <guid>/tags/brain/</guid>
       <description></description>
@@ -348,7 +393,7 @@
     <item>
       <title>lab news</title>
       <link>/tags/lab-news/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
       
       <guid>/tags/lab-news/</guid>
       <description></description>
@@ -366,7 +411,7 @@
     <item>
       <title>lipidomics</title>
       <link>/tags/lipidomics/</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       
       <guid>/tags/lipidomics/</guid>
       <description></description>
@@ -396,6 +441,15 @@
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/microscopy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news</title>
+      <link>/tags/news/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/news/</guid>
       <description></description>
     </item>
     
@@ -438,7 +492,7 @@
     <item>
       <title>software</title>
       <link>/tags/software/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       
       <guid>/tags/software/</guid>
       <description></description>
