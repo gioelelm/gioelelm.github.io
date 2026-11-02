@@ -3,8 +3,8 @@ title = "Laurine Yue Song"
 date = "2026-11-02"
 summary = "Project Student"
 summary2 = "La Manno Lab · EPFL"
-image_preview = "people/laurinesong_initials.svg"
-image = "people/laurinesong_initials.svg"
+image_preview = "people/laurinesong_epfl.jpg"
+image = "people/laurinesong_epfl.jpg"
 tags = ["Project Student"]
 math = false
 +++
