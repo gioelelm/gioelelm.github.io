@@ -5,6 +5,10 @@ draft = false
 tags = ["lab news"]
 math = false
 summary = "Albert's MuViT paper is a CVPR 2026 Highlight, bringing together cellular details and tissue context."
+
+[header]
+image = "headers/muvit_cvpr2026.jpg"
+caption = "Discussion at the MuViT poster during CVPR 2026."
 +++
 
 Congratulations to [Albert Dominguez Mantes](/people/albertmantes/) on **MuViT**, a CVPR 2026 Highlight paper with Gioele La Manno and Martin Weigert.
