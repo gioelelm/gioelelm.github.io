@@ -1,6 +1,7 @@
 +++
 title = "Silvia Avanzi"
 date = "2026-11-02"
+joined_sort_date = "2023-05-15" # Confirmed start in correspondence.
 summary = "Administrative Assistant"
 summary2 = "La Manno Lab · EPFL"
 image_preview = "people/silviaavanzi_epfl.jpg"

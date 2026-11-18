@@ -1,0 +1,6 @@
+{{ if .Params.header.image }}
+<div class="article-header">
+  {{ partial "news_banner.html" . }}
+  {{ with .Params.header.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
+</div>
+{{ end }}

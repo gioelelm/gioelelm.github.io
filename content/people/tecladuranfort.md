@@ -1,10 +1,11 @@
 +++
 title = "Tecla Duran Fort"
 date = "2026-11-02"
+joined_sort_date = "2026-08-15" # Provisional calendar start; active by 18 August.
 summary = "Project Student"
 summary2 = "La Manno Lab · EPFL"
-image_preview = "people/tecladuranfort_initials.svg"
-image = "people/tecladuranfort_initials.svg"
+image_preview = "people/tecladuranfort.jpg"
+image = "people/tecladuranfort.jpg"
 tags = ["Project Student"]
 math = false
 +++

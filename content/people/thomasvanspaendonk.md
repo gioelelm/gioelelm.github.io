@@ -1,6 +1,7 @@
 +++
 title = "Thomas van Spaendonk"
 date = "2026-11-02"
+# Joining date not found in posts or correspondence; page date is the sorting fallback.
 summary = "Project Student"
 summary2 = "La Manno Lab · EPFL"
 image_preview = "people/thomasvanspaendonk_initials.svg"

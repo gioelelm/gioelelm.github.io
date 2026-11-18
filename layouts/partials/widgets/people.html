@@ -1,6 +1,24 @@
 {{ $ := .root }}
 {{ $page := .page }}
 
+{{/* Prefer researched joining-order dates; older profiles use their date as a fallback.
+     Navigation cards belong after the current team, not in the chronology. */}}
+{{ $people := where (where $.Site.RegularPages "Type" ($page.Params.folder | default "project")) "Params.alumni" "ne" true }}
+{{ $members := where (where $people "Title" "ne" "Alumni") "Title" "ne" "Open Positions" }}
+{{ $navigation := where $people "Title" "in" (slice "Alumni" "Open Positions") }}
+{{ $ordered := slice }}
+{{ range $members.ByTitle }}
+  {{ $joined := .Params.joined_sort_date | default (.Date.Format "2006-01-02") }}
+  {{ $ordered = $ordered | append (dict "page" . "joined" $joined) }}
+{{ end }}
+{{ $team := slice }}
+{{ range sort $ordered "joined" "asc" }}
+  {{ $team = $team | append .page }}
+{{ end }}
+{{ range $navigation.ByTitle }}
+  {{ $team = $team | append . }}
+{{ end }}
+
 <!-- Projects widget -->
 <div class="row">
   <div class="col-xs-12 col-md-4 section-heading">
@@ -41,7 +59,7 @@
     {{ if eq $page.Params.view 0 }}
 
     <div class="row isotope projects-container js-layout-row">
-        {{ range where (where $.Site.RegularPages "Type" ($page.Params.folder | default "project")) "Params.alumni" "ne" true }}
+        {{ range $team }}
         <div class="col-xs-12 col-sm-6 project-item isotope-item {{ delimit .Params.tags " " }}" itemscope itemtype="http://schema.org/CreativeWork">
           <i class="fa fa-files-o pub-icon" aria-hidden="true"></i>
 
@@ -61,9 +79,9 @@
 
     {{ else }}
 
-    <div class="row isotope projects-container js-layout-masonry">
+    <div class="row isotope projects-container js-layout-row">
 
-      {{ range $project := where (where $.Site.RegularPages "Type" ($page.Params.folder | default "project")) "Params.alumni" "ne" true }}
+      {{ range $project := $team }}
       {{ $.Scratch.Set "project_url" $project.Permalink }}
       {{ $.Scratch.Set "target" "" }}
       {{ if $project.Params.external_link }}
@@ -75,7 +93,7 @@
           {{ with $project.Params.image_preview }}
           <a href="{{ $.Scratch.Get "project_url" }}" title="" class="card-image hover-overlay"
              {{ $.Scratch.Get "target" | safeHTMLAttr }}>
-            <img src="{{ "/img/" | relURL }}{{ . }}" alt="" class="img-responsive">
+            <img src="{{ "/img/" | relURL }}{{ . }}" alt="{{ $project.Title }}" class="img-responsive">
           </a>
           {{ end }}
           <div class="card-text">

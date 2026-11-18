@@ -1,0 +1,11 @@
+{{ $img_src := urls.Parse .Params.header.image }}
+{{ if .Params.header.ribbon }}<div style="position: relative;">{{ end }}
+{{ if $img_src.Scheme }}
+  <img src="{{ .Params.header.image }}" class="article-banner" itemprop="image" alt="{{ .Title }}">
+{{ else }}
+  <img src="{{ "/img/" | relURL }}{{ .Params.header.image }}" class="article-banner" itemprop="image" alt="{{ .Title }}">
+{{ end }}
+{{ with .Params.header.ribbon }}
+  <img src="{{ "/img/" | relURL }}{{ . }}" alt="Clarivate Highly Cited Researcher 2026" style="position: absolute; top: 0; right: 8.75%; width: 17.9167%; height: auto; margin: 0;">
+</div>
+{{ end }}

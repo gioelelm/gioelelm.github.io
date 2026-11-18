@@ -1,6 +1,7 @@
 +++
 title = "Federica Schiavetti"
 date = "2026-11-02"
+joined_sort_date = "2026-03-15" # Start recorded in the lab visitors calendar.
 summary = "Technical Employee"
 summary2 = "La Manno Lab · EPFL"
 image_preview = "people/federicaschiavetti_initials.svg"

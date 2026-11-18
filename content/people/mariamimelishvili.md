@@ -1,6 +1,7 @@
 +++
 title = "Mariami Melishvili"
 date = "2026-11-02"
+joined_sort_date = "2026-10-16" # Start recorded in the visiting-student application.
 summary = "Project Student"
 summary2 = "La Manno Lab · EPFL"
 image_preview = "people/mariamimelishvili_initials.svg"
