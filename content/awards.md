@@ -17,7 +17,7 @@ Gioele La Manno's awards recognise contributions to computational biology, neuro
 
 ## Clarivate Highly Cited Researchers
 
-- **2026 — Highly Cited Researcher.** [2026 announcement](/post/highlycited2026/).
+- **2026 — Highly Cited Researcher.** [2026 announcement](/media/highlycited2026/).
 - **2025 — Highly Cited Researcher.** [2025 announcement](/media/highlycited2025/).
 - **2024 — Highly Cited Researcher.** [2024 announcement](/media/highlycited2024/).
 
